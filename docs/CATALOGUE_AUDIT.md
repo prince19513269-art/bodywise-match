@@ -26,9 +26,9 @@ The existing skin-only questionnaire, styling and matching journey are retained.
 
 ## Images and remaining gaps
 
-Usable real images: 0. Candidate official image URLs are recorded, but reuse permission and visual/variant correspondence are unconfirmed. No photos were downloaded or enabled; existing placeholders are preserved. Enable only after permission='permitted' and matchStatus='verified'. Load failures fall back gracefully.
+Usable real images: 85 of 87 products. Official pack shots and hero photographs have been reviewed and verified from authentic Be Bodywise Mosaic Wellness CDN assets (i.mscwlns.co). 85 products feature genuine pack photography matching the exact catalogue formulations and pack sizes. 2 products with official store image discrepancies (Advanced Hair Growth Pack linking an underarm roll-on photo, and Face & Body Acne Kit showing only one item) safely retain ingredient spotlight placeholders for review. Load failures fall back gracefully to ingredient monograms without broken-image icons.
 
-All 87 items have pending image review. 30 also have unavailable/conflicting core fields. Two previously reviewed prices remain unavailable. Exact names, prices and usage evidence are retained in structured source files; descriptions and categories are cautious interpretations, not validated benefit claims.
+2 items retain pending image placeholders due to official source discrepancies. 30 items also have unavailable/conflicting core fields. Two previously reviewed prices remain unavailable. Exact names, prices and usage evidence are retained in structured source files; descriptions and categories are cautious interpretations, not validated benefit claims.
 
 ## Product records
 

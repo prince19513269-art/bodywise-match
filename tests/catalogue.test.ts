@@ -187,19 +187,31 @@ test("ingredient relationships distinguish derivatives, nutrient salts and unrel
   assert.deepEqual(testStrip.keyIngredients, []);
 });
 test("unapproved image sources never become usable photographs", () => {
-  assert.equal(catalogueStats.usableRealImages, 0);
+  assert.ok(catalogueStats.usableRealImages > 0);
   assert.ok(
     products.every((p) =>
       p.image?.officialSource?.startsWith("https://i.mscwlns.co/"),
     ),
   );
+  const unapproved = products.filter(
+    (p) => p.image?.permission !== "permitted",
+  );
   assert.ok(
-    products.every(
-      (p) => p.image?.src === null && p.image.permission === "pending",
+    unapproved.every(
+      (p) => p.image?.src === null && p.image?.permission === "pending",
     ),
   );
   assert.ok(
-    products.every((p) => p.missing.some((m) => m.includes("permission"))),
+    unapproved.every((p) => p.missing.some((m) => m.includes("permission"))),
+  );
+  const approved = products.filter((p) => p.image?.permission === "permitted");
+  assert.ok(
+    approved.every(
+      (p) =>
+        p.image?.src !== null &&
+        p.image?.matchStatus === "verified" &&
+        !p.missing.some((m) => m.includes("permission")),
+    ),
   );
 });
 test("fragrance and active-percentage conflicts are surfaced", () => {

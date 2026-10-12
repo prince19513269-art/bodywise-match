@@ -14,6 +14,10 @@ import {
   customerPrecautions,
   customerDescription,
 } from "@/lib/product-copy";
+import {
+  AskProductAssistantButton,
+  ProductAssistantCallout,
+} from "@/components/assistant-modal";
 export const dynamicParams = false;
 export function generateStaticParams() {
   return products.map((p) => ({ id: p.id }));
@@ -81,6 +85,10 @@ export default async function ProductDetail({
               </a>
             )}
             <CompareButton product={product} />
+            <AskProductAssistantButton
+              productId={product.id}
+              productName={product.name}
+            />
           </div>
           <p className="small-muted">
             Prices may change. Confirm size and availability at the official
@@ -162,14 +170,6 @@ export default async function ProductDetail({
               the brand, not a guarantee.
             </p>
           </section>
-          <section className="detail-section keep-in-mind">
-            <h2>Things to keep in mind</h2>
-            <ul>
-              {[...customerPrecautions(product), ...notes].map((note) => (
-                <li key={note}>{note}</li>
-              ))}
-            </ul>
-          </section>
           <section className="detail-section product-source">
             {product.source && (
               <ExternalLink href={product.source.url}>
@@ -181,6 +181,20 @@ export default async function ProductDetail({
             </p>
           </section>
         </div>
+      </div>
+      <div className="detail-lower-content">
+        <ProductAssistantCallout
+          productId={product.id}
+          productName={product.name}
+        />
+        <section className="detail-section keep-in-mind">
+          <h2>Things to keep in mind</h2>
+          <ul className="keep-in-mind-list">
+            {[...customerPrecautions(product), ...notes].map((note) => (
+              <li key={note}>{note}</li>
+            ))}
+          </ul>
+        </section>
       </div>
       <CompareTray />
     </div>

@@ -3,6 +3,7 @@ import sources from "./catalogue-sources.json";
 import { catalogueReview } from "./catalogue-review";
 import { catalogueGroups } from "./catalogue-groups";
 import { verifiedIngredientIds } from "./ingredient-evidence";
+import { catalogueImageReviews } from "./catalogue-images";
 
 export const catalogueCheckedOn = "2026-10-12";
 export function formatCheckedOn(date: string | undefined): string {
@@ -125,11 +126,22 @@ export const products: Product[] = catalogueReview.map((review, index) => {
             ...verifiedIngredientIds(keyIngredients, source.ingredientList),
           ]),
         ];
+  const id =
+    review.slug === "1-salicylic-acid-body-wash-100ml"
+      ? "salicylic-body-wash-100"
+      : review.slug;
+  const imgReview = catalogueImageReviews[review.slug] || catalogueImageReviews[id];
+  const isImagePermitted =
+    imgReview?.permission === "permitted" &&
+    imgReview?.matchStatus === "verified";
+  const rawSrc = imgReview?.verifiedSrc || source.imageSource;
+  const imageSrc = isImagePermitted
+    ? rawSrc
+      ? rawSrc.replace(/\?tr=w-\d+/, "?tr=w-800")
+      : null
+    : null;
   return {
-    id:
-      review.slug === "1-salicylic-acid-body-wash-100ml"
-        ? "salicylic-body-wash-100"
-        : review.slug,
+    id,
     formulaKey: review.slug,
     name: source.name,
     category: review.category,
@@ -193,11 +205,11 @@ export const products: Product[] = catalogueReview.map((review, index) => {
           ? "Listed in stock"
           : "Unknown",
     image: {
-      src: null,
+      src: imageSrc,
       officialSource: source.imageSource,
-      permission: "pending",
-      matchStatus: "unreviewed",
-      alt: source.name,
+      permission: isImagePermitted ? "permitted" : "pending",
+      matchStatus: isImagePermitted ? "verified" : "unreviewed",
+      alt: imgReview?.alt || source.name,
     },
     ingredientEvidence: review.ingredients
       ? "Brand description"
@@ -219,7 +231,11 @@ export const products: Product[] = catalogueReview.map((review, index) => {
     fieldGaps,
     missing: [
       ...fieldGaps,
-      "Photo reuse permission and visual/variant correspondence are not confirmed; a placeholder is shown.",
+      ...(!isImagePermitted
+        ? [
+            "Photo reuse permission and visual/variant correspondence are not confirmed; a placeholder is shown.",
+          ]
+        : []),
       "Price and stock are dated snapshots; confirm at the official store.",
     ],
     variants,

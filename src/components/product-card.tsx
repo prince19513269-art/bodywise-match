@@ -10,33 +10,34 @@ export function ProductVisual({ product }: { product: Product }) {
   const [failedSource, setFailedSource] = useState<string | null>(null);
   const image = product.image;
   const usable =
-    image?.src &&
-    image.permission === "permitted" &&
-    image.matchStatus === "verified" &&
+    Boolean(image?.src) &&
+    image?.permission === "permitted" &&
+    image?.matchStatus === "verified" &&
     failedSource !== image.src;
   const ingredient = ingredients.find((i) => i.id === product.ingredientIds[0]);
+
   return (
     <div
-      className={`product-visual ${product.accent}`}
+      className={`product-visual ${usable ? "has-photo" : `fallback ${product.accent}`}`}
       aria-label={
         usable
-          ? undefined
+          ? `${product.name} packaging photograph`
           : "Ingredient illustration; product photo unavailable"
       }
     >
-      <span className="product-category-label">{product.category}</span>
       {usable ? (
-        // Official assets can only be enabled after explicit reuse permission and visual review.
+        // Large full-width official packshot photography
         // eslint-disable-next-line @next/next/no-img-element
         <img
           className="product-photo"
-          src={image.src!}
-          alt={image.alt}
+          src={image!.src!}
+          alt={image!.alt || `${product.name} packaging`}
           loading="lazy"
-          onError={() => setFailedSource(image.src)}
+          onError={() => setFailedSource(image!.src)}
         />
       ) : (
         <>
+          <span className="product-category-label">{product.category}</span>
           <span className="product-monogram">
             {ingredient?.symbol ||
               product.category
@@ -48,11 +49,11 @@ export function ProductVisual({ product }: { product: Product }) {
               {ingredient?.name.toUpperCase() || product.category.toUpperCase()}
             </small>
           </span>
+          <span className="product-visual-footer">
+            INGREDIENT SPOTLIGHT <span>↗</span>
+          </span>
         </>
       )}
-      <span className="product-visual-footer">
-        {usable ? "BE BODYWISE" : "INGREDIENT SPOTLIGHT"} <span>↗</span>
-      </span>
     </div>
   );
 }
@@ -86,7 +87,12 @@ export function ProductCard({
 }) {
   return (
     <article className="product-card">
-      <Link href={`/products/${product.id}`} tabIndex={-1} aria-hidden="true">
+      <Link
+        href={`/products/${product.id}`}
+        className="product-card-visual-link"
+        tabIndex={-1}
+        aria-hidden="true"
+      >
         <ProductVisual product={product} />
       </Link>
       <div className="product-card-body">

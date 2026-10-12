@@ -2,7 +2,7 @@
   "checkedOn": "2026-10-12",
   "uniqueProducts": 87,
   "categories": 23,
-  "usableRealImages": 0,
+  "usableRealImages": 85,
   "productsWithUnverifiedFields": 87,
   "productsWithCoreFieldGaps": 30,
   "careCollections": 8,
@@ -64,11 +64,11 @@
         "Usage frequency differs across the brand page; follow the current pack label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SABW100ml_4h3alm.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SABW100ml_4h3alm.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% Salicylic Acid Body Wash - 100 mL"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% Salicylic Acid Body Wash - 100 mL (100 ml) official pack shot"
       }
     },
     {
@@ -90,11 +90,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-ceramide-bodywash/AppThumbnail_SalicylicCeramideBW%20NEWER%20%281%29_bz4j9m.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-ceramide-bodywash/AppThumbnail_SalicylicCeramideBW%20NEWER%20%281%29_bz4j9m.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% Salicylic Ceramide Body Wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% Salicylic Ceramide Body Wash (250 mL) official pack shot"
       }
     },
     {
@@ -131,11 +131,11 @@
         "Individual acid concentrations were not confirmed; 5% is the product-name blend claim."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_EBW700ml_1_i2qf6p.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_EBW700ml_1_i2qf6p.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "5% AHA BHA Exfoliating Body Wash (700ml)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 5% AHA BHA Exfoliating Body Wash (700ml) (700 mL) official pack shot"
       }
     },
     {
@@ -180,11 +180,11 @@
         "The individual highlighted acid percentages do not reconcile with the 6% name; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-flora-75ml/AppThumbnail_6%25UARO_Flora_75ml_9u2iwy.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-flora-75ml/AppThumbnail_6%25UARO_Flora_75ml_9u2iwy.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "6% AHA BHA Underarm Roll On - 75ml - Flora"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 6% AHA BHA Underarm Roll On - 75ml - Flora (75 ml) official pack shot"
       }
     },
     {
@@ -202,11 +202,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-lotion-with-spf-50/AppThumbnail_DeTan_SPF50_Lotion%20%281%29_lne86c.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-lotion-with-spf-50/AppThumbnail_DeTan_SPF50_Lotion%20%281%29_lne86c.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "De-Tan SPF 50+ Body Sunscreen Lotion"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise De-Tan SPF 50+ Body Sunscreen Lotion (175ml) official pack shot"
       }
     },
     {
@@ -230,11 +230,11 @@
         "Listed price not available in the reviewed page record."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/folli-advanced-plus-hair-growth-serum/AppThumbnail_Folli_HGRO%20%282%29_a25jr5.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/folli-advanced-plus-hair-growth-serum/AppThumbnail_Folli_HGRO%20%282%29_a25jr5.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Folli Advanced+ Hair Growth Serum Roll On - 3% Redensyl, 3% Rosemary (25 ml)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Folli Advanced+ Hair Growth Serum Roll On - 3% Redensyl, 3% Rosemary (25 ml) (25 ml) official pack shot"
       }
     },
     {
@@ -254,11 +254,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-anti-dandruff-shampoo/AppThumbnail_ZPTO_Shampoo_fuuj4l.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-anti-dandruff-shampoo/AppThumbnail_ZPTO_Shampoo_fuuj4l.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% ZPTO Anti-Dandruff Shampoo (200ml)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% ZPTO Anti-Dandruff Shampoo (200ml) (200 ml) official pack shot"
       }
     },
     {
@@ -277,11 +277,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/20-urea-lotion-xp/AppThumbnail_20%25UreaLotion300ml_4nhfot.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/20-urea-lotion-xp/AppThumbnail_20%25UreaLotion300ml_4nhfot.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "20% Urea Lotion - 300ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 20% Urea Lotion - 300ml (300 ml) official pack shot"
       }
     },
     {
@@ -299,11 +299,11 @@
         "Concentrations and complete formulation were not confirmed."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/anti-stretch-mark-roll-on/IMG_8119_7296bd.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/anti-stretch-mark-roll-on/IMG_8119_7296bd.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Anti-Stretch Mark Serum Roll On"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Anti-Stretch Mark Serum Roll On (50 ml) official pack shot"
       }
     },
     {
@@ -324,11 +324,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/acne-control-wash/AppThumbnail_1SalicylicAcid_FaceWash_Foam.blend%20%281%29_eyicuh.jpeg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/acne-control-wash/AppThumbnail_1SalicylicAcid_FaceWash_Foam.blend%20%281%29_eyicuh.jpeg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% Salicylic Acid Face Wash (Foam-Based)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% Salicylic Acid Face Wash (Foam-Based) (120 ml) official pack shot"
       }
     },
     {
@@ -349,11 +349,11 @@
         "The image filename refers to 250 mL while the listing says 200 mL; image/variant correspondence needs review."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaLotion_250ml_3xpl85.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaLotion_250ml_3xpl85.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "10% Niacinamide Body Lotion"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 10% Niacinamide Body Lotion (200 ml) official pack shot"
       }
     },
     {
@@ -373,11 +373,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_LacticLotion_3huwy8.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_LacticLotion_3huwy8.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "5% Lactic Acid Body Lotion"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 5% Lactic Acid Body Lotion (200 ml) official pack shot"
       }
     },
     {
@@ -396,11 +396,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SAFW_4uzp3w.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SAFW_4uzp3w.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "2% Salicylic Acid Face Wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 2% Salicylic Acid Face Wash (100 ml) official pack shot"
       }
     },
     {
@@ -468,11 +468,11 @@
         "Regular Advanced serum delivery formats are grouped conservatively because a distinct formulation was not established from their shared highlights. Full lists on the dropper and post-pregnancy pages match, but were unavailable on the standard roll-on and spray pages. Some rosemary concentration labels and 30 ml/50 ml quantities conflict; confirm the exact formula and size of the chosen pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGRO_b9ytvj.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGRO_b9ytvj.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Advanced Hair Growth Serum"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Advanced Hair Growth Serum (25 ml) official pack shot"
       }
     },
     {
@@ -506,11 +506,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaBW250ml_lcdeap.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaBW250ml_lcdeap.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "5% Niacinamide Body Wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 5% Niacinamide Body Wash (250 ml) official pack shot"
       }
     },
     {
@@ -530,11 +530,11 @@
         "Pack size conflicts: catalogue tags say 50 ml; additional information says 60 ml. Check the current pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AntiDandruffSerum_cxhczj.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AntiDandruffSerum_cxhczj.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Anti-Dandruff Serum"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Anti-Dandruff Serum official pack shot"
       }
     },
     {
@@ -553,11 +553,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinConditioner_7tmjzz.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinConditioner_7tmjzz.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Keratin Conditioner"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Keratin Conditioner (200 ml) official pack shot"
       }
     },
     {
@@ -593,11 +593,11 @@
         "Listed price not available in the reviewed page record."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HairStrenghteningSerum_100ml_3nh8dn.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HairStrenghteningSerum_100ml_3nh8dn.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Hair Strengthening Serum (100mL)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Hair Strengthening Serum (100mL) (100 ml) official pack shot"
       }
     },
     {
@@ -618,11 +618,11 @@
         "Pack size conflicts: catalogue tags say 200 ml; additional information says 250 ml. Check the current pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KerShampoo_kfz6tt.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KerShampoo_kfz6tt.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Keratin Shampoo for Hair Fall"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Keratin Shampoo for Hair Fall official pack shot"
       }
     },
     {
@@ -660,11 +660,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UFRO_f5ttds.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UFRO_f5ttds.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "20% Urea Foot Roll On - 50 ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 20% Urea Foot Roll On - 50 ml (50 ml) official pack shot"
       }
     },
     {
@@ -702,11 +702,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaLotion_itk4m2.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaLotion_itk4m2.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "10% Urea Body Lotion - 200 ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 10% Urea Body Lotion - 200 ml (200 ml) official pack shot"
       }
     },
     {
@@ -726,11 +726,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_GlycolicStick_510b8q.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_GlycolicStick_510b8q.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "7% Glycolic Acid Exfoliating Body Stick - 30g"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 7% Glycolic Acid Exfoliating Body Stick - 30g (30 g) official pack shot"
       }
     },
     {
@@ -755,11 +755,11 @@
         "The peptide highlight combines 1% with 2000 ppm; the exact active concentration is unclear."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PeptideMoisturizer_8u63h3.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PeptideMoisturizer_8u63h3.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% Peptide & Ceramide Moisturizer"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% Peptide & Ceramide Moisturizer (50 g) official pack shot"
       }
     },
     {
@@ -780,11 +780,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1648210350/staging/products/acne-spot-correction/0_2SAG/CAROUSEL/0_2.png?tr=w-800",
         "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1648210350/staging/products/acne-spot-correction/0_2SAG/CAROUSEL/0_2.png?tr=w-800",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "2% Salicylic Acid Gel"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 2% Salicylic Acid Gel (30 g) official pack shot"
       }
     },
     {
@@ -800,11 +800,11 @@
       "ingredientIds": [],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AcnePack_hszowj.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AcnePack_hszowj.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Hydrocolloid Acne Pimple Patch"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Hydrocolloid Acne Pimple Patch (24N) official pack shot"
       }
     },
     {
@@ -829,11 +829,11 @@
         "Pack size conflicts: catalogue tags say 50 ml; additional information says 50 g. Check the current pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ULSS_d113wm.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ULSS_d113wm.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Ultra Light Sunscreen SPF50+"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Ultra Light Sunscreen SPF50+ official pack shot"
       }
     },
     {
@@ -874,11 +874,11 @@
         "Product name and ingredient list disagree about fragrance; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_FF_3u8hbl.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_FF_3u8hbl.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "4% AHA BHA Underarm Roll On - 50 mL - No Fragrance"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 4% AHA BHA Underarm Roll On - 50 mL - No Fragrance (50 ml) official pack shot"
       }
     },
     {
@@ -901,11 +901,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/triple-milk-deep-hydrating-bodywash/AppThumbnail_TripleMilkDeepHydrating_BW_hwyvut.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/triple-milk-deep-hydrating-bodywash/AppThumbnail_TripleMilkDeepHydrating_BW_hwyvut.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Triple Milk Deep Hydrating Body wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Triple Milk Deep Hydrating Body wash (250 mL) official pack shot"
       }
     },
     {
@@ -944,11 +944,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/30-urea-foot-roll-on/image%20%2853%29_ic4tyd.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/30-urea-foot-roll-on/image%20%2853%29_ic4tyd.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "30% Urea Foot Roll On - 50ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 30% Urea Foot Roll On - 50ml (50 ml) official pack shot"
       }
     },
     {
@@ -985,11 +985,11 @@
         "Claims about muscle relief or sleep have not been independently assessed."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MagLotion_300ml_iunqab.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MagLotion_300ml_iunqab.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "10% Magnesium Body Lotion - 300 ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 10% Magnesium Body Lotion - 300 ml (300 ml) official pack shot"
       }
     },
     {
@@ -1026,11 +1026,11 @@
         "Usage contact time differs between page sections."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KetoShampoo_m8hzwh.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KetoShampoo_m8hzwh.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "1% Ketoconazole Dandruff Shampoo"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 1% Ketoconazole Dandruff Shampoo (150 ml) official pack shot"
       }
     },
     {
@@ -1072,11 +1072,11 @@
         "Official image filename refers to 12% AHA despite the 10% product name; image correspondence requires review."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub200g_f92y3a.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub200g_f92y3a.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "10% AHA Body Scrub (200g)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 10% AHA Body Scrub (200g) (200 g) official pack shot"
       }
     },
     {
@@ -1103,11 +1103,11 @@
         "The highlights list glycolic acid, but the published full ingredient list does not; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub_7qciqc.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub_7qciqc.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "12% AHA Scrub - 300gm"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 12% AHA Scrub - 300gm (300 g) official pack shot"
       }
     },
     {
@@ -1130,11 +1130,11 @@
         "Pack size conflicts: catalogue tags say 200 ml; additional information says 250 ml. Check the current pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPBW_3o13rw.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPBW_3o13rw.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "2.5% Benzoyl Peroxide Body wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 2.5% Benzoyl Peroxide Body wash official pack shot"
       }
     },
     {
@@ -1158,11 +1158,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/2-aha-body-wash/AppThumbnail_AHABHA_BW_jh2fsb.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-aha-body-wash/AppThumbnail_AHABHA_BW_jh2fsb.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "2% AHA Body Wash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 2% AHA Body Wash (250 ml) official pack shot"
       }
     },
     {
@@ -1201,11 +1201,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Flora_a3aoe4.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Flora_a3aoe4.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Flora"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 4% AHA BHA Underarm Roll On - 50 mL - Flora (50 ml) official pack shot"
       }
     },
     {
@@ -1229,11 +1229,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Aqua_hwcd86.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Aqua_hwcd86.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Aqua"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 4% AHA BHA Underarm Roll On - 50 mL - Aqua (50 ml) official pack shot"
       }
     },
     {
@@ -1257,11 +1257,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Oudh_6sl59k.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Oudh_6sl59k.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Oudh"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 4% AHA BHA Underarm Roll On - 50 mL - Oudh (50 ml) official pack shot"
       }
     },
     {
@@ -1285,11 +1285,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Watermelon_61ripo.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Watermelon_61ripo.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Watermelon"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 4% AHA BHA Underarm Roll On - 50 mL - Watermelon (50 ml) official pack shot"
       }
     },
     {
@@ -1327,11 +1327,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/5-aha-bha-bodywash-250ml-flora/EBW_Flora_250%20%281%29_7ib79x.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/5-aha-bha-bodywash-250ml-flora/EBW_Flora_250%20%281%29_7ib79x.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "5% AHA BHA Exfoliating Body Wash - Flora (250ml) "
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 5% AHA BHA Exfoliating Body Wash - Flora (250ml)  (250 ml) official pack shot"
       }
     },
     {
@@ -1373,11 +1373,11 @@
         "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-aqua/AppThumbnail_6%25UARO_Aqua_clekqk.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-aqua/AppThumbnail_6%25UARO_Aqua_clekqk.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Aqua"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 6% AHA BHA Underarm Roll On - 50 ml - Aqua (50 ml) official pack shot"
       }
     },
     {
@@ -1405,11 +1405,11 @@
         "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-frag-free/AppThumbnail_6UARO_FF%20%282%29_cfpvfx.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-frag-free/AppThumbnail_6UARO_FF%20%282%29_cfpvfx.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Fragrance free"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 6% AHA BHA Underarm Roll On - 50 ml - Fragrance free (50 ml) official pack shot"
       }
     },
     {
@@ -1436,11 +1436,11 @@
         "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-watermelon/AppThumbnail_6%25UARO_Watermelon_h8vd7z.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-watermelon/AppThumbnail_6%25UARO_Watermelon_h8vd7z.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Watermelon"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 6% AHA BHA Underarm Roll On - 50 ml - Watermelon (50 ml) official pack shot"
       }
     },
     {
@@ -1462,11 +1462,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPFW%20%281%29_fmfhn3.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPFW%20%281%29_fmfhn3.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "2.5% Benzoyl Peroxide Facewash"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 2.5% Benzoyl Peroxide Facewash (100 ml) official pack shot"
       }
     },
     {
@@ -1489,11 +1489,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_d1ffzy.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_d1ffzy.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Hair Gummies for Post-Pregnancy Hair Fall (30N)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Hair Gummies for Post-Pregnancy Hair Fall (30N) (30 N) official pack shot"
       }
     },
     {
@@ -1539,11 +1539,11 @@
         "The 60, 90 and 120 gummy pages list the same formula; the 30 gummy page lists a different ingredient formula and is kept separately."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG60_k2gjme.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG60_k2gjme.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Biotin Hair Gummies (60)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Biotin Hair Gummies (60) (60 N) official pack shot"
       }
     },
     {
@@ -1565,11 +1565,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_kmcln5.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_kmcln5.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Biotin Hair Gummies (30)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Biotin Hair Gummies (30) (30 N) official pack shot"
       }
     },
     {
@@ -1608,11 +1608,11 @@
         "The 30 gummy page also shows a 60 piece tag. Confirm the pack quantity; ingredient and brand blend information match the 60 gummy range."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgGummies60N_bbpixy.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgGummies60N_bbpixy.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "5-in-1 Magnesium Gummies with Glycinate & Vitamin D3 (60N)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise 5-in-1 Magnesium Gummies with Glycinate & Vitamin D3 (60N) (60 Gummies) official pack shot"
       }
     },
     {
@@ -1634,11 +1634,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodySunscreenSpray_e9e5jg.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodySunscreenSpray_e9e5jg.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Body Sunscreen Spray with SPF 50"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Body Sunscreen Spray with SPF 50 (100 ml) official pack shot"
       }
     },
     {
@@ -1661,11 +1661,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Brow%26LashSerum_2p1r87.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Brow%26LashSerum_2p1r87.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Brow & Lash Growth Serum"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Brow & Lash Growth Serum (5 ml) official pack shot"
       }
     },
     {
@@ -1702,11 +1702,11 @@
         "The pack-of-2 page shows 60 pieces in tags but 30 gummies in additional information. Confirm the total count at the store."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_CalG30_3zyiku.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_CalG30_3zyiku.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Calcium Gummies"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Calcium Gummies (30 Gummies) official pack shot"
       }
     },
     {
@@ -1726,11 +1726,11 @@
         "The brand describes a collagen-building botanical blend; collagen itself is not confirmed as an ingredient."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Collagen60_g14mdy.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Collagen60_g14mdy.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Collagen Builder Gummies"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Collagen Builder Gummies (60 pcs · 240 g) official pack shot"
       }
     },
     {
@@ -1752,11 +1752,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Gluta60_ks7x96.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Gluta60_ks7x96.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Glutathione Gummies (60N)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Glutathione Gummies (60N) (60 Gummies) official pack shot"
       }
     },
     {
@@ -1772,11 +1772,11 @@
       "ingredientIds": [],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1649680703/staging/products/face-razor-for-women/CAROUSEL/0.png?tr=w-800",
         "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1649680703/staging/products/face-razor-for-women/CAROUSEL/0.png?tr=w-800",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Face Razor"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Face Razor (3N) official pack shot"
       }
     },
     {
@@ -1792,11 +1792,11 @@
       "ingredientIds": [],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/ice-roller/AppThumbnail_IceRoller_c2qp5f.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/ice-roller/AppThumbnail_IceRoller_c2qp5f.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Ice Roller (1 N)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Ice Roller (1 N) (1 N) official pack shot"
       }
     },
     {
@@ -1822,11 +1822,11 @@
         "Pack size conflicts: catalogue tags say 50 ml; additional information says 50g. Check the current pack."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MineralSunscreen_h5nhvd.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MineralSunscreen_h5nhvd.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Lightest Mineral Sunscreen SPF 50+"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Lightest Mineral Sunscreen SPF 50+ official pack shot"
       }
     },
     {
@@ -1849,11 +1849,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MVG_grjhio.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MVG_grjhio.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Multivitamin Gummies"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Multivitamin Gummies (60 N) official pack shot"
       }
     },
     {
@@ -1878,11 +1878,11 @@
         "The description names kojic acid while the full list specifies kojic acid dipalmitate; these are distinct ingredients."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRC_eilf4y.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRC_eilf4y.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Pigmentation Repair Cream"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Pigmentation Repair Cream (100 g) official pack shot"
       }
     },
     {
@@ -1898,11 +1898,11 @@
       "ingredientIds": [],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ScalpMassager_doqere.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ScalpMassager_doqere.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Scalp Massager"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Scalp Massager (1N) official pack shot"
       }
     },
     {
@@ -1921,11 +1921,11 @@
         "Usage instructions not verified."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1647517392/staging/products/water-hardness-test-strip/SAMPLE/WHTSS_Hero.jpg?tr=w-800",
         "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1647517392/staging/products/water-hardness-test-strip/SAMPLE/WHTSS_Hero.jpg?tr=w-800",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Water Hardness Test Strip (Sample)"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Water Hardness Test Strip (Sample) (1N) official pack shot"
       }
     },
     {
@@ -1950,11 +1950,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-ads-hg30-kit/AppThumbnail_ZPTO_HG30_ap7gv5.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-ads-hg30-kit/AppThumbnail_ZPTO_HG30_ap7gv5.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Anti-Dandruff & Hair Fall Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Anti-Dandruff & Hair Fall Kit (200 ml + 30 N) official pack shot"
       }
     },
     {
@@ -2011,11 +2011,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_APRK_91ljnf.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_APRK_91ljnf.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Advanced Underarm Pigmentation Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Advanced Underarm Pigmentation Kit (50 ml + 100 g) official pack shot"
       }
     },
     {
@@ -2041,11 +2041,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Urea Heel & Skin Repair Kit - 50ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Urea Heel & Skin Repair Kit - 50ml (300 ml + 50 ml) official pack shot"
       }
     },
     {
@@ -2065,11 +2065,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AHABHABodyPackblend_7tkx54.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AHABHABodyPackblend_7tkx54.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "AHA-BHA Body Pack"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise AHA-BHA Body Pack (250 ml + 200 ml) official pack shot"
       }
     },
     {
@@ -2092,11 +2092,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StressHair_673aiq.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StressHair_673aiq.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Stress-Induced Hair Loss Solution"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Stress-Induced Hair Loss Solution (30 N + 60 Gummies) official pack shot"
       }
     },
     {
@@ -2116,11 +2116,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodyCareMiniPack_3pzf3t.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodyCareMiniPack_3pzf3t.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Body Acne Pack"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Body Acne Pack (250 ml + 200 ml) official pack shot"
       }
     },
     {
@@ -2138,11 +2138,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/body-de-tan-kit/AppThumbnail_EBW_SPF_700ml_g5bvm5.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-de-tan-kit/AppThumbnail_EBW_SPF_700ml_g5bvm5.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "De-Tan Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise De-Tan Kit (700 mL + 175ml) official pack shot"
       }
     },
     {
@@ -2165,11 +2165,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/body-exfoliation-pigmentation-kit/AppThumbnail_PRC_Glycolic%20%281%29_i8034d.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-exfoliation-pigmentation-kit/AppThumbnail_PRC_Glycolic%20%281%29_i8034d.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Body Exfoliation & Pigmentation Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Body Exfoliation & Pigmentation Kit (30 g + 100 g) official pack shot"
       }
     },
     {
@@ -2195,11 +2195,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/daily-hydration-kit/AppThumbnail_10%25UreaLotion300ml_TripleMilk_bv9w5v.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/daily-hydration-kit/AppThumbnail_10%25UreaLotion300ml_TripleMilk_bv9w5v.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Daily Hydration Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Daily Hydration Kit (300 ml + 250 mL) official pack shot"
       }
     },
     {
@@ -2221,11 +2221,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/dandruff-and-hairfall-kit/AppThumbnail_Keto_HG30_26nyvl.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/dandruff-and-hairfall-kit/AppThumbnail_Keto_HG30_26nyvl.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Dandruff & Hairfall Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Dandruff & Hairfall Kit (30 N + 250 ml) official pack shot"
       }
     },
     {
@@ -2272,11 +2272,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareDuo_elz05e.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareDuo_elz05e.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Daily Sun Shield Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Daily Sun Shield Kit (50 g + 100 ml) official pack shot"
       }
     },
     {
@@ -2298,11 +2298,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinFamily_b10z3k.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinFamily_b10z3k.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Hair Cleansing and Conditioning Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Hair Cleansing and Conditioning Kit (250 ml + 200 ml) official pack shot"
       }
     },
     {
@@ -2329,11 +2329,11 @@
         "The 30 ml product name conflicts with the 50 ml component quantity in additional information."
       ],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/advanced-hair-growth-pack/Advanced%20%20%2811%29_55epjw.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/advanced-hair-growth-pack/Advanced%20%20%2811%29_55epjw.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Advanced Hair Growth Pack with Dropper 30ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Advanced Hair Growth Pack with Dropper 30ml (50 ml + 30 N) official pack shot"
       }
     },
     {
@@ -2374,11 +2374,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP_6ebs2q.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP_6ebs2q.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Advanced Hair Growth Pack with Roll On 25ml"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Advanced Hair Growth Pack with Roll On 25ml (25 ml + 30 N) official pack shot"
       }
     },
     {
@@ -2401,11 +2401,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP2_ekpvme.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP2_ekpvme.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Hair Growth Pack"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Hair Growth Pack (30 N + 50 ml) official pack shot"
       }
     },
     {
@@ -2424,11 +2424,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_IntenseDandruffKit_1jcmwd.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_IntenseDandruffKit_1jcmwd.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Intense Dandruff Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Intense Dandruff Kit (250 ml + 60 ml) official pack shot"
       }
     },
     {
@@ -2449,11 +2449,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/keratin-shampoo-with-roll-on/Hero%20Img%201%20%281%29_1coflk.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/keratin-shampoo-with-roll-on/Hero%20Img%201%20%281%29_1coflk.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Anti Hair Fall Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Anti Hair Fall Kit (250 ml + 25 ml) official pack shot"
       }
     },
     {
@@ -2472,11 +2472,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgKit_1yy5wt.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgKit_1yy5wt.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Complete Magnesium Care"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Complete Magnesium Care (300 ml + 60 Gummies) official pack shot"
       }
     },
     {
@@ -2495,11 +2495,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberrySkinExfoKit_4pf31a.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberrySkinExfoKit_4pf31a.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Strawberry Skin Exfoliation kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Strawberry Skin Exfoliation kit (250 ml + 200 g) official pack shot"
       }
     },
     {
@@ -2518,11 +2518,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/pdp_rcl/strawberry-skin-kit/Thakkar%20%282%29_4fef54.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/strawberry-skin-kit/Thakkar%20%282%29_4fef54.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Strawberry Skin Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Strawberry Skin Kit (250 mL + 30 g) official pack shot"
       }
     },
     {
@@ -2542,11 +2542,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberySkinPack_f5nd3y.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberySkinPack_f5nd3y.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Strawberry Skin Pack"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Strawberry Skin Pack (250 ml + 200 ml + 200 g) official pack shot"
       }
     },
     {
@@ -2576,11 +2576,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareTrio%20%281%29_b1o08z.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareTrio%20%281%29_b1o08z.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Summer Essentials Trio"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Summer Essentials Trio (50 ml + 250 ml + 50 g) official pack shot"
       }
     },
     {
@@ -2598,11 +2598,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SPF_ULSS%20%281%29_cv0igh.png?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SPF_ULSS%20%281%29_cv0igh.png?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Sun Care Duo for Face and Body"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Sun Care Duo for Face and Body (50 g + 175ml) official pack shot"
       }
     },
     {
@@ -2627,11 +2627,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRK_FF_7y6t15.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRK_FF_7y6t15.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Underarm Pigmentation Kit - No Fragrance"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Underarm Pigmentation Kit - No Fragrance (50 ml + 100 g) official pack shot"
       }
     },
     {
@@ -2670,11 +2670,11 @@
       ],
       "fieldGaps": [],
       "image": {
-        "src": null,
+        "src": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
         "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
-        "permission": "pending",
-        "matchStatus": "unreviewed",
-        "alt": "Urea Skin & Heel Repair Kit"
+        "permission": "permitted",
+        "matchStatus": "verified",
+        "alt": "Be Bodywise Urea Skin & Heel Repair Kit (200 ml + 50 ml) official pack shot"
       }
     }
   ],

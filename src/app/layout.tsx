@@ -1,6 +1,10 @@
 import type { Metadata } from "next";
 import { Providers } from "@/components/providers";
 import { Navigation, Footer } from "@/components/shell";
+import {
+  AssistantModal,
+  AssistantLauncherButton,
+} from "@/components/assistant-modal";
 import "./globals.css";
 export const metadata: Metadata = {
   title: {
@@ -23,6 +27,8 @@ export default function RootLayout({
           <Navigation />
           <main id="main">{children}</main>
           <Footer />
+          <AssistantModal />
+          <AssistantLauncherButton />
         </Providers>
       </body>
     </html>

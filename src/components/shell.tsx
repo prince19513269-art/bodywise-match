@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ArrowUpRight, ArrowRight, Menu, X, ScanLine } from "lucide-react";
+import { ArrowUpRight, ArrowRight, Menu, X, ScanLine, Sparkles } from "lucide-react";
 import { useState } from "react";
 import { useApp } from "./providers";
 export function Logo() {
@@ -20,7 +20,7 @@ export function Logo() {
 export function Navigation() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const { comparison } = useApp();
+  const { comparison, openAssistant } = useApp();
   const links = [
     ["/products", "Discover products"],
     ["/ingredients", "Ingredient library"],
@@ -48,9 +48,19 @@ export function Navigation() {
               </Link>
             ))}
           </div>
-          <Link href="/discover" className="button nav-cta">
-            Find My Match <ArrowUpRight size={17} />
-          </Link>
+          <div className="nav-actions">
+            <button
+              type="button"
+              className="button button-secondary nav-assistant-btn"
+              onClick={() => openAssistant()}
+              aria-label="Ask Bodywise Match AI Assistant"
+            >
+              <Sparkles size={15} /> Ask AI
+            </button>
+            <Link href="/discover" className="button nav-cta">
+              Find My Match <ArrowUpRight size={17} />
+            </Link>
+          </div>
           <button
             className="icon-button mobile-toggle"
             aria-label={open ? "Close menu" : "Open menu"}
@@ -68,6 +78,17 @@ export function Navigation() {
                 {label}
               </Link>
             ))}
+            <button
+              type="button"
+              className="button button-secondary"
+              style={{ width: "100%", justifyContent: "center", gap: "8px", minHeight: "44px" }}
+              onClick={() => {
+                setOpen(false);
+                openAssistant();
+              }}
+            >
+              <Sparkles size={15} /> Ask AI Assistant
+            </button>
             <Link href="/discover" onClick={() => setOpen(false)}>
               Find My Match <ArrowRight size={16} />
             </Link>
