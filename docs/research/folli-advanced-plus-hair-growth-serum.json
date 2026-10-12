@@ -1,0 +1,182 @@
+{
+  "url": "https://bebodywise.com/product/folli-advanced-plus-hair-growth-serum",
+  "finalUrl": "https://bebodywise.com/product/folli-advanced-plus-hair-growth-serum",
+  "checkedOn": "2026-10-12",
+  "name": "Folli Advanced+ Hair Growth Serum Roll On - 3% Redensyl, 3% Rosemary (25 ml)",
+  "subtitle": "For Advanced Hair Thinning & Improved Hair Volume",
+  "concern": "For hair growth",
+  "productFor": "Hair Thinning",
+  "category": "hair",
+  "price": null,
+  "sizeTags": [
+    "25 ml"
+  ],
+  "keyIngredients": [
+    "3% Rosemary",
+    "3% Redensyl",
+    "2% Aminexil",
+    "2% Anagain"
+  ],
+  "usageInstructions": [
+    "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+  ],
+  "description": "8 out of 10 women experience hair fall with visible thinning. If you’re noticing persistent hair fall, a widening partition, or reduced hair density, you need a solution that works deeper at the follicle level - not just on the surface. India’s 1st Hair Growth Roll-On with Spicule Delivery ● 38% hair growth actives with clinically studied ingredients ● Advanced spicule delivery for deeper scalp absorption ● Suitable for women aged 18 years and above ❌Not a quick fix - visible results need consistent use over 3 months",
+  "usage": "Step 1: Roll on the serum on affected areas for 2 mins twice daily Step 2: For visible results follow the routine 3 months Leave overnight for best results. ✅Do this twice daily, consistently for 3 months. Since it is a leave-in serum, it does not need to be washed off after application, or the next day. Its Non-Oily formula makes for effortless everyday application. You can use it along with other hair oils, shampoos, serums and any other hair supplements.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/folli-advanced-plus-hair-growth-serum/AppThumbnail_Folli_HGRO%20%282%29_a25jr5.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/folli-advanced-plus-hair-growth-serum/Hero%20%282%29_9ow14r.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "3% Rosemary"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Redensyl"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "2% Aminexil"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "2% Anagain"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "25 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "3% Rosemary, 3% Redensyl, 2% Aminexil, 2% Anagain"
+    }
+  ]
+}

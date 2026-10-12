@@ -1,0 +1,403 @@
+{
+  "url": "https://bebodywise.com/product/niacinamide-body-lotion",
+  "finalUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
+  "checkedOn": "2026-10-12",
+  "name": "10% Niacinamide Body Lotion",
+  "subtitle": "FOR : Nourishing & protecting skin",
+  "concern": "For nourishing & protecting skin",
+  "productFor": "Reducing acne marks ",
+  "category": "body",
+  "price": 399,
+  "sizeTags": [
+    "200 ml"
+  ],
+  "keyIngredients": [
+    "10% Niacinamide",
+    "Aloe Vera Extract"
+  ],
+  "usageInstructions": [
+    "After bathing, take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+  ],
+  "description": "▶ Repairs moisture barrier: Niacinamide & aloe assist in keeping the natural barrier of the skin healthy & repairing compromised barrier ▶ Reduces acne marks & blemishes: 10% Niacinamide suppresses melanin transfer to reduce the appearance of marks gradually ▶ Nourishes skin: Made with a combination of different emollients & humectants, this lotion keeps the skin supple and healthy Suitable for all skin types Patch test is recommended Use everyday after shower for the best results ⚠️Always follow it up with a broad-spectrum sunscreen during the day to avoid sun damage. 200 ml | Can be used for 2 months",
+  "usage": "Step 1 : After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaLotion_250ml_3xpl85.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/niacinamide-body-lotion/IntroPage_gmnyoo.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "Salicylic Acid (BHA)"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_unit.1",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "Ketoconazole"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "Use twice a week. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.1",
+      "text": "Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Weekly- Twice"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.1",
+      "text": "Weekly- Thrice"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.doc_ingredients.0",
+      "text": "Biotin, multivitamins, zinc"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "Zinc & Multivitamins"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.2",
+      "text": "Chicory Root"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "Eat 1 gummy daily after a meal."
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "30 Gummies"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.attributes.key_ingredients",
+      "text": "biotin"
+    },
+    {
+      "path": "widgets.4",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.0",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_instructions.0",
+      "text": "After bathing, take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.5",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "STATS_TILES_WITH_DESCRIPTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "KEY_METRIC_DISPLAY",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing",
+        "borderRadius"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.11",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.11.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.11.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.11.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.11.widgetData.products.0.netQuantity",
+      "text": "200 ml"
+    },
+    {
+      "path": "widgets.11.widgetData.products.0.ingredients",
+      "text": "10% Niacinamide, Aloe Vera Extract"
+    }
+  ]
+}

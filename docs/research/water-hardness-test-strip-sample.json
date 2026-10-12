@@ -1,0 +1,374 @@
+{
+  "url": "https://bebodywise.com/product/water-hardness-test-strip-sample",
+  "finalUrl": "https://bebodywise.com/product/water-hardness-test-strip-sample",
+  "checkedOn": "2026-10-12",
+  "name": "Water Hardness Test Strip (Sample)",
+  "productId": "233",
+  "subtitle": "Hard Water Testing Trip for Healthier Hair",
+  "productFor": "Softening Hard Water",
+  "category": "hair",
+  "price": 99,
+  "sizeTags": [],
+  "keyIngredients": [
+    "Chelating Agents"
+  ],
+  "usageInstructions": [
+    "Add 25 ml of softener to one bucket (15-20 litre) of water. Once dissolved, use the water to wash your hair."
+  ],
+  "description": "Why is hard water bad for hair? ▶ Causes scalp buildup making it difficult for hair products to be completely efficient ▶ Makes hair dry, dull and more prone to hairfall How Does the Chelate Water Softener Help? ▶ Turns hard water into soft water ▶Prevents scalp buildup ▶Reduces hairfall caused by hard water ▶Improves efficiency and absorption of hair products ▶Improves hair texture You should start noticing changes in your hair health in 2 months. Water Hardness Test Strip - 1 N",
+  "usage": "Step 1 : Shake well before use. Step 2 : Add 25 ml of softener to one bucket (15-20 litre) of water. Step 3 : Once dissolved, use the water to wash your hair.",
+  "imageSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1647517392/staging/products/water-hardness-test-strip/SAMPLE/WHTSS_Hero.jpg?tr=w-800",
+  "heroSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1647517392/staging/products/water-hardness-test-strip/SAMPLE/WHTSS_Hero.jpg?tr=w-800",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "Use Chelate Water Softener after diluting with water. Avoid direct contact with of water softener with eye, it is safe to use after dilution. Keep out of reach of children.<br /><b>Ingredient Names </b><br /><span>Proprietary Chelating agents</span><br /><b>Formulated Without </b><br /><span>Fragrances, Paraben, Preservatives, Sls</span>"
+        },
+        {
+          "title": "How to Use this Chelate Water Softener?",
+          "content": "Use Chelate Water Softener after diluting with water. Avoid direct contact with of water softener with eye, it is safe to use after dilution. Keep out of reach of children.<br /><b>Step 1 </b><br /><span>Shake well before use.</span><br /><b>Step 2 </b><br /><span>Add 25 ml of softener to one bucket (15-20 litre) of water.</span><br /><b>Step 3 </b><br /><span>Once dissolved, use the water to wash your hair.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Use Chelate Water Softener after diluting with water. Avoid direct contact with of water softener with eye, it is safe to use after dilution. Keep out of reach of children.<br /><b>Ingredient Names </b><br /><span>Proprietary Chelating agents</span><br /><b>Formulated Without </b><br /><span>Fragrances, Paraben, Preservatives, Sls</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Is it OK to drink water from a water softener?",
+          "content": "We wouldn't recommend drinking water mixed with a water softener."
+        },
+        {
+          "title": "What are the pros and cons of a water softener?",
+          "content": "The pros of using a water softener:<br/>1. It doesn't cause scalp buildup<br/>2. Neutralises the water<br/>3. Improves efficacy of hair products<br/><br/>There are no known cons of using a water softener for hair or skin health"
+        },
+        {
+          "title": "Why is soft water slippery?",
+          "content": "The chelating agents in the soft water bind with magnesium and calcium ions with sodium ions resulting in the soft water being loaded with salt. This is what makes the water feel slimy."
+        },
+        {
+          "title": "Why is hard water bad for you?",
+          "content": "Hard Water disturbs the pH of your skin and hair, weakening it as a barrier against harmful bacteria and infections. The minerals in the hard water build a film-like layer on your scalp, causing buildup which leads to poor air health. It  also reduces product efficacy "
+        },
+        {
+          "title": "Is distilled water the same as soft water?",
+          "content": "Distilled water has all the minerals and impurities eliminated, while soft water binds with magnesium and calcium, removes it and replaces it with salt."
+        },
+        {
+          "title": "Do you need a water softener if you have hard water?",
+          "content": "Yes. Hard Water disturbs the pH balance of your scalp, causing more problems; apart from that, it leads to a layer of calcium and magnesium which degrades product efficacy."
+        },
+        {
+          "title": "How do you convert hard water to soft water at home for bathing?",
+          "content": "We would recommend mixing 25 ml of Bodywise Chelate Water Softener. Please wait for it to mix and then use the bathing water."
+        },
+        {
+          "title": "How can I stop my hair fall from hard water?",
+          "content": "We would recommend mixing 25 ml of Bodywise Chelate Water Softener. Please wait for it to mix, and then use the bathing water."
+        },
+        {
+          "title": "Can hard water cause an itchy scalp?",
+          "content": "Hard Water leads to a buildup on the scalp and can cause the scalp to itch."
+        },
+        {
+          "title": "Will hair grow back after hard water?",
+          "content": "Losing hair due to hard water is a reversible condition. We'd suggest eliminating the use of hard water by mixing Bodywise Chelate Water Softener."
+        },
+        {
+          "title": "What is chelation water treatment?",
+          "content": "Chelating water treatment is a process where chelating agents bind with ions that cause hardness. This results in hard water going soft."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.doc_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "Use daily. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.1",
+      "text": "Use alternate days. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "Argan Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "Use daily. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.1",
+      "text": "Use alternate days. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.4",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.0",
+      "text": "Chelating Agents"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_instructions.0",
+      "text": "Add 25 ml of softener to one bucket (15-20 litre) of water. Once dissolved, use the water to wash your hair."
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Once"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_unit.0",
+      "text": "1 Strip"
+    },
+    {
+      "path": "widgets.5",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.9.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.9.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.9.widgetData.products.0.netQuantity",
+      "text": "1N"
+    },
+    {
+      "path": "widgets.9.widgetData.products.0.ingredients",
+      "text": "Chelating Agents"
+    }
+  ]
+}

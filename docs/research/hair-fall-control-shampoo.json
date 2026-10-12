@@ -1,0 +1,303 @@
+{
+  "url": "https://bebodywise.com/product/hair-fall-control-shampoo",
+  "finalUrl": "https://bebodywise.com/product/hair-fall-control-shampoo",
+  "checkedOn": "2026-10-12",
+  "name": "Keratin Shampoo for Hair Fall",
+  "subtitle": "Sulphate Free Shampoo for Hair Fall Clinically Tested",
+  "productFor": "Dry & Frizzy Hair",
+  "category": "hair",
+  "price": 399,
+  "sizeTags": [
+    "200 ml"
+  ],
+  "keyIngredients": [
+    "Keratin",
+    "Biotin"
+  ],
+  "usageInstructions": [
+    "Use daily. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water.",
+    "Use alternate days. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+  ],
+  "description": "Be Bodywise shampoo is enriched with keratin, biotin, caffeine & other nutrients, carefully developed to make your hair stronger, healthier & hair fall resistant ▶ Cleanses scalp by removing dirt, sebum & buildup ▶Prevents hair fall by improving hair folicle health ▶Makes hair thick, glossy & less frizzy For best results, use for at least 3 months Use Be Bodywise Deep Moisturizing Conditioner to enhance the results 📱 Download the Be Bodywise app & save upto 30% using the app wallet!",
+  "usage": "Step 1 : For nurturing your hair, apply Bodywise Hair Growth Oil once a week before a hair wash. Step 2 : Gently massage 2.5 teaspoons of Keratin Shampoo on wet hair and scalp with your fingertips to work into a lather. Step 3 : Rinse thoroughly, and follow it up with Be Bodywise's Keratin Conditioner.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KerShampoo_kfz6tt.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/hair-fall-control-shampoo/IntroPage_lh0mnp.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "PRODUCT_REVIEW_CARD",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.doc_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.key_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.key_ingredients.1",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_instructions.0",
+      "text": "Use daily. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_instructions.1",
+      "text": "Use alternate days. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.6",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "STATS_TILES_WITH_DESCRIPTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.11",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.11.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.11.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.11.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.11.widgetData.products.0.netQuantity",
+      "text": "250 ml"
+    },
+    {
+      "path": "widgets.11.widgetData.products.0.ingredients",
+      "text": "Keratin, Biotin"
+    }
+  ]
+}

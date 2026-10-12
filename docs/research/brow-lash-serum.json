@@ -1,0 +1,218 @@
+{
+  "url": "https://bebodywise.com/product/brow-lash-serum",
+  "finalUrl": "https://bebodywise.com/product/brow-lash-serum",
+  "checkedOn": "2026-10-12",
+  "name": "Brow & Lash Growth Serum",
+  "productId": "587",
+  "subtitle": "For thicker and fuller brows and lash",
+  "productFor": "Brow & Lash growth",
+  "category": "face",
+  "price": 379,
+  "sizeTags": [
+    "5 ml"
+  ],
+  "keyIngredients": [
+    "4% Anagain",
+    "3% Redensyl",
+    "2% LashLD",
+    "1% Aminexil"
+  ],
+  "usageInstructions": [
+    "On cleansed skin, apply a thin layer along the lash line and brows"
+  ],
+  "description": "Dual-purpose, 100% eye-safe serum to improve density and thickness of brows and eyelashes for fuller-looking eyes 👉 Promotes growth : A potent mix of Anagain, Aminexil, and Redensyl hair-growth ingredients that open up follicles and promote growth. 👉 Deeply nourishes : Rich in LashLD - an ingredient meant to strengthen and lengthen your lashes and brows; this serum nourishes follicles to give you healthier growth. 👉 Thicker lashes and brows : Apply it twice daily for thicker and longer lashes and brows. 👉 Easy application : This serum has a mascara-like applicator, making it easy to apply on the lash line and brows. 👉 100% safe : We understand the worry about putting anything near your eyes. Rest assured, this serum is 100% eye-safe and clinically tested. Free of fragrance and alcohol, it will cause NO IRRITATION OR INFECTION. ✅We source all our ingredients from leading global suppliers. Key ingredient Anagain is sourced from the USA",
+  "usage": "Step 1 : On cleansed skin, apply a thin layer along the lash line and brows. Step 2 : For best results, apply twice a day, daily.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Brow%26LashSerum_2p1r87.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/brow-lash-serum/IntroPage%20%285%29_ee0uhp.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Butylene Glycol, Propanediol, Pisum Sativum (Pea) Sprout Extract (and) Phenoxyethanol (and) Sodium Benzoate (and) Aqua (Anagain), Glycerin (and) Aqua (and) Sodium Metabisulfite (and) Larix Europaea Wood Extract (and) Glycine (and) Zinc Chloride (and) Camellia Sinensis Leaf Extract (Redensyl), Biotinoyl Tripeptide-1 (and) Glycerin (and) Aqua (and) Caprylyl Glycol (and) Ethylhexylglycerin (and) Panthenol (and) Trehalose (LashLD), Diaminopyrimidine Oxide (Aminexil), Phenoxyethanol (and) Ethylhexylglycerin, Rosmarinus Officinalis (Rosemary) Extract, Hydroxyethyl cellulose, Xanthan Gum</span><br /><b>Formulated Without </b><br /><span>Paraben, Sulfate, Alcohol, Silicone, Allergen, Phthalates, Fragrance, Mineral Oil</span>"
+        },
+        {
+          "title": "How to Use Brow & Lash Serum?",
+          "content": "<b>Step 1 </b><br /><span>On cleansed skin, apply a thin layer along the lash line and brows</span><br /><b>Step 2 </b><br /><span>For best results, apply twice a day, daily</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Is this suitable for all skin types?",
+          "content": "Since every skin type is different, we recommend doing a patch test before incorporating it in your routine."
+        },
+        {
+          "title": "Will it irritate my eyes?",
+          "content": "Be Bodywise Brow & Lash Growth Serum is made with 100% eye-safe ingredients; we recommend applying this with closed eyes, on the outside of the lash line, and on the brows. "
+        },
+        {
+          "title": "Can I apply makeup after applying this?",
+          "content": "We would recommend to wait till the serum absorbs into your skin, once done, you can apply makeup."
+        },
+        {
+          "title": "How long till I see visible results?",
+          "content": "We recommend using this regularly for 3 months to see visible results."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "4% Anagain"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Redensyl"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "2% LashLD"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "1% Aminexil"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "On cleansed skin, apply a thin layer along the lash line and brows"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Twice"
+    },
+    {
+      "path": "widgets.3",
+      "type": "STATS_TILES_WITH_DESCRIPTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "5 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "4% Anagain, 3% Redensyl, 2% LashLD, 1% Aminexil"
+    }
+  ]
+}

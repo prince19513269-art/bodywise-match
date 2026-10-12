@@ -1,0 +1,330 @@
+{
+  "url": "https://bebodywise.com/product/advanced-magnesium-gummies-60n",
+  "finalUrl": "https://bebodywise.com/product/advanced-magnesium-gummies-60n",
+  "checkedOn": "2026-10-12",
+  "name": "5-in-1 Magnesium Gummies with Glycinate & Vitamin D3 (60N)",
+  "productId": "845",
+  "subtitle": "Five Magnesium Complex with Vitamins B6, D3, B9",
+  "productFor": "Regulating sleep cycle",
+  "category": "sleep",
+  "price": 999,
+  "sizeTags": [
+    "60 pcs"
+  ],
+  "keyIngredients": [
+    "Magnesium ",
+    "MagnaSorb™ Beads",
+    "Chicory (Prebiotic Fibre)"
+  ],
+  "usageInstructions": [
+    "Take 1 gummy daily after meal"
+  ],
+  "description": "Stressed, Anxious & Struggling to Sleep? You might need MAGNESIUM! ✨ Magnesium: The Overlooked Key to Sleep, Stress & Muscle Pain Relief ✨ Your body depends on it for relaxed nights & a peaceful mind 😊💤 Introducing Be Bodywise Magnesium Gummies Formulated with 5 forms of Magnesium : Magnesium Glycinate, Malate, Taurate, Citrate, Liposomal Magnesium ⚡ Higher Efficacy & superior Absorption 🔬 Advanced Encapsulation technology 💡 Fortified with Vitamin B6, D3 & B9 🌱 100% Natural & Clean ❌ No added Sugar ✅ Non habit forming 1 pack = 60 gummies. Be Bodywise. Science that sets you free.",
+  "usage": "Take 2 gummies post meal, ideally 1-2 hours before bed.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgGummies60N_bbpixy.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/magnesium-glycinate-gummies-60n/Artboard%201%20%28100%29_lt9fr4.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Chicory Root Inulin (Prebiotic), MagnaSorb™ - Magnesium Blend  (Liposomal Magnesium, Magnesium Glycinate, Magnesium Malate, Magnesium Taurate, Magnesium Citrate, Plant based cellulose, Povidone k-30, Starch , Mannitol, NI Flavour (Mixed Berry)), Myo-Inositol,  Gelling Agent (Pectin) , Acidity Regulator (Citric Acid), Vitamin D3 (Cholecalciferol - Lichen Source), Vitamin B6 (Pyridoxine HCl) (mg), Natural flavour (Mixed Berry). Natural colour (Black carrot extract), Vitamin B9 (Dietary Folate), Maize starch, Binding Agent (Guar gum).</span>"
+        },
+        {
+          "title": "How to use",
+          "content": "<b>Step 1 </b><br /><span>Take 2 gummies post meal, 1-2 hours before bed.</span>"
+        },
+        {
+          "title": "Caution",
+          "content": "To see a noticeable difference in you, it is recommended that you use these Magnesium Gummies regularly and consistently for 3-4 months.  We suggest taking a doctor's consultation before incorporating it in your routine. These gummies won't cause any reactions or side effects, if it does, please stop using them and consult a doctor before adding them back to your routine."
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "If there is no sugar, how is it sweet?",
+          "content": "The sweetness comes from natural prebiotic fibre called chicory root. It also has very low (near zero) glycemic index & causes no glucose spikes. Chicory also is good for gut."
+        },
+        {
+          "title": "Are there any artificial additives?",
+          "content": "No. The base of this gummy is made of a natural prebiotic fibre called chicory root. The colour comes from natural black carrot extract & the flavour comes from natural mixed berry extract. There are no artificial fillers, preservatives added."
+        },
+        {
+          "title": "Can I use this Gummy every day?",
+          "content": "Yes, we recommend using these gummies every day."
+        },
+        {
+          "title": "Are these gummies safe for everyone?",
+          "content": "These gummies are generally safe for everyone to consume. But if you have a critical health condition, or if you are pregnant, then we recommend speaking to a healthcare professional."
+        },
+        {
+          "title": "Can Magnesium help with anxiety and stress?",
+          "content": "Yes, Magnesium is an essential micronutrient, getting enough of which helps reduce stress and anxiety by balancing neurotransmitter levels and lowering stress hormones. Additionally, it also helps with muscle cramps/pain relief & aids in 300+ biochemical reactions in the body."
+        },
+        {
+          "title": "Are there any side effects of taking Magnesium?",
+          "content": "Magnesium is generally well-tolerated when taken as directed. Our gummies combine five forms of magnesium with vitamins B6, D3, and B9 for optimal absorption and efficacy, while being 100% natural and free from added sugar. Adhering to the recommended serving ensures safe use. For individuals with specific health conditions or on medication, consulting a healthcare professional is advised."
+        },
+        {
+          "title": "Can I take Magnesium gummies along with other supplements, like Biotin?",
+          "content": "Yes, you can. Magnesium also supports the function of other vitamins and minerals."
+        },
+        {
+          "title": "Are there any allergens in the product?",
+          "content": "Check the specific product label for allergen information, but most Magnesium Glycinate products are formulated to be free from common allergens like gluten, dairy, or soy."
+        },
+        {
+          "title": "Do I need to take a blood test before taking Magnesium?",
+          "content": "No, a blood test is generally unnecessary for healthy adults who wish to take magnesium supplements at recommended doses unless symptoms or certain medical conditions suggest an imbalance."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.productInfo.key_ingredients.0",
+      "text": "Magnesium"
+    },
+    {
+      "path": "widgets.6.widgetData.productInfo.key_ingredients.1",
+      "text": "MagnaSorb™ Beads"
+    },
+    {
+      "path": "widgets.6.widgetData.productInfo.key_ingredients.2",
+      "text": "Chicory (Prebiotic Fibre)"
+    },
+    {
+      "path": "widgets.6.widgetData.productInfo.usage_instructions.0",
+      "text": "Take 1 gummy daily after meal"
+    },
+    {
+      "path": "widgets.7",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "60 Gummies"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "Magnesium, MagnaSorb™ Beads, Chicory (Prebiotic Fibre)"
+    }
+  ]
+}

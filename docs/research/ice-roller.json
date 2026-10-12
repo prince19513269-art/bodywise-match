@@ -1,0 +1,275 @@
+{
+  "url": "https://bebodywise.com/product/ice-roller",
+  "finalUrl": "https://bebodywise.com/product/ice-roller",
+  "checkedOn": "2026-10-12",
+  "name": "Ice Roller (1 N)",
+  "productId": "434",
+  "subtitle": "For: Reducing Skin Puffiness  & Redness",
+  "productFor": "Reducing puffiness",
+  "category": "face",
+  "price": 249,
+  "sizeTags": [],
+  "keyIngredients": [],
+  "usageInstructions": [
+    "Open the product and add water till 80% capacity. For better results, you can add rose petals or cucumber. Keep in a freezer for a minimum of 4 hours, once frozen, rinse under water and then open the cover. Apply ice to the face in 30-second intervals and in circular motions"
+  ],
+  "description": "Be Bodywise Ice Roller is here to refresh and relax your skin, giving you a perfect pick-me-up whenever needed! 🧊 Use consistently for at least 3 months for best results 😁Reduces face and under-eye puffiness 🩸Boosts blood circulation ❤️Minimises redness 🧖‍♀️Tightens pores 🌟Soothes skin Got hurt? You can use this tool to ice the affected area!",
+  "usage": "Step 1 :Open the product and add water till 80% capacity. For better results, you can add rose petals or cucumber. Step 2 : Freeze in a freezer for a minimum of 4 hours Step 3 : Once frozen, rinse under water and then open the cover Step 4 : Apply ice to the face in 30-second intervals and in circular motions For best results, use it once a day for 3 months.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/ice-roller/AppThumbnail_IceRoller_c2qp5f.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/ice-roller/Artboard%201%20%288%29_a8kf19.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "How to Use?",
+          "content": "<b>Step 1 </b><br /><span>Open the product and add water till 80% capacity. For better results, you can add rose petals or cucumber.</span><br /><b>Step 2 </b><br /><span>Freeze in a freezer for a minimum of 4 hours</span><br /><b> </b><span>For best results, use it once a day for 3 months.</span><br /><b>Step 3 </b><br /><span>Once frozen, rinse under water and then open the cover</span><br /><b>Step 4 </b><br /><span>Apply ice to the face in 30-second intervals and in circular motions</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "To see a noticeable difference in your skin, it is recommended that you use this ice roller regularly and consistently for 3-4 months. Patch tests are easy to ensure you don't experience any initial adverse reaction when using a new product. We recommend doing a patch test before starting any new product on your skin. You can conduct a patch test by following the below steps:  1. Apply the product to a small patch of skin either to the arm or bend of the elbow   2. Keep the area dry 3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product) 4. If any redness, itching, or irritation is observed at any time during the test, do not use the product, else you can safely use it"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Does this come with a water inlet?",
+          "content": "Yes, it comes with an inlet for you to fill with water. You can put cucumber and rose petals inside and use the inlet to fill water."
+        },
+        {
+          "title": "Can I use it in the night?",
+          "content": "It is a perfect tool to soothe your skin, you can use it during the day and night"
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "2.5% Benzoyl Peroxide"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "On damp face, gently massage the face wash for 1-2 minutes. Rinse with water and pat dry."
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily - Once"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "Salicylic Acid (BHA)"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_unit.1",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Open the product and add water till 80% capacity. For better results, you can add rose petals or cucumber. Keep in a freezer for a minimum of 4 hours, once frozen, rinse under water and then open the cover. Apply ice to the face in 30-second intervals and in circular motions"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.0",
+      "text": "As needed"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "1 N"
+    }
+  ]
+}

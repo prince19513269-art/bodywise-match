@@ -1,0 +1,222 @@
+{
+  "url": "https://bebodywise.com/product/2-salicylic-acid-face-wash",
+  "finalUrl": "https://bebodywise.com/product/2-salicylic-acid-face-wash",
+  "checkedOn": "2026-10-12",
+  "name": "2% Salicylic Acid Face Wash",
+  "subtitle": "For Mild Occasional Acne | Oily Skin Type | Suitable for 13+ yrs",
+  "productFor": "Mild Occasional Acne",
+  "category": "face",
+  "price": 232,
+  "sizeTags": [
+    "100 ml"
+  ],
+  "keyIngredients": [
+    "2% Salicylic Acid",
+    "Allantoin"
+  ],
+  "usageInstructions": [
+    "Use twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+  ],
+  "description": "If your acne is mild (whiteheads & blackheads) and occasional, then our 2% Salicylic acid facewash can help It works by: ⬇️ ✅ Exfoliating dead skin cells : Salicylic Acid unclogs pores, removes build-up, and treats acne-prone skin ✅ Tightening Pores : Prevents future breakouts & shrinks pores ✅ Calming skin : Glycerin & Allantoin soothe skin This is suited for Oily skin. For Dry/Combination skin, use our 1% Salicylic Acid facewash 📱 Download the Be Bodywise app & save upto 35% using the app wallet!",
+  "usage": "Step 1 : Squeeze a small quantity of this salicylic acid cleanser onto your palm. Step 2 : Work up lather and gently massage on face. Step 3 : Rinse with water and pat dry.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SAFW_4uzp3w.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-salicylic-acid-face-wash/Artboard%201_ihynt3.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.0",
+      "text": "2% Salicylic Acid"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.1",
+      "text": "Allantoin"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.0",
+      "text": "Use twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.1",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.2",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.3",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily-Twice"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.1",
+      "text": "Daily-Morning"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.2",
+      "text": "Daily-Evening"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.3",
+      "text": "Alternate days"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "100 ml"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.ingredients",
+      "text": "2% Salicylic Acid, Allantoin"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "url": "https://bebodywise.com/product/benzoyl-peroxide-facewash",
+  "finalUrl": "https://bebodywise.com/product/benzoyl-peroxide-facewash",
+  "checkedOn": "2026-10-12",
+  "name": "2.5% Benzoyl Peroxide Facewash",
+  "productId": "418",
+  "subtitle": "For Persistent Severe Acne | All Skin Types | Suitable for 13+ yrs",
+  "productFor": "Persistent Severe Acne",
+  "category": "face",
+  "price": 199,
+  "sizeTags": [
+    "100 ml"
+  ],
+  "keyIngredients": [
+    "2.5% Benzoyl Peroxide",
+    "Aloe Vera Extract"
+  ],
+  "usageInstructions": [
+    "On damp face, gently massage the face wash for 1-2 minutes. Rinse with water and pat dry."
+  ],
+  "description": "If your acne is persisetent, severe, painful, red, inflammed , then our 2.5% Benzoyl Peroxide facewash can help. This creamy-non foaming facewash is non-drying unlike other Benzoyl peroxide treatments. It helps to: ⬇️ ✅ Kill acne causing bacteria 2.5% Benzoyl peroxide releases oxygen and kill bacteria ✅ Hydrate: Glycerin prevents water loss & protects skin ✅ Prevent bacteria growth : Triethanolamine helps to prevent ✅ Soothing inflammation & redness: Allantoin soothe irritated skin This formula is mild & safe for everyone to use. 🏥 Clinically Tested (with 39 subjects over 2 weeks) ➡️ 95% saw visible reduction in face acne in 2 weeks🗓️ 📱 Download the Be Bodywise app & save upto 35% using the app wallet!",
+  "usage": "Step 1 :On damp face, gently massage the face wash for 1-2 minutes Step 2 : Rinse with water and pat dry. Use this once a day, once your skin is used to it, can use twice a day",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPFW%20%281%29_fmfhn3.png?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/benzoyl-peroxide-facewash/1_Product_Hero%20%287%29_lqx61t.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Decyl Glucoside, Cocamidopropyl Betaine, Isopropyl Myristate, Benzoyl Peroxide, Glycerin, Propylene Glycol, Polysorbate-20, Glyceryl Monostearate, Cetostearyl Alcohol, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Triethanolamine, Tocopheryl Acetate, Aloe barbadensis (Aloe vera) Extract, D-Panthenol, Disodium EDTA.</span><br /><b>Formulated Without </b><br /><span>Paraben, Silicone, Sulphate, Alcohol, Allergens, Fragrance, Mineral Oil</span>"
+        },
+        {
+          "title": "How to Use?",
+          "content": "<b>Step 1 </b><br /><span>On damp face, gently massage the face wash for 1-2 minutes</span><br /><b>Step 2 </b><br /><span>Rinse with water and pat dry.</span><br /><b> </b><span>For best results, use it once a day for 3 months.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "To see a noticeable difference in your skin, it is recommended that you use this 2.5% Benzoyl Peroxide regularly and consistently for 3-4 months.  We recommend doing a patch test before starting any new product on your skin. You can conduct a patch test by following the below steps:  1. Apply the product to a small patch of skin either to the arm or bend of the elbow   2. Keep the area dry 3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product) 4. If any redness, itching, or irritation is observed at any time during the test, do not use the product, else you can safely use it."
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "When is the ideal time to use the face wash?",
+          "content": "This facewash is suitable for both AM/PM routine. Start by using once a day and then once you are used to it, continue using twice a day"
+        },
+        {
+          "title": "Is the facewash safe for sensitive skin?",
+          "content": "The facewash suits all skin type. However, we recommend doing a patch test first."
+        },
+        {
+          "title": "How does Benzoyl Peroxide help in acne?",
+          "content": "Benzoyl Peroxide help reduce acne by killing bacteria and germs on the surface of your skin. Its best suited to treat Severe persistent acne in teenagers and adults"
+        },
+        {
+          "title": "How long till I see visible results?",
+          "content": "You can start seeing visible results in 3 to 4 weeks period."
+        },
+        {
+          "title": "What can I use after using the face wash?",
+          "content": "We'd suggest following up with 2% Salicylic Acid Face Serum, Gel-based moisturiser and sunscreen. "
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.0",
+      "text": "2.5% Benzoyl Peroxide"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.0",
+      "text": "On damp face, gently massage the face wash for 1-2 minutes. Rinse with water and pat dry."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Once"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "BANNER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing",
+        "desktopFullWidth"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "100 ml"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "2.5% Benzoyl Peroxide, Aloe Vera Extract"
+    }
+  ]
+}

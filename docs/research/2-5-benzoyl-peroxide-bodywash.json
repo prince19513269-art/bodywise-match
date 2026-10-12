@@ -1,0 +1,220 @@
+{
+  "url": "https://bebodywise.com/product/2-5-benzoyl-peroxide-bodywash",
+  "finalUrl": "https://bebodywise.com/product/2-5-benzoyl-peroxide-bodywash",
+  "checkedOn": "2026-10-12",
+  "name": "2.5% Benzoyl Peroxide Body wash",
+  "productId": "553",
+  "subtitle": "FOR: Reducing Severe Back, Butt & Body Acne",
+  "concern": "For body acne",
+  "productFor": "Reducing Severe Body Acne",
+  "category": "body",
+  "price": 174,
+  "sizeTags": [
+    "200 ml"
+  ],
+  "keyIngredients": [
+    "2.5% Benzoyl Peroxide",
+    "Aloe Vera Extract",
+    "Centella Asiatica",
+    "Glycerin"
+  ],
+  "usageInstructions": [
+    "On wet skin, take some body wash in your palms or on a loofah. Massage this benzoyl peroxide body wash into skin using a gentle, circular motion and rinse."
+  ],
+  "description": "If you have Severe Back, Butt & Body Acne , this 2.5% bodywash will be your best investment. Be Bodywise 2.5% Benzoyl Peroxide Body Wash helps to: 🌟 Reduce Severe Acne : Acne formation happens due to bacteria accumulation. 2.5% Benzoyl Peroxide is known to exfoliate dead skin cells and cleanse pores to remove excess sebum and kill acne-causing bacteria 🌟 Prevent Future Acne : Benzoyl Peroxide is known for its antibacterial properties. It kills acne-causing bacteria, removing present acne and preventing formation 🌟 Deep Cleanse & Moisturize : Enriched with Aloe Vera, Centella Asiatica, and Glycerin, it soothes and moisturizes inflamed skin.",
+  "usage": "Step 1 : On wet skin, take some body wash in your palms or on a loofah. Step 2 : Massage this benzoyl peroxide body wash into skin using a gentle, circular motion. Step 3 : Once done using this body wash containing benzoyl peroxide, rinse.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPBW_3o13rw.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-5-benzoyl-peroxide-bodywash/Hero_74xvcc.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Cocamidopropyl betaine, Decylglucoside, Acrylates Copolymer, C12-15 Alkyl Benzoate, Disodium Cocoamphodiacetate, Polysorbate 20, Sodium C14-16 Olefin Sulfonate, Glycerin, Benzoyl Peroxide, Propylene Glycol, Centella Asiatica (Gotukola) Leaf Extract, PEG-40 Hydrogenated castor Oil, Fragrance, Phenoxyethanol, Xanthan gum, Aloe barbadensis (Aloe vera) Extract, CI 42090.</span><br /><b>Formulated Without </b><br /><span>Paraben, Silicone, Alcohol, Allergen, Testing on Animals</span>"
+        },
+        {
+          "title": "How to Use 2.5% Benzoyl Peroxide Body Wash?",
+          "content": "<b>Step 1 </b><br /><span>On wet skin, take some body wash in your palms or on a loofah.</span><br /><b>Step 2 </b><br /><span>Massage this benzoyl peroxide body wash into skin using a gentle, circular motion.</span><br /><b>Step 3 </b><br /><span>Once done using this body wash containing benzoyl peroxide, rinse.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use benzoyl peroxide body wash everyday?",
+          "content": "Yes, we recommend using this body wash for back acne once a day, every day."
+        },
+        {
+          "title": "Will this body wash remove my back acne and spots?",
+          "content": "This body wash helps calm inflamed skin and prevent formation of back acne."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "2.5% Benzoyl Peroxide"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "Centella Asiatica"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "Glycerin"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this benzoyl peroxide body wash into skin using a gentle, circular motion and rinse."
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Once"
+    },
+    {
+      "path": "widgets.3",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "250 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "2.5% Benzoyl Peroxide, Aloe Vera Extract, Centella Asiatica, Glycerin"
+    }
+  ]
+}

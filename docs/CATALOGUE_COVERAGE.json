@@ -1,0 +1,3073 @@
+{
+  "checkedOn": "2026-10-12",
+  "uniqueProducts": 87,
+  "categories": 23,
+  "usableRealImages": 0,
+  "productsWithUnverifiedFields": 87,
+  "productsWithCoreFieldGaps": 30,
+  "careCollections": 8,
+  "ingredients": 42,
+  "ingredientConnections": 388,
+  "kits": 27,
+  "individualProducts": 60,
+  "packOptions": 116,
+  "explicitlyGroupedPackOptions": 50,
+  "verifiedSourceRecords": 124,
+  "discoveredUrls": 202,
+  "unavailableSourceRecords": 78,
+  "fullCatalogueCertified": false,
+  "records": [
+    {
+      "id": "salicylic-body-wash-100",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash-100ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "1% Salicylic Acid Body Wash - 100 mL",
+          "size": "100 ml",
+          "price": 149,
+          "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash-100ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "1% Salicylic Acid Body Wash - 250 mL",
+          "size": "250 ml",
+          "price": 329,
+          "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "1% Salicylic Acid Body Wash - 375 mL",
+          "size": "375 ml",
+          "price": 399,
+          "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash-350ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "1% Salicylic Acid Body Wash - 700 ml",
+          "size": "700 ml",
+          "price": 699,
+          "url": "https://bebodywise.com/product/salicylic-acid-body-wash-700",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "chamomile"
+      ],
+      "fieldGaps": [
+        "Usage frequency differs across the brand page; follow the current pack label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SABW100ml_4h3alm.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% Salicylic Acid Body Wash - 100 mL"
+      }
+    },
+    {
+      "id": "salicylic-ceramide-bodywash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/salicylic-ceramide-bodywash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "glycerin",
+        "hyaluronic-acid",
+        "ceramides",
+        "chamomile"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-ceramide-bodywash/AppThumbnail_SalicylicCeramideBW%20NEWER%20%281%29_bz4j9m.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% Salicylic Ceramide Body Wash"
+      }
+    },
+    {
+      "id": "5-aha-bha-bodywash-700ml",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/5-aha-bha-bodywash-700ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "5% AHA BHA Exfoliating Body Wash (700ml)",
+          "size": "700 mL",
+          "price": 649,
+          "url": "https://bebodywise.com/product/5-aha-bha-bodywash-700ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "5% AHA BHA Exfoliating Body Wash - 250 mL",
+          "size": "250 mL",
+          "price": 399,
+          "url": "https://bebodywise.com/product/5-aha-bha-bodywash",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "glycolic-acid",
+        "lactic-acid",
+        "salicylic-acid"
+      ],
+      "fieldGaps": [
+        "Individual acid concentrations were not confirmed; 5% is the product-name blend claim."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_EBW700ml_1_i2qf6p.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "5% AHA BHA Exfoliating Body Wash (700ml)"
+      }
+    },
+    {
+      "id": "6-aha-bha-underarm-roll-on-flora-75ml",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-flora-75ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "6% AHA BHA Underarm Roll On - 75ml - Flora",
+          "size": "75 ml",
+          "price": 499,
+          "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-flora-75ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": " 6% AHA BHA Underarm Roll On - 50mL - Flora",
+          "size": "50 ml",
+          "price": 399,
+          "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Underarm Twin Defence Pack",
+          "size": "75 ml + 75 ml",
+          "price": 998,
+          "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-twin-pack-75ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "salicylic-acid",
+        "kojic-acid",
+        "mandelic-acid"
+      ],
+      "fieldGaps": [
+        "The individual highlighted acid percentages do not reconcile with the 6% name; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-flora-75ml/AppThumbnail_6%25UARO_Flora_75ml_9u2iwy.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "6% AHA BHA Underarm Roll On - 75ml - Flora"
+      }
+    },
+    {
+      "id": "body-sunscreen-lotion-with-spf-50",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/body-sunscreen-lotion-with-spf-50",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-lotion-with-spf-50/AppThumbnail_DeTan_SPF50_Lotion%20%281%29_lne86c.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "De-Tan SPF 50+ Body Sunscreen Lotion"
+      }
+    },
+    {
+      "id": "folli-advanced-plus-hair-growth-serum",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/folli-advanced-plus-hair-growth-serum",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "rosemary",
+        "redensyl",
+        "aminexil",
+        "anagain"
+      ],
+      "fieldGaps": [
+        "Only selected actives were reviewed; the advertised 38% total blend was not independently verified.",
+        "Listed price not available in the reviewed page record."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/folli-advanced-plus-hair-growth-serum/AppThumbnail_Folli_HGRO%20%282%29_a25jr5.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Folli Advanced+ Hair Growth Serum Roll On - 3% Redensyl, 3% Rosemary (25 ml)"
+      }
+    },
+    {
+      "id": "1-zpto-anti-dandruff-shampoo",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/1-zpto-anti-dandruff-shampoo",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "zinc-pyrithione",
+        "salicylic-acid",
+        "allantoin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-anti-dandruff-shampoo/AppThumbnail_ZPTO_Shampoo_fuuj4l.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% ZPTO Anti-Dandruff Shampoo (200ml)"
+      }
+    },
+    {
+      "id": "20-urea-lotion-xp",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/20-urea-lotion-xp",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "ceramides"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/20-urea-lotion-xp/AppThumbnail_20%25UreaLotion300ml_4nhfot.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "20% Urea Lotion - 300ml"
+      }
+    },
+    {
+      "id": "anti-stretch-mark-roll-on",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/anti-stretch-mark-roll-on",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [
+        "Concentrations and complete formulation were not confirmed."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/anti-stretch-mark-roll-on/IMG_8119_7296bd.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Anti-Stretch Mark Serum Roll On"
+      }
+    },
+    {
+      "id": "acne-control-wash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/acne-control-wash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "salicylic-acid-face-wash"
+      ],
+      "ingredientIds": [
+        "glycolic-acid",
+        "salicylic-acid"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/acne-control-wash/AppThumbnail_1SalicylicAcid_FaceWash_Foam.blend%20%281%29_eyicuh.jpeg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% Salicylic Acid Face Wash (Foam-Based)"
+      }
+    },
+    {
+      "id": "niacinamide-body-lotion",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/niacinamide-body-lotion",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide",
+        "aloe-vera"
+      ],
+      "fieldGaps": [
+        "The image filename refers to 250 mL while the listing says 200 mL; image/variant correspondence needs review."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaLotion_250ml_3xpl85.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "10% Niacinamide Body Lotion"
+      }
+    },
+    {
+      "id": "5-lactic-acid-body-lotion",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "centella-asiatica",
+        "aloe-vera"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_LacticLotion_3huwy8.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "5% Lactic Acid Body Lotion"
+      }
+    },
+    {
+      "id": "2-salicylic-acid-face-wash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/2-salicylic-acid-face-wash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "allantoin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SAFW_4uzp3w.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "2% Salicylic Acid Face Wash"
+      }
+    },
+    {
+      "id": "hair-growth-serum-roll-on",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-growth-serum-roll-on",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Advanced Hair Growth Serum",
+          "size": "25 ml",
+          "price": 569,
+          "url": "https://bebodywise.com/product/hair-growth-serum-roll-on",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Advanced Hair Growth Serum Roll-On (Pack of 2)",
+          "size": "25 ml",
+          "price": 969,
+          "url": "https://bebodywise.com/product/hair-growth-serum-roll-on-2-months-xp",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Advanced Hair Growth Serum",
+          "size": "50 ml",
+          "price": 849,
+          "url": "https://bebodywise.com/product/advanced-hair-growth-serum",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Advanced Hair Growth Serum (30ml)",
+          "size": null,
+          "price": 349,
+          "url": "https://bebodywise.com/product/advanced-hair-growth-serum-30ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Advanced Hair Growth Serum Roll-On for Post-Pregnancy Hair Thinning ",
+          "size": "25 ml",
+          "price": 569,
+          "url": "https://bebodywise.com/product/hair-growth-serum-pp-roll-on",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Hair Growth Serum Spray (30 ml)",
+          "size": "30 ml",
+          "price": 699,
+          "url": "https://bebodywise.com/product/hair-growth-serum-spray",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [
+        "hair-growth-serum-30ml-xp-1"
+      ],
+      "ingredientIds": [
+        "rosemary",
+        "redensyl",
+        "aminexil",
+        "anagain"
+      ],
+      "fieldGaps": [
+        "Regular Advanced serum delivery formats are grouped conservatively because a distinct formulation was not established from their shared highlights. Full lists on the dropper and post-pregnancy pages match, but were unavailable on the standard roll-on and spray pages. Some rosemary concentration labels and 30 ml/50 ml quantities conflict; confirm the exact formula and size of the chosen pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGRO_b9ytvj.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Advanced Hair Growth Serum"
+      }
+    },
+    {
+      "id": "5-niacinamide-body-wash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/5-niacinamide-body-wash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "5% Niacinamide Body Wash",
+          "size": "250 ml",
+          "price": 329,
+          "url": "https://bebodywise.com/product/5-niacinamide-body-wash",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "5% Niacinamide Body Wash - 700 ml",
+          "size": "700 ml",
+          "price": 699,
+          "url": "https://bebodywise.com/product/niacinamide-body-wash-700",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide",
+        "aloe-vera"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_NiaBW250ml_lcdeap.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "5% Niacinamide Body Wash"
+      }
+    },
+    {
+      "id": "anti-dandruff-serum",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/anti-dandruff-serum",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "zinc-pyrithione"
+      ],
+      "fieldGaps": [
+        "Pack size conflicts: catalogue tags say 50 ml; additional information says 60 ml. Check the current pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AntiDandruffSerum_cxhczj.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Anti-Dandruff Serum"
+      }
+    },
+    {
+      "id": "deep-moisturizing-conditioner",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/deep-moisturizing-conditioner",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "biotin",
+        "argan-oil"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinConditioner_7tmjzz.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Keratin Conditioner"
+      }
+    },
+    {
+      "id": "hair-strengthening-serum",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-strengthening-serum",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Hair Strengthening Serum (100mL)",
+          "size": "100 ml",
+          "price": null,
+          "url": "https://bebodywise.com/product/hair-strengthening-serum",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Hair Strengthening Serum (50mL)",
+          "size": "50 ml",
+          "price": 299,
+          "url": "https://bebodywise.com/product/hair-strengthening-serum-50-ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "argan-oil",
+        "olive-oil"
+      ],
+      "fieldGaps": [
+        "Listed price not available in the reviewed page record."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HairStrenghteningSerum_100ml_3nh8dn.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Hair Strengthening Serum (100mL)"
+      }
+    },
+    {
+      "id": "hair-fall-control-shampoo",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-fall-control-shampoo",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "keratin",
+        "biotin"
+      ],
+      "fieldGaps": [
+        "Pack size conflicts: catalogue tags say 200 ml; additional information says 250 ml. Check the current pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KerShampoo_kfz6tt.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Keratin Shampoo for Hair Fall"
+      }
+    },
+    {
+      "id": "20-urea-roll-on-50ml",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/20-urea-roll-on-50ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "20% Urea Foot Roll On - 50 ml",
+          "size": "50 ml",
+          "price": 379,
+          "url": "https://bebodywise.com/product/20-urea-roll-on-50ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "20% Urea Foot Roll On - 75 ml",
+          "size": "75 ml",
+          "price": 549,
+          "url": "https://bebodywise.com/product/20-urea-roll-on-75ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "lactic-acid",
+        "olive-oil",
+        "vitamin-e",
+        "salicylic-acid",
+        "glycerin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UFRO_f5ttds.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "20% Urea Foot Roll On - 50 ml"
+      }
+    },
+    {
+      "id": "10-urea-lotion",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/10-urea-lotion",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "10% Urea Body Lotion - 200 ml",
+          "size": "200 ml",
+          "price": 379,
+          "url": "https://bebodywise.com/product/10-urea-lotion",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "10% Urea Body Lotion - 300 ml",
+          "size": "300 ml",
+          "price": 549,
+          "url": "https://bebodywise.com/product/10-urea-lotion-300ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "shea-butter",
+        "glycerin",
+        "ceramides",
+        "vitamin-e",
+        "zinc-oxide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaLotion_itk4m2.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "10% Urea Body Lotion - 200 ml"
+      }
+    },
+    {
+      "id": "glycolic-acid-stick",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/glycolic-acid-stick",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "glycolic-acid",
+        "salicylic-acid",
+        "shea-butter"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_GlycolicStick_510b8q.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "7% Glycolic Acid Exfoliating Body Stick - 30g"
+      }
+    },
+    {
+      "id": "1-peptide-ceramide-moisturizer",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "copper-peptides",
+        "panthenol",
+        "ceramides",
+        "allantoin",
+        "hyaluronic-acid",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "The peptide highlight combines 1% with 2000 ppm; the exact active concentration is unclear."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PeptideMoisturizer_8u63h3.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% Peptide & Ceramide Moisturizer"
+      }
+    },
+    {
+      "id": "acne-spot-correction",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/acne-spot-correction",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "glycolic-acid",
+        "niacinamide",
+        "glycerin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1648210350/staging/products/acne-spot-correction/0_2SAG/CAROUSEL/0_2.png?tr=w-800",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "2% Salicylic Acid Gel"
+      }
+    },
+    {
+      "id": "hydrocolloid-acne-pimple-patch",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/hydrocolloid-acne-pimple-patch",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AcnePack_hszowj.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Hydrocolloid Acne Pimple Patch"
+      }
+    },
+    {
+      "id": "ultra-light-sunscreen-spf50",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/ultra-light-sunscreen-spf50",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide",
+        "centella-asiatica",
+        "hyaluronic-acid",
+        "ceramides",
+        "allantoin",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "Pack size conflicts: catalogue tags say 50 ml; additional information says 50 g. Check the current pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ULSS_d113wm.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Ultra Light Sunscreen SPF50+"
+      }
+    },
+    {
+      "id": "4-aha-bha-underarm-roll-on-no-fragrance",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on-no-fragrance",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "4% AHA BHA Underarm Roll On - 50 mL - No Fragrance",
+          "size": "50 ml",
+          "price": 329,
+          "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on-no-fragrance",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "4% AHA BHA Underarm Roll On - Fragrance Free - 75 ml",
+          "size": "75 ml",
+          "price": 374,
+          "url": "https://bebodywise.com/product/4-aha-bha-underarm-rollon-frag-free-75",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid",
+        "shea-butter",
+        "glycerin",
+        "mandelic-acid",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [
+        "Product name and ingredient list disagree about fragrance; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_FF_3u8hbl.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "4% AHA BHA Underarm Roll On - 50 mL - No Fragrance"
+      }
+    },
+    {
+      "id": "triple-milk-deep-hydrating-bodywash-xp",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/triple-milk-deep-hydrating-bodywash-xp",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "triple-milk-deep-hydrating-bodywash"
+      ],
+      "ingredientIds": [
+        "glycerin",
+        "hyaluronic-acid",
+        "centella-asiatica",
+        "shea-butter"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/triple-milk-deep-hydrating-bodywash/AppThumbnail_TripleMilkDeepHydrating_BW_hwyvut.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Triple Milk Deep Hydrating Body wash"
+      }
+    },
+    {
+      "id": "30-urea-foot-roll-on",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/30-urea-foot-roll-on",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "30% Urea Foot Roll On - 50ml",
+          "size": "50 ml",
+          "price": 519,
+          "url": "https://bebodywise.com/product/30-urea-foot-roll-on",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "30% Urea Foot Roll On 75 ml",
+          "size": "75 ml",
+          "price": 649,
+          "url": "https://bebodywise.com/product/30-urea-foot-roll-on-75ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "lactic-acid",
+        "glycolic-acid",
+        "olive-oil",
+        "salicylic-acid",
+        "glycerin",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/30-urea-foot-roll-on/image%20%2853%29_ic4tyd.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "30% Urea Foot Roll On - 50ml"
+      }
+    },
+    {
+      "id": "10-magnesium-lotion-300ml",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/10-magnesium-lotion-300ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "10% Magnesium Body Lotion - 300 ml",
+          "size": "300 ml",
+          "price": 499,
+          "url": "https://bebodywise.com/product/10-magnesium-lotion-300ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "10% Magnesium Body Lotion - 200 ml",
+          "size": "200 ml",
+          "price": 349,
+          "url": "https://bebodywise.com/product/10-magnesium-lotion",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "shea-butter",
+        "magnesium",
+        "glycerin"
+      ],
+      "fieldGaps": [
+        "Claims about muscle relief or sleep have not been independently assessed."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MagLotion_300ml_iunqab.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "10% Magnesium Body Lotion - 300 ml"
+      }
+    },
+    {
+      "id": "1-ketoconazole-dandruff-shampoo-150ml",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/1-ketoconazole-dandruff-shampoo-150ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "1% Ketoconazole Dandruff Shampoo",
+          "size": "150 ml",
+          "price": 359,
+          "url": "https://bebodywise.com/product/1-ketoconazole-dandruff-shampoo-150ml",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "1% Ketoconazole Anti-Dandruff Shampoo (250ml)",
+          "size": "250 ml",
+          "price": 499,
+          "url": "https://bebodywise.com/product/1-ketoconazole-dandruff-shampoo-250ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "ketoconazole",
+        "aloe-vera",
+        "oat-extract"
+      ],
+      "fieldGaps": [
+        "Usage contact time differs between page sections."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KetoShampoo_m8hzwh.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "1% Ketoconazole Dandruff Shampoo"
+      }
+    },
+    {
+      "id": "10-aha-body-scrub",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/10-aha-body-scrub",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "10% AHA Body Scrub (200g)",
+          "size": "200 g",
+          "price": 369,
+          "url": "https://bebodywise.com/product/10-aha-body-scrub",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "10% AHA Body Scrub (300g)",
+          "size": "300 g",
+          "price": 499,
+          "url": "https://bebodywise.com/product/10-aha-body-scrub-300",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "oat-extract",
+        "aloe-vera",
+        "glycerin",
+        "allantoin",
+        "centella-asiatica",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "The page disagrees about whether to use the scrub before or after body wash.",
+        "Official image filename refers to 12% AHA despite the 10% product name; image correspondence requires review."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub200g_f92y3a.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "10% AHA Body Scrub (200g)"
+      }
+    },
+    {
+      "id": "12-aha-scrub",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/12-aha-scrub",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "glycolic-acid",
+        "oat-extract",
+        "aloe-vera",
+        "glycerin",
+        "allantoin",
+        "centella-asiatica",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "The highlights list glycolic acid, but the published full ingredient list does not; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_12_AHAScrub_7qciqc.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "12% AHA Scrub - 300gm"
+      }
+    },
+    {
+      "id": "2-5-benzoyl-peroxide-bodywash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/2-5-benzoyl-peroxide-bodywash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "benzoyl-peroxide",
+        "aloe-vera",
+        "centella-asiatica",
+        "glycerin"
+      ],
+      "fieldGaps": [
+        "Pack size conflicts: catalogue tags say 200 ml; additional information says 250 ml. Check the current pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPBW_3o13rw.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "2.5% Benzoyl Peroxide Body wash"
+      }
+    },
+    {
+      "id": "2-aha-body-wash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/2-aha-body-wash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "aha-body-wash-deal"
+      ],
+      "ingredientIds": [
+        "glycerin",
+        "lactic-acid",
+        "glycolic-acid",
+        "aloe-vera",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-aha-body-wash/AppThumbnail_AHABHA_BW_jh2fsb.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "2% AHA Body Wash"
+      }
+    },
+    {
+      "id": "4-aha-bha-underarm-roll-on",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "4% AHA BHA Underarm Roll On - 50 mL - Flora",
+          "size": "50 ml",
+          "price": 329,
+          "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "4% AHA BHA Underarm Roll On - 75 mL - Flora",
+          "size": "75 ml",
+          "price": 499,
+          "url": "https://bebodywise.com/product/4-aha-bha-underarm-rollon-75",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "lactic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Flora_a3aoe4.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Flora"
+      }
+    },
+    {
+      "id": "4-aha-bha-underarm-roll-on-aqua",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on-aqua",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "lactic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Aqua_hwcd86.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Aqua"
+      }
+    },
+    {
+      "id": "4-aha-bha-underarm-roll-on-oudh",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on-oudh",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "lactic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Oudh_6sl59k.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Oudh"
+      }
+    },
+    {
+      "id": "4-aha-bha-underarm-roll-on-watermelon",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on-watermelon",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "lactic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UARO_Watermelon_61ripo.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "4% AHA BHA Underarm Roll On - 50 mL - Watermelon"
+      }
+    },
+    {
+      "id": "5-aha-bha-bodywash-250ml-flora",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/5-aha-bha-bodywash-250ml-flora",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "5% AHA BHA Exfoliating Body Wash - Flora (250ml) ",
+          "size": "250 ml",
+          "price": 399,
+          "url": "https://bebodywise.com/product/5-aha-bha-bodywash-250ml-flora",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "5% AHA BHA Exfoliating Body Wash - Flora (700ml) ",
+          "size": "700 ML",
+          "price": 699,
+          "url": "https://bebodywise.com/product/5-aha-bha-bodywash-700ml-flora",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "salicylic-acid",
+        "glycolic-acid",
+        "glycerin",
+        "aloe-vera",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/5-aha-bha-bodywash-250ml-flora/EBW_Flora_250%20%281%29_7ib79x.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "5% AHA BHA Exfoliating Body Wash - Flora (250ml) "
+      }
+    },
+    {
+      "id": "6-aha-bha-underarm-roll-on-aqua",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-aqua",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "6% AHA BHA Underarm Roll On - 50 ml - Aqua",
+          "size": "50 ml",
+          "price": 399,
+          "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-aqua",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "6% AHA BHA Underarm Roll On - 75 ml - Aqua",
+          "size": "75 ml",
+          "price": 499,
+          "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-aqua-75ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "salicylic-acid",
+        "kojic-acid",
+        "mandelic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [
+        "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-aqua/AppThumbnail_6%25UARO_Aqua_clekqk.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Aqua"
+      }
+    },
+    {
+      "id": "6-aha-bha-underarm-roll-on-frag-free",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-frag-free",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "salicylic-acid",
+        "kojic-acid",
+        "mandelic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [
+        "Product name and ingredient list disagree about fragrance.",
+        "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-frag-free/AppThumbnail_6UARO_FF%20%282%29_cfpvfx.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Fragrance free"
+      }
+    },
+    {
+      "id": "6-aha-bha-underarm-roll-on-watermelon",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/6-aha-bha-underarm-roll-on-watermelon",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "salicylic-acid",
+        "kojic-acid",
+        "mandelic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [
+        "Individual acid percentages in the highlights total more than the 6% product name; confirm the current label."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/6-aha-bha-underarm-roll-on-watermelon/AppThumbnail_6%25UARO_Watermelon_h8vd7z.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "6% AHA BHA Underarm Roll On - 50 ml - Watermelon"
+      }
+    },
+    {
+      "id": "benzoyl-peroxide-facewash",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/benzoyl-peroxide-facewash",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "benzoyl-peroxide",
+        "aloe-vera",
+        "glycerin",
+        "panthenol",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPFW%20%281%29_fmfhn3.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "2.5% Benzoyl Peroxide Facewash"
+      }
+    },
+    {
+      "id": "biotin-hair-gummies-breastfeeding-moms-30n-xp",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/biotin-hair-gummies-breastfeeding-moms-30n-xp",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "biotin",
+        "zinc",
+        "chicory-inulin",
+        "vitamin-d3",
+        "vitamin-c",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_d1ffzy.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Hair Gummies for Post-Pregnancy Hair Fall (30N)"
+      }
+    },
+    {
+      "id": "biotin-multivitamin-hair-gummies-2m",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/biotin-multivitamin-hair-gummies-2m",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Biotin Hair Gummies (60)",
+          "size": "60 N",
+          "price": 849,
+          "url": "https://bebodywise.com/product/biotin-multivitamin-hair-gummies-2m",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Biotin Hair Gummies (90)",
+          "size": "90 N",
+          "price": 1299,
+          "url": "https://bebodywise.com/product/hair-health-gummies-pack-3",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Biotin Hair Gummies (120)",
+          "size": "120 N",
+          "price": 1699,
+          "url": "https://bebodywise.com/product/biotin-hair-gummies-120",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "biotin",
+        "zinc",
+        "chicory-inulin",
+        "vitamin-c",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "The 60, 90 and 120 gummy pages list the same formula; the 30 gummy page lists a different ingredient formula and is kept separately."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG60_k2gjme.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Biotin Hair Gummies (60)"
+      }
+    },
+    {
+      "id": "hair-health-gummies",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-health-gummies",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "biotin",
+        "zinc",
+        "chicory-inulin",
+        "vitamin-c",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HG30_kmcln5.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Biotin Hair Gummies (30)"
+      }
+    },
+    {
+      "id": "advanced-magnesium-gummies-60n",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/advanced-magnesium-gummies-60n",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "5-in-1 Magnesium Gummies with Glycinate & Vitamin D3 (60N)",
+          "size": "60 Gummies",
+          "price": 999,
+          "url": "https://bebodywise.com/product/advanced-magnesium-gummies-60n",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "5-in-1 Magnesium Gummies with Beads 30N",
+          "size": null,
+          "price": 649,
+          "url": "https://bebodywise.com/product/advanced-magnesium-gummies-30n",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [
+        "magnesium-glycinate-gummies-60n"
+      ],
+      "ingredientIds": [
+        "magnesium",
+        "chicory-inulin",
+        "vitamin-d3"
+      ],
+      "fieldGaps": [
+        "The 30 gummy page also shows a 60 piece tag. Confirm the pack quantity; ingredient and brand blend information match the 60 gummy range."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgGummies60N_bbpixy.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "5-in-1 Magnesium Gummies with Glycinate & Vitamin D3 (60N)"
+      }
+    },
+    {
+      "id": "body-sunscreen-spray-with-spf-50",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/body-sunscreen-spray-with-spf-50",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "body-sunscreen-spray-with-spf-50-deal"
+      ],
+      "ingredientIds": [
+        "niacinamide",
+        "glycerin",
+        "titanium-dioxide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodySunscreenSpray_e9e5jg.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Body Sunscreen Spray with SPF 50"
+      }
+    },
+    {
+      "id": "brow-lash-serum",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/brow-lash-serum",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "anagain",
+        "redensyl",
+        "aminexil",
+        "glycerin",
+        "panthenol",
+        "rosemary"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Brow%26LashSerum_2p1r87.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Brow & Lash Growth Serum"
+      }
+    },
+    {
+      "id": "calcium-gummies",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/calcium-gummies",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Calcium Gummies",
+          "size": "30 Gummies",
+          "price": 231,
+          "url": "https://bebodywise.com/product/calcium-gummies",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Calcium Gummies - Pack of 2",
+          "size": null,
+          "price": 462,
+          "url": "https://bebodywise.com/product/calcium-gummies-xp",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "calcium",
+        "vitamin-d3",
+        "chicory-inulin"
+      ],
+      "fieldGaps": [
+        "The pack-of-2 page shows 60 pieces in tags but 30 gummies in additional information. Confirm the total count at the store."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_CalG30_3zyiku.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Calcium Gummies"
+      }
+    },
+    {
+      "id": "collagen-skin-gummies",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/collagen-skin-gummies",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "aloe-vera"
+      ],
+      "fieldGaps": [
+        "The brand describes a collagen-building botanical blend; collagen itself is not confirmed as an ingredient."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Collagen60_g14mdy.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Collagen Builder Gummies"
+      }
+    },
+    {
+      "id": "glutathione-gummies-60",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/glutathione-gummies-60",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "glutathione",
+        "chicory-inulin",
+        "vitamin-d3",
+        "vitamin-c",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Gluta60_ks7x96.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Glutathione Gummies (60N)"
+      }
+    },
+    {
+      "id": "face-razor-for-women",
+      "kind": "tool",
+      "source": {
+        "url": "https://bebodywise.com/product/face-razor-for-women",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1649680703/staging/products/face-razor-for-women/CAROUSEL/0.png?tr=w-800",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Face Razor"
+      }
+    },
+    {
+      "id": "ice-roller",
+      "kind": "tool",
+      "source": {
+        "url": "https://bebodywise.com/product/ice-roller",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/ice-roller/AppThumbnail_IceRoller_c2qp5f.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Ice Roller (1 N)"
+      }
+    },
+    {
+      "id": "lightest-mineral-sunscreen-spf50",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/lightest-mineral-sunscreen-spf50",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "titanium-dioxide",
+        "zinc-oxide",
+        "niacinamide",
+        "ceramides",
+        "glycerin",
+        "aloe-vera",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "Pack size conflicts: catalogue tags say 50 ml; additional information says 50g. Check the current pack."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MineralSunscreen_h5nhvd.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Lightest Mineral Sunscreen SPF 50+"
+      }
+    },
+    {
+      "id": "multivitamin-gummies",
+      "kind": "supplement",
+      "source": {
+        "url": "https://bebodywise.com/product/multivitamin-gummies",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "vitamin-d3",
+        "zinc",
+        "vitamin-e",
+        "vitamin-c",
+        "biotin",
+        "chicory-inulin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MVG_grjhio.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Multivitamin Gummies"
+      }
+    },
+    {
+      "id": "pigmentation-repair-cream",
+      "kind": "individual",
+      "source": {
+        "url": "https://bebodywise.com/product/pigmentation-repair-cream",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "lactic-acid",
+        "urea",
+        "niacinamide",
+        "kojic-acid-dipalmitate",
+        "retinol",
+        "glycerin"
+      ],
+      "fieldGaps": [
+        "The description names kojic acid while the full list specifies kojic acid dipalmitate; these are distinct ingredients."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRC_eilf4y.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Pigmentation Repair Cream"
+      }
+    },
+    {
+      "id": "scalp-massager",
+      "kind": "tool",
+      "source": {
+        "url": "https://bebodywise.com/product/scalp-massager",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_ScalpMassager_doqere.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Scalp Massager"
+      }
+    },
+    {
+      "id": "water-hardness-test-strip-sample",
+      "kind": "tool",
+      "source": {
+        "url": "https://bebodywise.com/product/water-hardness-test-strip-sample",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [],
+      "fieldGaps": [
+        "Usage instructions and ingredients refer to water softener, not the named test strip; they have not been imported.",
+        "Usage instructions not verified."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/mosaic-wellness/image/upload/v1647517392/staging/products/water-hardness-test-strip/SAMPLE/WHTSS_Hero.jpg?tr=w-800",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Water Hardness Test Strip (Sample)"
+      }
+    },
+    {
+      "id": "1-zpto-ads-hg30-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/1-zpto-ads-hg30-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "zinc-pyrithione",
+        "salicylic-acid",
+        "allantoin",
+        "biotin",
+        "zinc",
+        "chicory-inulin",
+        "glycerin",
+        "panthenol"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-ads-hg30-kit/AppThumbnail_ZPTO_HG30_ap7gv5.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Anti-Dandruff & Hair Fall Kit"
+      }
+    },
+    {
+      "id": "advanced-hair-growth-pack",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/advanced-hair-growth-pack",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "advanced-hair-growth-pack-xp"
+      ],
+      "ingredientIds": [
+        "redensyl",
+        "aminexil",
+        "biotin",
+        "anagain",
+        "rosemary",
+        "lactic-acid",
+        "glycerin",
+        "panthenol"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/postpartum-severe-hairfall-1month-xp/4%25AHABHARollOn%20%283%29_krpkem.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Advanced Hair Growth Pack"
+      }
+    },
+    {
+      "id": "advanced-underarm-pigmentation-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/advanced-underarm-pigmentation-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid",
+        "retinol",
+        "glycerin",
+        "shea-butter",
+        "mandelic-acid",
+        "kojic-acid",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_APRK_91ljnf.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Advanced Underarm Pigmentation Kit"
+      }
+    },
+    {
+      "id": "advanced-urea-skin-heel-repair-kit-50ml",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/advanced-urea-skin-heel-repair-kit-50ml",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "lactic-acid",
+        "salicylic-acid",
+        "ceramides",
+        "glycerin",
+        "shea-butter",
+        "olive-oil",
+        "vitamin-e",
+        "zinc-oxide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Urea Heel & Skin Repair Kit - 50ml"
+      }
+    },
+    {
+      "id": "aha-bha-body-pack",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/aha-bha-body-pack",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid",
+        "chamomile"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_AHABHABodyPackblend_7tkx54.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "AHA-BHA Body Pack"
+      }
+    },
+    {
+      "id": "anti-stress-hairfall-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/anti-stress-hairfall-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [
+        "hair-magnesium-gummies-kit-30n"
+      ],
+      "ingredientIds": [
+        "biotin",
+        "zinc",
+        "magnesium",
+        "chicory-inulin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StressHair_673aiq.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Stress-Induced Hair Loss Solution"
+      }
+    },
+    {
+      "id": "body-care-mini-pack",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/body-care-mini-pack",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "niacinamide",
+        "chamomile"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodyCareMiniPack_3pzf3t.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Body Acne Pack"
+      }
+    },
+    {
+      "id": "body-de-tan-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/body-de-tan-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-de-tan-kit/AppThumbnail_EBW_SPF_700ml_g5bvm5.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "De-Tan Kit"
+      }
+    },
+    {
+      "id": "body-exfoliation-pigmentation-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/body-exfoliation-pigmentation-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "glycolic-acid",
+        "salicylic-acid",
+        "kojic-acid",
+        "lactic-acid",
+        "shea-butter",
+        "vitamin-e"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-exfoliation-pigmentation-kit/AppThumbnail_PRC_Glycolic%20%281%29_i8034d.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Body Exfoliation & Pigmentation Kit"
+      }
+    },
+    {
+      "id": "daily-hydration-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/daily-hydration-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "lactic-acid",
+        "salicylic-acid",
+        "ceramides",
+        "glycerin",
+        "shea-butter",
+        "olive-oil",
+        "vitamin-e",
+        "zinc-oxide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/daily-hydration-kit/AppThumbnail_10%25UreaLotion300ml_TripleMilk_bv9w5v.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Daily Hydration Kit"
+      }
+    },
+    {
+      "id": "dandruff-and-hairfall-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/dandruff-and-hairfall-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "ketoconazole",
+        "biotin",
+        "zinc",
+        "glycerin",
+        "aloe-vera"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/dandruff-and-hairfall-kit/AppThumbnail_Keto_HG30_26nyvl.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Dandruff & Hairfall Kit"
+      }
+    },
+    {
+      "id": "face-and-body-acne-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/face-and-body-acne-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "glycerin",
+        "panthenol",
+        "aloe-vera",
+        "centella-asiatica",
+        "benzoyl-peroxide",
+        "vitamin-e"
+      ],
+      "fieldGaps": [
+        "Key ingredients not verified."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BenzPBW_3o13rw.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Face & Body Acne Kit"
+      }
+    },
+    {
+      "id": "face-body-sunscreen-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/face-body-sunscreen-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "centella-asiatica"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareDuo_elz05e.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Daily Sun Shield Kit"
+      }
+    },
+    {
+      "id": "hair-fall-control-mini",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-fall-control-mini",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "biotin",
+        "keratin",
+        "glycerin",
+        "shea-butter",
+        "argan-oil"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinFamily_b10z3k.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Hair Cleansing and Conditioning Kit"
+      }
+    },
+    {
+      "id": "hair-growth-pack-30ml-xp",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-growth-pack-30ml-xp",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "redensyl",
+        "aminexil",
+        "biotin",
+        "anagain",
+        "rosemary",
+        "lactic-acid",
+        "glycerin",
+        "panthenol"
+      ],
+      "fieldGaps": [
+        "The 30 ml product name conflicts with the 50 ml component quantity in additional information."
+      ],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/advanced-hair-growth-pack/Advanced%20%20%2811%29_55epjw.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Advanced Hair Growth Pack with Dropper 30ml"
+      }
+    },
+    {
+      "id": "hair-growth-pack-rosemary-roll-on-xp-2",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-growth-pack-rosemary-roll-on-xp-2",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Advanced Hair Growth Pack with Roll On 25ml",
+          "size": "25 ml + 30 N",
+          "price": 899,
+          "url": "https://bebodywise.com/product/hair-growth-pack-rosemary-roll-on-xp-2",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Advanced Hair Growth Pack with Roll On 25ml",
+          "size": "90 N + 25 ml",
+          "price": 1399,
+          "url": "https://bebodywise.com/product/hair-growth-pack-rosemary-roll-on-90n",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "rosemary",
+        "redensyl",
+        "biotin",
+        "zinc",
+        "aminexil",
+        "anagain",
+        "lactic-acid",
+        "glycerin",
+        "panthenol"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP_6ebs2q.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Advanced Hair Growth Pack with Roll On 25ml"
+      }
+    },
+    {
+      "id": "hair-pro-growth-pack",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/hair-pro-growth-pack",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "redensyl",
+        "biotin",
+        "zinc",
+        "lactic-acid",
+        "glycerin",
+        "panthenol"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGP2_ekpvme.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Hair Growth Pack"
+      }
+    },
+    {
+      "id": "intense-dandruff-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/intense-dandruff-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "ketoconazole",
+        "zinc-pyrithione"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_IntenseDandruffKit_1jcmwd.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Intense Dandruff Kit"
+      }
+    },
+    {
+      "id": "keratin-shampoo-with-roll-on",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/keratin-shampoo-with-roll-on",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "rosemary",
+        "redensyl",
+        "aminexil",
+        "anagain"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/keratin-shampoo-with-roll-on/Hero%20Img%201%20%281%29_1coflk.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Anti Hair Fall Kit"
+      }
+    },
+    {
+      "id": "magnesium-gummies-and-lotion-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/magnesium-gummies-and-lotion-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "magnesium",
+        "chicory-inulin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MgKit_1yy5wt.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Complete Magnesium Care"
+      }
+    },
+    {
+      "id": "sabodywash-scrub",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/sabodywash-scrub",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberrySkinExfoKit_4pf31a.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Strawberry Skin Exfoliation kit"
+      }
+    },
+    {
+      "id": "strawberry-skin-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/strawberry-skin-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/pdp_rcl/strawberry-skin-kit/Thakkar%20%282%29_4fef54.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Strawberry Skin Kit"
+      }
+    },
+    {
+      "id": "strawberry-skin-pack",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/strawberry-skin-pack",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "lactic-acid",
+        "chamomile"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_StrawberySkinPack_f5nd3y.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Strawberry Skin Pack"
+      }
+    },
+    {
+      "id": "summer-essentials-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/summer-essentials-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "niacinamide",
+        "hyaluronic-acid",
+        "lactic-acid",
+        "ceramides",
+        "glycerin",
+        "allantoin",
+        "centella-asiatica",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin",
+        "chamomile"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SuncareTrio%20%281%29_b1o08z.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Summer Essentials Trio"
+      }
+    },
+    {
+      "id": "sun-care-duo-head-to-toe",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/sun-care-duo-head-to-toe",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "niacinamide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SPF_ULSS%20%281%29_cv0igh.png?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Sun Care Duo for Face and Body"
+      }
+    },
+    {
+      "id": "underarm-pigmentation-kit-no-fragrance",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/underarm-pigmentation-kit-no-fragrance",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [],
+      "aliases": [],
+      "ingredientIds": [
+        "salicylic-acid",
+        "mandelic-acid",
+        "retinol",
+        "lactic-acid",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "alpha-arbutin"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PRK_FF_7y6t15.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Underarm Pigmentation Kit - No Fragrance"
+      }
+    },
+    {
+      "id": "urea-skin-heel-repair-kit",
+      "kind": "kit",
+      "source": {
+        "url": "https://bebodywise.com/product/urea-skin-heel-repair-kit",
+        "label": "Official Be Bodywise product page",
+        "checkedOn": "2026-10-12"
+      },
+      "variants": [
+        {
+          "name": "Urea Skin & Heel Repair Kit",
+          "size": "200 ml + 50 ml",
+          "price": 749,
+          "url": "https://bebodywise.com/product/urea-skin-heel-repair-kit",
+          "checkedOn": "2026-10-12"
+        },
+        {
+          "name": "Urea Skin & Heel Repair Kit",
+          "size": "200 ml + 75 ml",
+          "price": 849,
+          "url": "https://bebodywise.com/product/urea-skin-heel-repair-kit-75ml",
+          "checkedOn": "2026-10-12"
+        }
+      ],
+      "aliases": [],
+      "ingredientIds": [
+        "urea",
+        "lactic-acid",
+        "ceramides",
+        "glycerin",
+        "shea-butter",
+        "vitamin-e",
+        "zinc-oxide"
+      ],
+      "fieldGaps": [],
+      "image": {
+        "src": null,
+        "officialSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaKit_ce00s9.jpg?tr=w-600",
+        "permission": "pending",
+        "matchStatus": "unreviewed",
+        "alt": "Urea Skin & Heel Repair Kit"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://bebodywise.com/product/1-ketoconazole-dandruff-shampoo",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/1-ketoconazole-dandruff-shampoo-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/10-niacinamide-face-serum-plus-sunscreen-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/2-bio-retinol-undereye-cream",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/2-salicylic-acid-face-wash-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/2-salicylic-acid-face-wash-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/2-salicylic-acid-serum",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/3-aha-bha-back-and-body-acne-spray",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-assist-acv-gummies",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-assist-acv-gummies-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-assist-acv-gummies-pack-3",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-assist-weight-tea",
+      "error": "No product record",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-assist-weight-tea-pack-3",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/active-hair-growth-pack",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/adapalene-benzoyl",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/anti-chafing-rash-cream-gel-based",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/apple-cider-vinegar-effervescent-tablets",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/apple-cider-vinegar-effervescent-tablets-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/apple-cider-vinegar-effervescent-tablets-pack-3",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/apple-cider-vinegar-effervescent-tablets-pack-4",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/apple-cider-vinegar-effervescent-tablets-pack-6",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/biotin-hair-gummies-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/body-acne-dandruff-control-kit",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/broad-spectrum-sunscreen",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/chelate-water-softener",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/clinical-strength-dandruff-shampoo",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/clotrimazole-intimate-powder",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/collagen-powder",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/darkenyl-hair-serum",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/dht-blocker-capsules",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/effervescent-biotin-tablets",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/effervescent-biotin-tablets-pack-3",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/effervescent-biotin-tablets-pack-6",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/effervescent-biotin-tablets-pack-of-4",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/ha-vitamin-c-skin-gummies-60",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-growth-concentrate",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-growth-starter-pack",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-health-gummies-1",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-health-gummies-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-nourish",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-nourish-oil-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-restore",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/hair-strengthening-serum-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/intense-action-dandruff-treatment",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/intense-action-dandruff-treatment-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/intimate-care-serum",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/intimate-wash",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/keratin-shampoo",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/melatonin-sleep-gummies",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/minoxidil-topical",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/oil-control-moisturiser",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/onion-redensyl-hair-oil",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-balance-capsule",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-drink-super-food",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-drink-super-food-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-gummies",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-super-food-30-pack",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pcos-super-food-sample",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/period-pain-relief-patch",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/personal-body-massager",
+      "error": "No product record",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pms-gummies",
+      "error": "No product record",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/pore-tightening-toner",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/procapil-enriched-hair-solution",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/saw-palmetto-dht-blocking-shampoo",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-clarifying",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-health-gummies",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-health-gummies-pack-2",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-health-gummies-pack-3",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-hydrating-cleanser",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-regenerate-night",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-rejuvenation-serum",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/skin-revitilizing-oil",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/test-product-bb",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/tpe-yoga-mat",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/uti-detection-strip",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/vegan-plant-protein-powder",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    },
+    {
+      "url": "https://bebodywise.com/product/vegan-plant-protein-powder-women",
+      "error": "HTTP 410",
+      "checkedOn": "2026-10-12"
+    }
+  ]
+}

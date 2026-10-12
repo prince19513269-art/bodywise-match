@@ -1,0 +1,327 @@
+{
+  "url": "https://bebodywise.com/product/calcium-gummies",
+  "finalUrl": "https://bebodywise.com/product/calcium-gummies",
+  "checkedOn": "2026-10-12",
+  "name": "Calcium Gummies",
+  "productId": "779",
+  "subtitle": "Calcium Gummies with No Added Refined Sugar",
+  "productFor": "Stronger Bones & Joint Health",
+  "category": "Nutrition",
+  "price": 231,
+  "sizeTags": [
+    "30 pcs"
+  ],
+  "keyIngredients": [
+    "Calcium",
+    "Vitamin D3 derived from Lichen",
+    "Chicory Root (Prebiotic Fibre)"
+  ],
+  "usageInstructions": [
+    "Take 1 gummy daily after meal"
+  ],
+  "description": "Sore Joints, Aches & Fatigue? Your body might be craving Calcium! ⚠️ Calcium deficiency often goes unnoticed - until joint pain, low energy, and weak bones start showing up Why choose Be Bodywise Calcium Gummies? ✅ 40% Daily Calcium needs per dosage ✅ 22% better Absorption with Chicory Inulin ✅ No Added Refined Sugar - sweetness without glucose spikes",
+  "usage": "Take two gummies everyday post meal",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_CalG30_3zyiku.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/calcium-gummies/Slide%201%20copy_4unh64.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Chicory root extract, Gelling Agent (Pectin), Acidity Regulator (Citric Acid),  Calcium (Tri Calcium Phosphate), Vitamin D3 (Cholecalciferol - Lichen Source), Vitamin B12 (Cyanocobalamin SD), flavour  (Mixed berry), colour (Black carrot extract), Maize starch, Guar gum.</span>"
+        },
+        {
+          "title": "How to use",
+          "content": "<b>Step 1 </b><br /><span>Take two gummies everyday post meal</span>"
+        },
+        {
+          "title": "Caution",
+          "content": "To see a noticeable difference in you, it is recommended that you use these Calcium Gummies regularly and consistently for 3-4 months. We suggest taking a doctor's consultation before incorporating it into your routine. These gummies won't cause any reactions; if they do, please stop using them and consult a doctor before adding them back to your routine.<br /><b>Suitable for </b><br /><span>All women above the age of 18</span><br /><b>Helps </b><br /><span>Supports bone health, Joint and Muscle Health, Aging</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use this Gummy every day?",
+          "content": "Yes, we recommend using these gummies every day. "
+        },
+        {
+          "title": "Are these gummies safe for everyone?",
+          "content": "While generally safe, we advise consulting with your healthcare professional, especially if you have pre-existing medical conditions or are pregnant/nursing."
+        },
+        {
+          "title": "Can Calcium, Vitamin D3, and B12 support bone and joint health?",
+          "content": "Absolutely! Calcium is crucial for bone strength, Vitamin D3 aids calcium absorption, and B12 supports overall bone health. They work synergistically to promote strong bones and joints."
+        },
+        {
+          "title": "Are there any allergens in these gummies?",
+          "content": "Our calcium gummies are formulated to be free from common allergens like natural gluten, dairy, and soy. Please refer to the product label for the most up-to-date allergen information."
+        },
+        {
+          "title": "Are these gummies suitable for older adults?",
+          "content": "Yes, they are beneficial for older adults who are at a higher risk of calcium deficiency and osteoporosis."
+        },
+        {
+          "title": "How does the Chicory Root Fibre benefit me?",
+          "content": "The Chicory Root Fibre acts as a prebiotic, promoting gut bacteria, which in turn aids in calcium absorption and supports overall digestive health, without any added refined sugar spikes."
+        },
+        {
+          "title": "Why should I choose calcium gummies over traditional tablets?",
+          "content": "Many people struggle with pill fatigue, swallowing issues, or stomach discomfort from calcium tablets. Be Bodywise Calcium Gummies offer a tasty, easy-to-chew alternative that’s gentle on the stomach and enjoyable to take daily."
+        },
+        {
+          "title": "Can it be taken along with other supplements or gummies?",
+          "content": "Yes, our gummies can be consumed along with other gummies and any other supplements you are taking."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.0",
+      "text": "Calcium"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.1",
+      "text": "Vitamin D3 derived from Lichen"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.2",
+      "text": "Chicory Root (Prebiotic Fibre)"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_instructions.0",
+      "text": "Take 1 gummy daily after meal"
+    },
+    {
+      "path": "widgets.2",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "30 Gummies"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "Calcium, Vitamin D3 derived from Lichen, Chicory Root (Prebiotic Fibre)"
+    }
+  ]
+}

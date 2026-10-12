@@ -1,0 +1,338 @@
+{
+  "url": "https://bebodywise.com/product/10-urea-lotion-300ml",
+  "finalUrl": "https://bebodywise.com/product/10-urea-lotion-300ml",
+  "checkedOn": "2026-10-12",
+  "name": "10% Urea Body Lotion - 300 ml",
+  "productId": "700",
+  "subtitle": "For: Mild to Moderate Dry Skin",
+  "productFor": "Mild to Moderate Dry Skin",
+  "category": "body",
+  "price": 549,
+  "sizeTags": [
+    "300 ml"
+  ],
+  "keyIngredients": [
+    "10% Urea ",
+    "3% Mango Seed Butter",
+    "3% Kokum Seed Butter"
+  ],
+  "usageInstructions": [
+    "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+  ],
+  "description": "Your search for the Ultimate Hydrating Lotion ends here! Say hello to the 10% Urea Lotion by BeBodywise ✨ Made with Science-backed actives , this lotion: Deeply Moisturizes 💧: Urea is a key ingredient in your skin's natural moisturizing factor (NMF) , crucial for maintaining a healthy, hydrated skin barrier. Give your dry skin the love and care it craves! Nourishes Skin 🌿: This lightweight, non-greasy formula penetrates deep into the skin instead of sitting on the surface, ensuring immediate relief and upto 48 hrs moisturization . Soothes itchy skin 🧈: Enriched with 18% emollients like Shea, Mango, and Kokum Butters , this lotion soothes irritation while deeply nourishing and hydrating the skin. Clinically Tested | Lightweight | Gentle on skin",
+  "usage": "Step 1: Take a generous amount of lotion and massage onto your hands and feet, until absorbed Step 2: Massage an even layer all over the body until completely absorbed. AM PM Usage recommended",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_UreaLotion300ml_hfkpjk.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/10-urea-lotion-300ml/1%20%282%29_35woe0.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Urea, Glycerin , Butyrospermum Parkii (Shea) Butter, Ceteareth-20 (and) Cetostearyl Alcohol, Garcinia Indica (Kokum) Seed Butter, Mangifera Indica (Mango) Seed Butter, Butylene Glycol, Cetyl Alcohol, Cyclopentasiloxane, Dimethicone, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Tocopheryl Acetate, Stearic Acid, Zinc Oxide, Butylated Hydroxytoluene, Disodium EDTA, Imidazolidinyl Urea, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum (Ceramide Complex).</span><br /><b>Formulated Without </b><br /><span>Alcohol Free, Paraben Free</span>"
+        },
+        {
+          "title": "How to Use 10% Urea Lotion?",
+          "content": "To see a noticeable difference in your skin, it is recommended that you use the lotion regularly and consistently for 3-4 months. <br/><br/>Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/><br /><b>Step 1 </b><br /><span> Pump out a generous amount of lotion</span><br /><b>Step 1 </b><br /><span>Massage an even layer all over the body until completely absorbed.<br/><br/>AM PM Usage recommended</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use this Urea Lotion every day?",
+          "content": "Yes, we recommend using this Urea lotion for all skin types twice a day, every day."
+        },
+        {
+          "title": "Is this Urea lotion for all skin types?",
+          "content": "Yes - this Urea lotion can be used by all skin types, especially dry skin types"
+        },
+        {
+          "title": "Can I use this twice a day?",
+          "content": "Yes, we recommend using it twice a day."
+        },
+        {
+          "title": "I have damaged skin, will it help me?",
+          "content": "This Urea lotion helps repair damaged skin over months."
+        },
+        {
+          "title": "Can I use it right after a bath?",
+          "content": "Yes, you can use it any time of the day "
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "10% Urea"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Mango Seed Butter"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "3% Kokum Seed Butter"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "20% Urea"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "2% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "1% Olea Europaea (Olive) Fruit Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.3",
+      "text": "0.5% Tocopheryl Acetate"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "300 ml"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "10% Urea, 3% Mango Seed Butter, 3% Kokum Seed Butter"
+    }
+  ]
+}

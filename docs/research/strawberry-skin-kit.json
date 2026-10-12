@@ -1,0 +1,203 @@
+{
+  "url": "https://bebodywise.com/product/strawberry-skin-kit",
+  "finalUrl": "https://bebodywise.com/product/strawberry-skin-kit",
+  "checkedOn": "2026-10-12",
+  "name": "Strawberry Skin Kit",
+  "productId": "892",
+  "subtitle": "FOR: Strawberry Skin & Body Acne",
+  "concern": "For acne, strawberry legs & bumpy skin",
+  "productFor": "Keratosis pilaris, bumpy skin",
+  "category": "body",
+  "price": 698,
+  "sizeTags": [],
+  "keyIngredients": [
+    "Salicylic Acid (BHA)",
+    "5% Lactic Acid"
+  ],
+  "usageInstructions": [],
+  "description": "Still struggling with strawberry skin bumps? Try this Strawberry Skin Kit to treat strawberry skin, body acne & tan. This duo gently exfoliates & unclogs pores to smoothen your skin's texture. ✨ What’s Inside? ✅ 5% AHA-BHA Exfoliating Body Wash Gently exfoliates with Lactic, Glycolic & Salicylic Acid to clear pores and smooth skin. ✅ 7% Exfoliating Glycolic Acid Stick Targets stubborn bumps and ingrown hair for visibly smoother skin. An easy 2-step routine to target those tiny bumps over time!",
+  "usage": "AM Routine: Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin & rinse. PM Routine: Glide stick onto the clean skin with bumps / ingrown hair / rough texture / strawberry skin before bed. Use it consistently for 3 months for visible results.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/strawberry-skin-kit/Thakkar%20%282%29_4fef54.png?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/strawberry-skin-kit/Artboard%201%20%281%29_dq61fa.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": true,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Can I use this Kit every day?",
+          "content": "Yes, we recommend using the bodywash in the morning and glycolic acid stick before bed for all skin types every day."
+        },
+        {
+          "title": "Can I use this product on my face?",
+          "content": "This product is formulated for use on the body and may be too potent for the delicate skin on your face. We recommend using products specifically designed for facial exfoliation."
+        },
+        {
+          "title": "How does this kit help with strawberry skin?",
+          "content": "The kit combines a 5% AHA-BHA exfoliating body wash for full-body exfoliation and a Glycolic Acid stick for targeted treatment, helping unclog pores, remove dead skin buildup, and smooth rough texture over time."
+        },
+        {
+          "title": "Do I need to use moisturizer after this routine?",
+          "content": "Yes, applying a body moisturizer after exfoliation helps maintain hydration and supports skin barrier repair."
+        },
+        {
+          "title": "How does it help with razor bumps and ingrown hair?",
+          "content": "Salicylic acid, a BHA in our formula, is excellent at preventing and treating ingrown hairs and razor bumps. It works by gently exfoliating the skin's surface and unclogging pores, allowing hairs to grow out properly instead of getting trapped beneath the skin. This helps reduce redness, inflammation, and those pesky bumps."
+        },
+        {
+          "title": "Is this kit suitable for sensitive skin?",
+          "content": "The formula uses gentle chemical exfoliants designed for body skin. If you have sensitive skin, start with alternate-day use and patch test before full application."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.0",
+      "text": "Salicylic Acid (BHA)"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.1",
+      "text": "5% Lactic Acid"
+    },
+    {
+      "path": "widgets.2",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "250 mL"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "3% Lactic Acid, 1% Salicylic Acid, 1% Glycolic Acid"
+    },
+    {
+      "path": "widgets.5.widgetData.products.1.netQuantity",
+      "text": "30 g"
+    },
+    {
+      "path": "widgets.5.widgetData.products.1.ingredients",
+      "text": "7% Glycolic Acid, Salicylic Acid, Shea Butter"
+    }
+  ]
+}

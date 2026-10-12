@@ -1,0 +1,290 @@
+{
+  "url": "https://bebodywise.com/product/1-zpto-ads-hg30-kit",
+  "finalUrl": "https://bebodywise.com/product/1-zpto-ads-hg30-kit",
+  "checkedOn": "2026-10-12",
+  "name": "Anti-Dandruff & Hair Fall Kit",
+  "productId": "856",
+  "subtitle": "Controls dandruff, dryness & hair fall",
+  "productFor": "Hair fall & Dandruff",
+  "category": "hair",
+  "price": 998,
+  "sizeTags": [],
+  "keyIngredients": [
+    "1% ZPTO:",
+    "Piroctone Olamine:",
+    "Climbazole:",
+    "Tea Tree Extract:",
+    "Salicylic Acid:",
+    "Pentavitin:",
+    "Allantoin:",
+    "Erythritol:",
+    "Biotin",
+    "Zinc & Multivitamins",
+    "Chicory Root"
+  ],
+  "usageInstructions": [
+    "Daily"
+  ],
+  "description": "Dandruff, dryness & hair fall often go hand-in-hand. A dry scalp can weaken roots and lead to breakage. Be Bodywise Anti-Dandruff & Hair Strength Kit gently clears flakes, restores hydration, and strengthens hair from within. What does it contain? ➡️ 1% ZPTO Anti-Dandruff Shampoo : Fights dandruff-causing microbes, soothes dryness & restores scalp hydration with its dual-action formula ➡️ Hair Health Gummies : A daily boost of Biotin, Iron, and Zinc to support stronger hair from within Results you can expect: ➔ Month 1: Noticeably reduces flakes & scalp dryness ➔ Month 2: Reduced hair fall & improved scalp hydration ➔ Month 3+: Long-term flake control & noticeable reduction in hair fall 📅 Tested on Indian women. Visible results with consistent use.",
+  "usage": "✨ Consistency matters. Science that sets you free. 1% ZPTO Anti-Dandruff Shampoo (200ml) Apply to wet hair and massage into the scalp. Leave it on for 2-3 minutes then rinse thoroughly with water. Hair Health Gummies Take 1 gummy daily after a meal.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-ads-hg30-kit/AppThumbnail_ZPTO_HG30_ap7gv5.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-zpto-ads-hg30-kit/Artboard%201%20%2826%29_3r06ln.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": true,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Sodium Lauroyl Sarcosinate, Cocamidopropyl betaine, Sodium Cocoyl Isethionate, Sodium Cocoamphoacetate, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Glycerin , Tea Tree (Melaleuca Alternifolia) Leaf Extract, Zinc Pyrithione (50% active), Amodimethicone (and) Trideceth-12 (and) Cetrimonium Chloride, Glycol Stearate, Erythritol, Perfume, Piroctone Olamine, Styrene/Acrylates Copolymer (and) Coco-Glucoside, Allantoin, Climbazole, Panthenol, Polyquaternium-73, Saccharide Isomerate , Salicylic Acid, Cyamopsis Tetragonoloba (Guar) Gum, Polyquaternium-10, Menthol , Disodium EDTA, Methylchloroisothiazolinone (and) Methylisothiazolinone, Citric acid <br/><br/> Chicory Root Extract, Pectin (E440), Acidity Regulator (E330), Beta-Sitosterol, Vitamin H (Biotin),Vitamin B6 (Pyridoxine HCl), Ferrous Fumarate, Grape Seed Extract, Vitamin B12(Cyanocobalamin), Vitamin B9 (Folic acid),Vitamin D2 (Ergocalciferol), Zinc Citrate Dihydrate, Sesbania Extract, Vitamin A (Retinol Palmitate), Vitamin C (Ascorbic Acid ), Vitamin E (Tocopherol Acetate), Strawberry Color, Strawberry Flavor, Guar Gum, Maize Starch. CONTAINS PERMITTED COLOURS AND ADDED\nFLAVOURS (Strawberry)</span><br /><b>Formulated Without </b><br /><span>Added Refined Sugar, Gelatin, Natural Gluten, Animal-derived ingredients, Artificial colours, Preservatives</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "If you are pregnant, we recommend consulting your healthcare professional before taking not just this supplement, but any supplement.  For nursing mothers, you can use these: <link of postpartum gummies> Made with biotin and other multivitamins, these supplements help strengthen your hair and ensure hair growth. However, it is not an immediate solution and results take up to 3 months to show. It is effective when consumed daily; to continue well after the 3-4 month period if you wish to or can be replaced with a nutrient rich diet."
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can this be used for sensitive scalp?",
+          "content": "We recommend doing a patch test before using the product"
+        },
+        {
+          "title": "Are these gummies vegetarian?",
+          "content": "Yes, these gummies are vegetarian. "
+        },
+        {
+          "title": "Is it safe for pregnant women to take a biotin supplement?",
+          "content": "If you are pregnant or nursing, consult your healthcare professional before taking any supplement"
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "1% ZPTO:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "Piroctone Olamine:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.2",
+      "text": "Climbazole:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.3",
+      "text": "Tea Tree Extract:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.4",
+      "text": "Salicylic Acid:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.5",
+      "text": "Pentavitin:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.6",
+      "text": "Allantoin:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.7",
+      "text": "Erythritol:"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.8",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.9",
+      "text": "Zinc & Multivitamins"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.10",
+      "text": "Chicory Root"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "200 ml"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "1% ZPTO:, Salicylic Acid:, Pentavitin:, Allantoin:"
+    },
+    {
+      "path": "widgets.7.widgetData.products.1.netQuantity",
+      "text": "30 N"
+    },
+    {
+      "path": "widgets.7.widgetData.products.1.ingredients",
+      "text": "Biotin, Zinc & Multivitamins, Chicory Root"
+    }
+  ]
+}

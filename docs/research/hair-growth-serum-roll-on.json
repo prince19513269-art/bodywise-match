@@ -1,0 +1,228 @@
+{
+  "url": "https://bebodywise.com/product/hair-growth-serum-roll-on",
+  "finalUrl": "https://bebodywise.com/product/hair-growth-serum-roll-on",
+  "checkedOn": "2026-10-12",
+  "name": "Advanced Hair Growth Serum",
+  "subtitle": "For Hair Thinning & New Hair Growth",
+  "concern": "For hair growth",
+  "productFor": "Hair Thinning",
+  "category": "hair",
+  "price": 569,
+  "sizeTags": [
+    "25 ml"
+  ],
+  "keyIngredients": [
+    "3% Rosemary",
+    "3% Redensyl",
+    "2% Aminexil",
+    "2% Anagain"
+  ],
+  "usageInstructions": [
+    "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+  ],
+  "description": "Did you know 8/10 women experience hair fall in addition to hair thinning? If you are struggling with the same, we have a better solution for you: Advanced Hair Growth Pack India’s first hair growth serum with 23% Hair Growth Actives and a roll on applicator for mess-free application. If you are facing hair thinning, use this to: 📈Boosts Hair Growth 💯Promotes Hair Density ⬆️Increases Hair Thickness Infused with: 3% Rosemary 🌿 3% Redensyl 🧪 2% Anagain 🌱 2% Aminexil 💪 Use the roll on applicator to massage over the entire scalp for 2 mins, twice daily. ⏳Do this consistently for 3 months to see results. Month 2: Baby hair growth Month 3: Visible reduction in hair thinning Month 4+: Increase in hair volume Its Non-Oily formula makes for effortless everyday application! 👩🏽‍🦱Suitable for women above 18 years of age.",
+  "usage": "Step 1: Apply the roll on directly on the entire scalp for 2 mins Step 2: Massage with fingers to ensure the serum is absorbed properly. Leave overnight for best results. ✅Do this twice daily , consistently for 3 months . Since it is a leave-in serum, it does not need to be washed off after application, or the next day. Its Non-Oily formula makes for effortless everyday application. You can use it along with other hair oils, shampoos, serums and any other hair supplements.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HGRO_b9ytvj.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/hair-growth-serum-roll-on/hf_20260918_061755_bc5dc8e4-1231-4d67-bd10-64f1f576f850%20%283%29%20%281%29_evasok.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "MEDIA_CAROUSEL",
+      "keys": [
+        "type",
+        "id",
+        "header",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "3% Rosemary"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Redensyl"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.2",
+      "text": "2% Aminexil"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.3",
+      "text": "2% Anagain"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Twice"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.4",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "25 ml"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "3% Rosemary, 3% Redensyl, 2% Aminexil, 2% Anagain"
+    }
+  ]
+}

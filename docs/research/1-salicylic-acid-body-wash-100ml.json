@@ -1,0 +1,178 @@
+{
+  "url": "https://bebodywise.com/product/1-salicylic-acid-body-wash-100ml",
+  "finalUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash-100ml",
+  "checkedOn": "2026-10-12",
+  "name": "1% Salicylic Acid Body Wash - 100 mL",
+  "subtitle": "FOR: Body Acne & Strawberry Skin",
+  "concern": "For body acne",
+  "productFor": "Controlling Body Acne & Bumps",
+  "category": "body",
+  "price": 149,
+  "sizeTags": [
+    "100 ml"
+  ],
+  "keyIngredients": [
+    "1% Salicylic Acid",
+    "Chamomile Extract"
+  ],
+  "usageInstructions": [
+    "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+  ],
+  "description": "Want to reduce Body Acne & Bumpy skin in 90 days? 🤩 Be Bodywise 1% Salicylic Acid Body Wash helps to: 🌟 Exfoliate & remove dead skin cells 🌟 Prevent body acne by unclogging pores 🌟 Improve Strawberry Skin appearance over time 🌟 Give you cooling sensation and leave you refreshed with every wash ✅ Use twice daily for 3 months for best results🗓️.",
+  "usage": "Step 1 : On wet skin, take some body wash in your palms or on a loofah. Step 2 : Massage this salicylic acid body wash into skin using a gentle, circular motion. Step 3 : Once done using this body wash containing salicylic acid, rinse.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SABW100ml_4h3alm.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-salicylic-acid-body-wash-100ml/Product_Hero_luoezp.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "Chamomile Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "100 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "1% Salicylic Acid, Chamomile Extract"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://bebodywise.com/robots.txt",
+  "finalUrl": "https://bebodywise.com/robots.txt",
+  "checkedOn": "2026-10-12",
+  "status": 200,
+  "html": "User-agent: *\nDisallow: /habit/*\nDisallow: /status/*\nDisallow: /orderdetails/*\nSitemap: https://bebodywise.com/sitemap.xml\n\nUser-agent: AdsBot-Google\nAllow: /\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: SiteCheckerBotCrawler\nAllow: /\n\nUser-agent: OAI-SearchBot\nDisallow:"
+}

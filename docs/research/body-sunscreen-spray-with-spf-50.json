@@ -1,0 +1,227 @@
+{
+  "url": "https://bebodywise.com/product/body-sunscreen-spray-with-spf-50",
+  "finalUrl": "https://bebodywise.com/product/body-sunscreen-spray-with-spf-50",
+  "checkedOn": "2026-10-12",
+  "name": "Body Sunscreen Spray with SPF 50",
+  "productId": "555",
+  "subtitle": "For easy, mess-free sun protection",
+  "concern": "For body acne",
+  "productFor": "On-the-go Sun Protection",
+  "category": "Sun Protection",
+  "price": 399,
+  "sizeTags": [
+    "100 ml"
+  ],
+  "keyIngredients": [
+    "9.5% SunCat DE",
+    "1% Niacinamide",
+    "1% Red Algae",
+    "2.5% Glycerin"
+  ],
+  "usageInstructions": [
+    "Shake the bottle and keep it 1-2 inches away from your body. Spray generously around your body and gently massage it in. For best results, repeat every 2 hours."
+  ],
+  "description": "Your body deserves sun protection too☀️ No more sticky lotions or white cast—just spray, rub, and go! The Be Bodywise Body Sunscreen Spray makes sun protection effortless. ✨ SPF 50 PA+++ Protection – Shields your skin from UVA & UVB rays. 🛡️ 100% Safe Formula – SunCat DE technology protects without absorbing harsh chemicals. 🌿 Soothes & Hydrates – Glycerine calms sunburn and locks in moisture. ⏳ Anti-Ageing Benefits – Red Algae fights photoaging for youthful skin. ❌ No White Cast – Lightweight, quick-absorbing formula.",
+  "usage": "Step 1 : Shake the bottle and keep it 1-2 inches away from your body. Step 2 : Spray generously around your body and gently massage it in. Step 3 : For best results, repeat every 2 hours.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_BodySunscreenSpray_e9e5jg.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-spray-with-spf-50/cc_5ja5tg.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Aqua (and) Octyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (and) 1,3 Butylene glycol (and) Diethylhexyl Butamido Triazone (and) Phospholipids (and) Ethylhexyl Glycerine, Potassium Lauroyl Wheat Amino Acids (and) Palm Glycerides (and) Capryloyl Glycine, Glycerine, Isopropyl myristate, Propanediol, Isododecane (and) Disteardimonium Hectorite (and) Propylene Carbonate, Niacinamide, Triheptanoin (and) C13-16 Isoalkane, Ahnfeltiopsis Concinna Extract, Polyglyceryl-3 Rice Branate (and) Sucrose Stearate (and) Cetearyl Alcohol, Coco-Caprylate/Caprate, Phenoxyethanol (and) Ethylhexylglycerin, Xylitol (and) Glucose (and) Anhydroxylitol (and) Phoenix Dactylifera extract, Xanthan Gum, Sodium Gluconate, Titanium Dioxide, Butylated hydroxytoluene, Talc (and) Titanium Dioxide (and) Cyclopentasiloxane (and) Dimethicone, Menthyl Lactate.</span><br /><b>Formulated Without </b><br /><span>Paraben, Sulfate, Alcohol, Allergen, Testing on Animals</span>"
+        },
+        {
+          "title": "How to Use Body Sunscreen Spray?",
+          "content": "<b>Step 1 </b><br /><span>Shake the bottle and keep it 1-2 inches away from your body.</span><br /><b>Step 2 </b><br /><span>Spray generously around your body and gently massage it in</span><br /><b>Step 3 </b><br /><span>For best results, repeat every 2 hours</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use this sunscreen spray on face?",
+          "content": "This is recommended only for your body."
+        },
+        {
+          "title": "Is it safe for all skin types?",
+          "content": "Yes - it has SunCat DE, which makes it safe even for sensitive skin."
+        },
+        {
+          "title": "After how many hours, should I reapply this?",
+          "content": "Re-application after 2 hours is ideal"
+        },
+        {
+          "title": "How long will it take to absorb into the skin?",
+          "content": "It takes only 3 seconds post application to absorb into the skin."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "STATS_TILES_WITH_DESCRIPTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.0",
+      "text": "9.5% SunCat DE"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.1",
+      "text": "1% Niacinamide"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.2",
+      "text": "1% Red Algae"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.3",
+      "text": "2.5% Glycerin"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_instructions.0",
+      "text": "Shake the bottle and keep it 1-2 inches away from your body. Spray generously around your body and gently massage it in. For best results, repeat every 2 hours."
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_frequency.0",
+      "text": "As needed"
+    },
+    {
+      "path": "widgets.2",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "100 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "9.5% SunCat DE, 1% Niacinamide, 1% Red Algae, 2.5% Glycerin"
+    }
+  ]
+}

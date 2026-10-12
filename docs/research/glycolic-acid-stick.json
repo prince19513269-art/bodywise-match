@@ -1,0 +1,345 @@
+{
+  "url": "https://bebodywise.com/product/glycolic-acid-stick",
+  "finalUrl": "https://bebodywise.com/product/glycolic-acid-stick",
+  "checkedOn": "2026-10-12",
+  "name": "7% Glycolic Acid Exfoliating Body Stick - 30g",
+  "subtitle": "For Strawberry Skin and Ingrown Hair",
+  "productFor": "Pigmentation, Ingrown Hair, KP",
+  "category": "body",
+  "price": 599,
+  "sizeTags": [
+    "30 g"
+  ],
+  "keyIngredients": [
+    "7% Glycolic Acid",
+    " Salicylic Acid",
+    "Shea Butter"
+  ],
+  "usageInstructions": [
+    "Glide the product directly onto dry skin. Do not rinse.",
+    "Follow up with broad-spectrum sunscreen."
+  ],
+  "description": "India’s First Glycolic Acid Body Stick For Effortless Exfoliation 😍 Say goodbye to KP bumps, ingrown hairs, and strawberry skin without the mess of liquid toners! ✨ Why You’ll Love It? ✅ Dual Exfoliation: The combination of Glycolic & Salicylic Acid unclogs pores, smoothens texture and fights bumps. ✅ Deep Hydration: Shea Butter helps to gently replenish moisture. ✅ Travel-friendly: The solid stick design allows easy, targeted application anytime, anywhere! Exfoliation with hydration in One Stroke! 💖",
+  "usage": "1. Apply directly to clean, dry skin before bed. 2. Start with 2-3 applications per week, gradually increasing to daily use if your skin tolerates it. 3. In case of morning use, follow it up with a broad-spectrum sunscreen (SPF 30 +) to keep your skin protected.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_GlycolicStick_510b8q.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/glycolic-acid-stick/Artboard%201%20%284%29_69h9je.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "What’s this product for? Where can I use it?",
+          "content": "This exfoliating body stick is designed for targeted treatment and can be used as part of your daily AM/PM skincare routine. To use, after cleansing, apply the stick directly to areas needing exfoliation, such as elbows, knees, heels, feet, legs, and hands. In the AM, follow with a broad-spectrum sunscreen (SPF 30+). In the PM, follow with your usual moisturiser."
+        },
+        {
+          "title": "I am new to exfoliation; what should I know about this product?",
+          "content": "Exfoliation is the way to smoother, brighter skin! This exfoliating stick uses both AHAs (glycolic acid) and BHAs (salicylic acid) to gently remove dead skin cells. If you're new to exfoliation, we recommend starting slowly. Begin by using the stick 2-3 times per week on the areas you wish to treat. As your skin adjusts, you can gradually increase usage to daily application. If you experience any irritation, reduce usage or discontinue use."
+        },
+        {
+          "title": "Why do I need to use SPF after any AHA-BHA products?",
+          "content": "AHAs and BHAs, while incredibly effective can also make your skin more sensitive to the sun. Using a broad-spectrum sunscreen with an SPF of 30 or higher every day is crucial to protect your skin from sun damage. Think of it as protecting your newly revealed, radiant skin!"
+        },
+        {
+          "title": "Can I use this product on my face?",
+          "content": "This product is formulated for use on the body and may be too potent for the delicate skin on your face. We recommend using products specifically designed for facial exfoliation."
+        },
+        {
+          "title": "Won't this product be harsh on my body? Can I use it everyday?",
+          "content": "While this product contains powerful exfoliants, it's also formulated with nourishing ingredients like shea butter and oils to help soothe and moisturise the skin. However, everyone's skin is different. We recommend starting with 2-3 uses per week and gradually increasing to daily use as your skin tolerates it. If you experience any redness, dryness, or irritation, reduce usage or discontinue use."
+        },
+        {
+          "title": "How does it help with razor bumps and ingrown hair?",
+          "content": "\"Salicylic acid, a BHA in our formula, is excellent at preventing and treating ingrown hairs and razor bumps.   It works by gently exfoliating the skin's surface and unclogging pores, allowing hairs to grow out properly instead of getting trapped beneath the skin. This helps reduce redness, inflammation, and those pesky bumps\""
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.0",
+      "text": "7% Glycolic Acid"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.1",
+      "text": "Salicylic Acid"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.2",
+      "text": "Shea Butter"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_instructions.0",
+      "text": "Glide the product directly onto dry skin. Do not rinse."
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_instructions.1",
+      "text": "Follow up with broad-spectrum sunscreen."
+    },
+    {
+      "path": "widgets.2",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "1% Mandelic Acid"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "0.1% Retinol"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_frequency.1",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.2.widgetData.products.0.cta.actionData.product.usage_unit.1",
+      "text": "1"
+    },
+    {
+      "path": "widgets.2.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "10% Urea"
+    },
+    {
+      "path": "widgets.2.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "3% Mango Seed Butter"
+    },
+    {
+      "path": "widgets.2.widgetData.products.1.cta.actionData.product.key_ingredients.2",
+      "text": "3% Kokum Seed Butter"
+    },
+    {
+      "path": "widgets.2.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.2.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "20% Urea"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "2% Lactic Acid"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.key_ingredients.2",
+      "text": "1% Olea Europaea (Olive) Fruit Oil"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.key_ingredients.3",
+      "text": "0.5% Tocopheryl Acetate"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.2.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.key_ingredients.0",
+      "text": "Microencapsulated SUNONE J"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.key_ingredients.1",
+      "text": "ACZERO"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.key_ingredients.2",
+      "text": "Niacinamide"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.key_ingredients.3",
+      "text": "Centella Asiatica (Gotu Kola)"
+    },
+    {
+      "path": "widgets.2.widgetData.products.3.cta.actionData.product.usage_instructions.0",
+      "text": "On cleansed and toned skin, apply a generous amount of sunscreen on the face and neck."
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "30 g"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "7% Glycolic Acid, Salicylic Acid, Shea Butter"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "url": "https://bebodywise.com/product/acne-control-wash",
+  "finalUrl": "https://bebodywise.com/product/acne-control-wash",
+  "checkedOn": "2026-10-12",
+  "name": "1% Salicylic Acid Face Wash (Foam-Based)",
+  "subtitle": "For Mild Occasional Acne | Dry/Combination Skin Type | Suitable for 13+ yrs",
+  "productFor": "Mild Occasional Acne",
+  "category": "face",
+  "price": 239,
+  "sizeTags": [
+    "120 ml"
+  ],
+  "keyIngredients": [
+    "1% Glycolic Acid",
+    "1% Salicylic Acid"
+  ],
+  "usageInstructions": [
+    "Use the anti acne wash twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel.",
+    "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+  ],
+  "description": "If your acne is mild (whiteheads & blackheads) and occasional, then our 1% Salicylic acid facewash can help It works by: ⬇️ ✅ Exfoliating dead skin cells : Glycolic Acid & Salicylic Acid unclogs pores, removes build-up, and treats acne-prone skin ✅ Tightening Pores : Prevents future breakouts & shrinks pores ✅ Regularing Sebum production : Glycolic Acid removes excessive oil from the pores, thereby reducing oiliness ✅ Calming skin : Glycerin & Allantoin soothe skin This is suited for Dry/Combination skin. For Oily skin, use our 2% Salicylic Acid facewash 🏥 Self-Assessment study results (with 39 subjects over 2 weeks) ➡️ 92% saw visible reduction in face acne in 2 weeks🗓️ 📱 Download the Be Bodywise app & save upto 35% using the app wallet!",
+  "usage": "Step 1 : Pump out ~ coin size of 1% Salicylic Acid Face Wash (Foam-Based) Step 2 : Work up the foaming face wash into mild lather & massage the face in anti-clockwise circular movements for a minute. Rinse with lukewarm or tap water. Pat dry with a towel.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/acne-control-wash/AppThumbnail_1SalicylicAcid_FaceWash_Foam.blend%20%281%29_eyicuh.jpeg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/acne-control-wash/1_Product_Hero-1_5zd4hj.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.0",
+      "text": "1% Glycolic Acid"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.1",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.0",
+      "text": "Use the anti acne wash twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.1",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.2",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.3",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily-Twice"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.1",
+      "text": "Daily-Morning"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.2",
+      "text": "Daily-Evening"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_frequency.3",
+      "text": "Alternate days"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "120 ml"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.ingredients",
+      "text": "1% Glycolic Acid, 1% Salicylic Acid"
+    }
+  ]
+}

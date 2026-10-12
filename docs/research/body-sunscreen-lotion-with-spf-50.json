@@ -1,0 +1,281 @@
+{
+  "url": "https://bebodywise.com/product/body-sunscreen-lotion-with-spf-50",
+  "finalUrl": "https://bebodywise.com/product/body-sunscreen-lotion-with-spf-50",
+  "checkedOn": "2026-10-12",
+  "name": "De-Tan SPF 50+ Body Sunscreen Lotion",
+  "subtitle": "For: Tan correction and sun protection",
+  "concern": "For body acne",
+  "productFor": "Detan and Sun Protection ",
+  "category": "body",
+  "price": 539,
+  "sizeTags": [
+    "175 ML"
+  ],
+  "keyIngredients": [
+    "SunOne J™ Filters",
+    " Niacinamide",
+    "Guava Extract",
+    "Papaya Extract",
+    "Pomegranate Extract"
+  ],
+  "usageInstructions": [
+    "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+  ],
+  "description": "Meet the Be Bodywise De-Tan SPF 50+ Body Sunscreen Lotion: Corrects tan, protects from UV & hydrates skin. Ultralight. Non-sticky. 🌞 Why you’ll love it: ⭐ Tested Sun Protection SPF validated through In-Vivo & In-Vitro testing. ⭐ Helps Reduce Tan Niacinamide + fruit extracts support visible tan correction. ⭐ SPF 50+ Broad Spectrum Protection Advanced SunOne J UV filters protect against UVA & UVB rays. ⭐ Hydrates Skin Keeps skin moisturized while protecting from sun exposure.",
+  "usage": "Step 1: Apply generously 15 minutes before sun exposure. Step 2: Spread evenly on the exposed body areas. Step 3: Re-apply every 2–3 hours during prolonged sun exposure. 🌞 What is SPF 50+: Protects skin from UVB rays that cause sunburn and tanning. 🌞 What is PA++++: Provides very high protection against UVA rays, reducing tanning and pigmentation.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-lotion-with-spf-50/AppThumbnail_DeTan_SPF50_Lotion%20%281%29_lne86c.png?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/body-sunscreen-lotion-with-spf-50/Artboard%201%20%2822%29_jwaey6.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "SunOne J™ Filters"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "Niacinamide"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.2",
+      "text": "Guava Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.3",
+      "text": "Papaya Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.4",
+      "text": "Pomegranate Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+    },
+    {
+      "path": "widgets.4",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "175ml"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "SunOne J™ Filters, Niacinamide, Guava Extract, Papaya Extract, Pomegranate Extract"
+    }
+  ]
+}

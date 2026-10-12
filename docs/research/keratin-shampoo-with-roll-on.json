@@ -1,0 +1,236 @@
+{
+  "url": "https://bebodywise.com/product/keratin-shampoo-with-roll-on",
+  "finalUrl": "https://bebodywise.com/product/keratin-shampoo-with-roll-on",
+  "checkedOn": "2026-10-12",
+  "name": "Anti Hair Fall Kit",
+  "productId": "912",
+  "subtitle": "For moderate Hairfall and early thinning",
+  "concern": "For hair growth",
+  "productFor": "Hair Thinning",
+  "category": "hair",
+  "price": 899,
+  "sizeTags": [],
+  "keyIngredients": [
+    "3% Rosemary",
+    "3% Redensyl",
+    "2% Aminexil",
+    "2% Anagain"
+  ],
+  "usageInstructions": [
+    "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+  ],
+  "description": "8 out of 10 women experience hair fall along with visible hair thinning. If you’re noticing hair fall, widening partition, reduced density, or thinner hair over time — this complete hair care kit is designed to help address hair fall while supporting stronger, healthier-looking hair. Advanced Hair Growth Serum Roll-On ● 23% Clinically Studied Hair Growth Actives ● Lightweight | Non-greasy | Fast-absorbing ● Made for effortless, everyday use ● Designed for targeted, mess-free application Hair Fall Control Shampoo Enriched with keratin, biotin, caffeine & other nutrients , this shampoo is carefully developed to make your hair stronger, healthier and more hair fall resistant. ● Cleanses scalp by removing dirt, sebum & buildup ● Helps reduce hair fall by supporting hair follicle health ● Makes hair look thicker, glossier & less frizzy What This Kit Helps With ✔️ Boosts new hair growth ✔️ Helps reduce moderate hair fall ✔️ Helps reduce hair thinning ✔️ Supports stronger, healthier-looking hair ✔️ Keeps the scalp clean and free from buildup Important: ❌ You will not see results in just 1 month. Consistent use over time is key.",
+  "usage": "Step 1 Cleanse with shampoo 2–3 times a week, pair with Keratin conditioner. Step 2 Massage roll-on over entire scalp for 2 mins twice every day.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/keratin-shampoo-with-roll-on/Hero%20Img%201%20%281%29_1coflk.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/keratin-shampoo-with-roll-on/Hero%20%287%29_28wmac.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": true,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Can I use this Hair Growth Serum Roll-On more than once a day?",
+          "content": "Yes, If one can, should do. However, once a day is compulsory for noticeable results, non-compliance to daily usage may delay the process of new hair growth."
+        },
+        {
+          "title": "Will there be any side effects of using this hair growth serum roll-on?",
+          "content": "No, there are no side-effects. Its 100% Safe & Plant- Based Serum."
+        },
+        {
+          "title": "Is it pregnancy/breastfeeding safe?",
+          "content": "Our Hair Growth Serum Roll On is completely safe for pregnant and breastfeeding women. But it is recommended to visit your doctor to check for allergies prior to usage."
+        },
+        {
+          "title": "Can people below 18 use it?",
+          "content": "This product is recommended only for women above 18 years of age."
+        },
+        {
+          "title": "Do I need to wash my hair after applying?",
+          "content": "No, our serum is water-based and it does not make your hair oily. It does not need to be washed off, in fact, we recommend leaving it on for long hours for best results."
+        },
+        {
+          "title": "How long does this Keratin Shampoo take to work?",
+          "content": "From the moment you start using your Keratin Shampoo for Hair Fall, the super ingredients like keratin protein and biotin will start revitalizing your scalp and your hair follicles. You will only notice a difference in hair volume, hair thickness, and hair texture over consistent use for 3 months."
+        },
+        {
+          "title": "Can I use this Hair fall shampoo daily?",
+          "content": "Though this Keratin Shampoo for Hair Fall contains the best list of ingredients for your hair, it is recommended not using it more than thrice each week. Shampooing your hair more than thrice a week amounts to over-shampooing which damages your follicles and makes your scalp dry."
+        },
+        {
+          "title": "Are there any side effects to this Keratin Shampoo for Hair Loss?",
+          "content": "Absolutely not. There are no side effects of this Keratin Shampoo for Hair Fall. It is safe to use and it is FDA approved. For best results, it is recommended not using a hairdryer after washing your hair with this keratin Hair fall Control Shampoo."
+        },
+        {
+          "title": "What are the benefits of the Keratin?",
+          "content": "All keratin products protect your hair from damage. Like all keratin products, a keratin shampoo also prevents your hair from further damage from day-to-day styling and exposure to harsh environmental elements. It is recommended using a Keratin shampoo to maintain the smoothness and strength of your hair. In doing so, the keratin protein of your keratin shampoo avoids frizzy hair. Hence, a keratin shampoo is best for all types of hair especially frizzy hair."
+        },
+        {
+          "title": "What are the benefits of the Biotin?",
+          "content": "topical treatments of Biotin bind the molecule to the hair, giving it an immediate effect of fullness. That is because applying a hair product with Biotin coats each strand, increasing its diameter, and strengthening each strand. By doing this, it prevents breakage and allows hair to grow longer because it’s not as prone to snapping off before reaching your desired length."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "3% Rosemary"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Redensyl"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "2% Aminexil"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "2% Anagain"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply the roll on direclty on the scalp. Use 1 ml, twice a day for 3 months. Massage the Hair Serum using your fingers.This ensures the serum is absorbed properly. For best results, leave it one overnight."
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "250 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.ingredients",
+      "text": "Keratin, Biotin"
+    },
+    {
+      "path": "widgets.5.widgetData.products.1.netQuantity",
+      "text": "25 ml"
+    },
+    {
+      "path": "widgets.5.widgetData.products.1.ingredients",
+      "text": "3% Rosemary, 3% Redensyl, 2% Aminexil, 2% Anagain"
+    }
+  ]
+}

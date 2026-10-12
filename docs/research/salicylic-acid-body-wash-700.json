@@ -1,0 +1,222 @@
+{
+  "url": "https://bebodywise.com/product/salicylic-acid-body-wash-700",
+  "finalUrl": "https://bebodywise.com/product/salicylic-acid-body-wash-700",
+  "checkedOn": "2026-10-12",
+  "name": "1% Salicylic Acid Body Wash - 700 ml",
+  "productId": "585",
+  "subtitle": "FOR: Body Acne & Strawberry Skin",
+  "concern": "For body acne",
+  "productFor": "Controlling Body Acne & Bumps",
+  "category": "body",
+  "price": 699,
+  "sizeTags": [
+    "700 ml"
+  ],
+  "keyIngredients": [],
+  "usageInstructions": [
+    "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+  ],
+  "description": "Got Body Acne that keeps coming back? Use the Be Bodywise 1% Salicylic Acid Body Wash to: 🔹 Exfoliate & remove dead skin cells 🔹 Prevent body acne by unclogging pores 🔹 Cleanse and refresh your skin's barrier ✅ Use daily for 3 months for best results",
+  "usage": "Step 1 : Take adequate amount of bodywash in your palms/loofah. Step 2 : Apply on wet skin in a gentle circular motion. Step 3 : Rinse thoroughly once you are done.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_SABW700ml_4lyeaq.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-acid-body-wash-700/700ml%20-%20Hero_hldiv6.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads,  Saccharide Isomerate, Citric Acid, Chamomile Extract,  Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090</span><br /><b>Formulated Without </b><br /><span>Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use salicylic acid body wash everyday?",
+          "content": "Yes, we recommend using this body wash for back acne once a day, every day."
+        },
+        {
+          "title": "Is salicylic acid good for all skin types?",
+          "content": "Yes - this body wash can be used by all skin types."
+        },
+        {
+          "title": "Will this salicylic acid body wash remove my back acne and spots?",
+          "content": "This body wash helps calm inflamed skin and prevent formation of back acne."
+        },
+        {
+          "title": "Will this salicylic acid body wash cause rash or irritation?",
+          "content": "This body wash is safe to use on normal, oily and combination skin. It won't cause any side effects like rashes or irritation but since every skin is different, if you experience any of these symptoms, please consult an expert."
+        },
+        {
+          "title": "Is salicylic acid good for body wash?",
+          "content": "Salicylic Acid is a potent BHA which gently exfoliates skin and removes impurities. This makes salicylic acid a much-recommended ingredient in any body wash."
+        },
+        {
+          "title": "What does salicylic acid do for skin?",
+          "content": "Salicylic Acid gently dissolves dead skin cells and unclogs clogged pores. This helps deep cleanse the skin."
+        },
+        {
+          "title": "Does salicylic acid help keratosis pilaris?",
+          "content": "No, this potency of salicylic acid won't help with keratosis pilaris."
+        },
+        {
+          "title": "Is salicylic acid good for sensitive skin?",
+          "content": "1% Salicylic Acid is a potent formula that all skin types can use. If you're someone with sensitive skin, we'd recommend doing a patch test before including it in your routine."
+        },
+        {
+          "title": "What skin type should not use salicylic acid?",
+          "content": "We wouldn't recommend people with very dry skin to use salicylic acid."
+        },
+        {
+          "title": "Will this salicylic acid body wash lighten skin?",
+          "content": "No, this or any other body wash won't lighten the skin."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage this salicylic acid body wash into skin using a gentle, circular motion. Once done using this body wash containing salicylic acid, rinse."
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.5.widgetData.products.0.netQuantity",
+      "text": "700 ml"
+    }
+  ]
+}

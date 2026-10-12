@@ -1,0 +1,7 @@
+{
+  "url": "https://bebodywise.com/sitemap.xml",
+  "finalUrl": "https://bebodywise.com/sitemap.xml",
+  "checkedOn": "2026-10-12",
+  "status": 200,
+  "html": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n      <sitemap>\n        <loc>https://bebodywise.com/sitemap-products.xml</loc>\n        <lastmod>2026-10-12T10:20:59.173Z</lastmod>\n      </sitemap>\n      <sitemap>\n        <loc>https://bebodywise.com/sitemap-pages.xml</loc>\n        <lastmod>2026-10-12T10:20:59.173Z</lastmod>\n      </sitemap>\n      <sitemap>\n        <loc>https://bebodywise.com/blog/sitemap.xml</loc>\n      </sitemap>\n      </sitemapindex>"
+}

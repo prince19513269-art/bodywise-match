@@ -1,0 +1,225 @@
+{
+  "url": "https://bebodywise.com/product/triple-milk-deep-hydrating-bodywash-xp",
+  "finalUrl": "https://bebodywise.com/product/triple-milk-deep-hydrating-bodywash-xp",
+  "checkedOn": "2026-10-12",
+  "name": "Triple Milk Deep Hydrating Body wash",
+  "subtitle": "For dry, dehydrated skin",
+  "concern": "For body acne",
+  "productFor": "Exfoliation and detan",
+  "category": "body",
+  "price": 499,
+  "sizeTags": [],
+  "keyIngredients": [
+    "Triple Milk Blend (Shea, Coconut & Oat Milk Extracts)",
+    "Hydration Boosters (Erythritol, Pentavitin, Trehalose)",
+    "Glycerine - Hyaluronic Acid Complex\n",
+    "Centella Extract"
+  ],
+  "usageInstructions": [
+    "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+  ],
+  "description": "Dryness that just won’t quit? Meet Be Bodywise’s Triple Milk Deep Hydrating Body Wash for dry, tight skin. ✨ What makes it different? 🔹 6% Triple Milk: A blend of Shea, Coconut & Oat Milk to soothe dryness and leave your skin feeling calm. 🔹 3% Hydration Boosters: To lock in moisture & prevent dehydration 🔹 0.8% Dual Action Beads: Glycerin & Hyaluronic Acid beads that provide instant moisture for smooth, hydrated skin",
+  "usage": "Step 1 : Take adequate amount into your palms/loofah. Step 2 : Apply on wet skin in circular motion. Step 3 : Rinse thoroughly & pat dry.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/triple-milk-deep-hydrating-bodywash/AppThumbnail_TripleMilkDeepHydrating_BW_hwyvut.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/triple-milk-deep-hydrating-bodywash/1_Hero%20%283%29_28jq9i.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Can I use this product everyday?",
+          "content": "Yes, we recommend using this body wash for all skin types once a day, every day."
+        },
+        {
+          "title": "Is this suitable for my skin type?",
+          "content": "Yes - this body wash can be used by all skin types, especially dry skin types."
+        },
+        {
+          "title": "How much time will it take to see results?",
+          "content": "We recommend checking with an expert as results will vary depending on the condition, however you should start noticing a change within 3 months."
+        },
+        {
+          "title": "Can I use this product on my face?",
+          "content": "This product is formulated for use on the body and may be too potent for the delicate skin on your face. We recommend using products specifically designed for facial moisturisation."
+        },
+        {
+          "title": "What are the benefits of this body wash?",
+          "content": "This body wash deeply hydrates, soothes, and softens dry skin with its Triple Milk blend and moisture-infused beads - leaving your skin nourished, supple, and comfortable long after you shower."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.0",
+      "text": "Triple Milk Blend (Shea, Coconut & Oat Milk Extracts)"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.1",
+      "text": "Hydration Boosters (Erythritol, Pentavitin, Trehalose)"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.2",
+      "text": "Glycerine - Hyaluronic Acid Complex"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.key_ingredients.3",
+      "text": "Centella Extract"
+    },
+    {
+      "path": "widgets.1.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+    },
+    {
+      "path": "widgets.2",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "250 mL"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.ingredients",
+      "text": "Triple Milk Blend (Shea; Coconut & Oat Milk Extracts), Hydration Boosters (Erythritol; Pentavitin; Trehalose), Glycerine - Hyaluronic Acid Complex, Centella Extract"
+    }
+  ]
+}

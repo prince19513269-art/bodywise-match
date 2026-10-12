@@ -1,0 +1,411 @@
+{
+  "url": "https://bebodywise.com/product/deep-moisturizing-conditioner",
+  "finalUrl": "https://bebodywise.com/product/deep-moisturizing-conditioner",
+  "checkedOn": "2026-10-12",
+  "name": "Keratin Conditioner",
+  "subtitle": "Argan Oil & Biotin Enriched Hair Conditioner for Women",
+  "concern": "For good hair health",
+  "productFor": "Dry & Frizzy hair",
+  "category": "hair",
+  "price": 399,
+  "sizeTags": [
+    "200 ml"
+  ],
+  "keyIngredients": [
+    "Biotin",
+    "Argan Oil"
+  ],
+  "usageInstructions": [
+    "Use daily. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water.",
+    "Use alternate days. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips.  Leave it on for 2 to 3 mins and rinse with cold water."
+  ],
+  "description": "Women’s Hair Conditioner for Dry & Frizzy Hair Reduces Frizz: This Hair Conditioner for women is one of the best hair conditioners in India enriched with Silk protein, biotin & niacinamide that helps repair dry, frizzy, and unruly hair. This deep conditioner helps remove the frizz and dryness from the hair strands and makes them smooth and lustrous, making it an effective conditioner for dry hair. Smoothens Hair Strands: Silk protein in this conditioner for frizzy hair helps smoothen hair strands and add shine and lustre to treat such frizziness. Locks in Moisture: Shea butter in our hair conditioner for women prevents water loss and hair breakage. It retains moisture in the hair strands, making the hair look hydrated & voluminous. For best results, use Bodywise Deep Conditioner for Dry Hair for 3 months. 200 ml | Two months usage Get 20% cashback in your BW Purse",
+  "usage": "Step 1 : After washing your hair with Bodywise Anti Hair Fall Keratin Shampoo, gently squeeze excess water from your hair. Step 2 : Apply 2 teaspoons of our Hair Conditioner for women uniformly across hair strands and the tip of the hair. Step 3 : Leave the deep conditioner for 1-2 minutes and rinse well.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_KeratinConditioner_7tmjzz.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/deep-moisturizing-conditioner/IntroPage%20copy%20%282%29_iehyls.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Argan Oil"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "Use daily. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.1",
+      "text": "Use alternate days. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.doc_ingredients.0",
+      "text": "Biotin, multivitamins, zinc"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "Zinc & Multivitamins"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.2",
+      "text": "Chicory Root"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "Eat 1 gummy daily after a meal."
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "30 Gummies"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.attributes.key_ingredients",
+      "text": "biotin"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.4",
+      "type": "PRODUCT_REVIEW_CARD",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.key_ingredients.1",
+      "text": "Argan Oil"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_instructions.0",
+      "text": "Use daily. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_instructions.1",
+      "text": "Use alternate days. Use after washing the hair with shampoo. Apply it on the shaft of the hair & hair tips. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.5.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.6",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "STATS_TILES_WITH_DESCRIPTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.11",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.11.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.12",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.12.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.12.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.12.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.12.widgetData.products.0.netQuantity",
+      "text": "200 ml"
+    },
+    {
+      "path": "widgets.12.widgetData.products.0.ingredients",
+      "text": "Biotin, Argan Oil"
+    }
+  ]
+}

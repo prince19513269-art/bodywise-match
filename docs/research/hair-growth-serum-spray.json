@@ -1,0 +1,241 @@
+{
+  "url": "https://bebodywise.com/product/hair-growth-serum-spray",
+  "finalUrl": "https://bebodywise.com/product/hair-growth-serum-spray",
+  "checkedOn": "2026-10-12",
+  "name": "Hair Growth Serum Spray (30 ml)",
+  "productId": "913",
+  "subtitle": "For Hair Thinning & New Hair Growth",
+  "concern": "For hair growth",
+  "productFor": "Mess-free application",
+  "category": "hair",
+  "price": 699,
+  "sizeTags": [
+    "30 ml"
+  ],
+  "keyIngredients": [
+    "3% Rosemary",
+    "3% Redensyl",
+    "2% Aminexil",
+    "2% Anagain"
+  ],
+  "usageInstructions": [
+    "Spray 4 times directly onto the scalp and massage gently until absorbed. Do this twice daily, consistently for 3 months for best results."
+  ],
+  "description": "India’s first hair growth serum with 23% Hair Growth Actives and a spray applicator for mess-free application. If you are facing hair thinning, use this to: 📈Boosts Hair Growth 💯Promotes Hair Density ⬆️Increases Hair Thickness Infused with: 3% Rosemary 🌿 3% Redensyl 🧪 2% Anagain 🌱 2% Aminexil 💪 Spray 4 times directly onto the scalp and massage gently until absorbed, twice daily. ⏳Do this consistently for 3 months to see results. Month 2: Baby hair growth Month 3: Visible reduction in hair thinning Month 4+: Increase in hair volume Its Non-Oily formula makes for effortless everyday application! 👩🏽‍🦱Suitable for women above 18 years of age.",
+  "usage": "Step 1: Spray 4 times directly onto the scalp and massage gently until absorbed. Step 2: Do this twice daily , consistently for 3 months for best results.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/hair-growth-serum-spray/ChatGPT%20Image%20Aug%2011%2C%202026%2C%2004_17_12%20PM_6s2zpw.png?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/hair-growth-serum-spray/Artboard%202%20%289%29_hobfws.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Can I use this Hair Growth Serum Spray more than once a day?",
+          "content": "Yes, If one can, should do. However, once a day is compulsory for noticeable results, non-compliance to daily usage may delay the process of new hair growth."
+        },
+        {
+          "title": "Will there be any side effects of using this hair growth serum spray?",
+          "content": "No, there are no side-effects. Its 100% Safe & Plant- Based Serum."
+        },
+        {
+          "title": "Is it pregnancy/breastfeeding safe?",
+          "content": "Our Hair Growth Serum Spray is completely safe for pregnant and breastfeeding women. But it is recommended to visit your doctor to check for allergies prior to usage."
+        },
+        {
+          "title": "Can people below 18 use it?",
+          "content": "This product is recommended only for women above 18 years of age."
+        },
+        {
+          "title": "Do I need to wash my hair after applying?",
+          "content": "No, our serum is water-based and it does not make your hair oily. It does not need to be washed off, in fact, we recommend leaving it on for long hours for best results."
+        },
+        {
+          "title": "Can I only apply this after head-bath?",
+          "content": "No, you can apply it anytime."
+        },
+        {
+          "title": "Should this Hair growth serum spray be applied on the scalp or hair?",
+          "content": "This Hair Growth Serum Spray should only be applied on the scalp. It's not to be applied on the hair strands."
+        },
+        {
+          "title": "How does Rosemary help in Hair Growth?",
+          "content": "Rosemary has antioxidant properties that can help neutralize free radicals, potentially preventing hair follicle damage. It stimulates blood circulation, which helps in hair growth."
+        },
+        {
+          "title": "When should I use this Hair Growth Serum Spray?",
+          "content": "Ideally, it should be used in the late evening or night so that concentrate gets absorbed in the scalp. It can also be used in a day time but it should not be used before washing your hair as this is a leave-in treatment."
+        },
+        {
+          "title": "Is Redensyl Good for Hair Regrowth?",
+          "content": "Yes, Redensyl is a hair growth active ingredient that has been clinically proven to stimulate hair growth and promote hair regrowth. When used in a hair growth serum like Bodywise Hair Growth Serum, Redensyl works by targeting hair follicles in the growth phase and helping reduce hair fall by boosting the production of new hair cells."
+        },
+        {
+          "title": "How long should I apply Bodywise Hair Growth Serum Spray ?",
+          "content": "One should apply this for at least 3 months to see results."
+        },
+        {
+          "title": "Does this serum make my scalp oily?",
+          "content": "Our Hair Growth Serum is an water-based solution. It does not make your hair oily at all. No need to wash your hair in the morning"
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "3% Rosemary"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "3% Redensyl"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "2% Aminexil"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "2% Anagain"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "Spray 4 times directly onto the scalp and massage gently until absorbed. Do this twice daily, consistently for 3 months for best results."
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "url": "https://bebodywise.com/product/lightest-mineral-sunscreen-spf50",
+  "finalUrl": "https://bebodywise.com/product/lightest-mineral-sunscreen-spf50",
+  "checkedOn": "2026-10-12",
+  "name": "Lightest Mineral Sunscreen SPF 50+",
+  "productId": "707",
+  "subtitle": "100% Mineral Sunscreen | Pregnancy & Lactating Safe ",
+  "concern": "For body acne",
+  "productFor": "Pregnancy Safe Sun Protection",
+  "category": "Sun Protection",
+  "price": 449,
+  "sizeTags": [
+    "50 ml"
+  ],
+  "keyIngredients": [
+    "Microencapsulated Mineral Filters",
+    "Pollufence",
+    "Niacinamide"
+  ],
+  "usageInstructions": [
+    "On cleansed and toned skin, apply a generous amount of sunscreen on the face and neck."
+  ],
+  "description": "🌿 100% Mineral, 0% Compromise Made with natural mineral sunscreen actives — titanium dioxide & zinc oxide — that shield your skin to reflect UV rays, not absorb them. This is the safest shield. Why You’ll Love It: 🚫 Chemical-Free & Gentle – No harsh chemicals, only 100% mineral actives. 💧 Ultra-Light & Non-Greasy – Absorbs fast, no stickiness, no white cast. 🛡️ Pollution + UV Defense – Pollufence™ shields against UV & pollutants. 🌸 Safe for All – Fragrance-free, non-comedogenic & dermatologist-tested. ✅Perfect for sensitive, acne-prone skin ✅Safe for pregnant and lactating women, and kids too",
+  "usage": "Apply evenly to face, neck and ears as the final step of your skincare routine, 15 minutes before sun exposure.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MineralSunscreen_h5nhvd.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/lightest-mineral-sunscreen-spf50/Ultra%20Light%20Sunscreen%20SPF%2050%2B%20PDPb_k5ycyw.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Zinc Oxide (and) Dimethicone (and) Isodecyl Neopentanoate, Aqua, Caprylic/Capric Triglyceride, Glycerin , Cocos Nucifera (Coconut) Oil, Cyclopentasiloxane and Dimethicone/Vinyl Dimethicone Crosspolymer, Polysorbate-80, Aloe Barbadensis Leaf Extract, Cetostearyl alcohol, Niacinamide, Phenoxyethanol (and) Ethylhexylglycerin, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sambucus Nigra (Elderberry) Fruit Extract (and) Punica Granatum (Pomegranate) Peel Extract (and) Prunus Cerasus (Cherry) Extract (and) Hydrolyzed Wheat Protein (and) Glycerin (and) Aqua, Camellia Sinensis (Green Tea) Extract, Cetearyl Alcohol (and) Cetearyl Glucoside, Melaleuca Alternifolia (Tea Tree) Leaf Water, Tocopheryl Acetate, Zinc PCA, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Acrylates Copolymer (and) Lecithin, Sodium Polyacrylate, Titanium Dioxide, Xanthan Gum, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum ( (Ceramide Complex)), Disteardimonium Hectorite (and) Caprylic/Capric Triglyceride (and) Propylene Carbonate.</span><br /><b>Formulated Without </b><br /><span>Parabens, Fragrance, Allergens, Alcohol, Mineral Oil, Testing on Animals</span>"
+        },
+        {
+          "title": "How to Use Lightest Mineral Sunscreen SPF50+ ?",
+          "content": "<b>Step 1 </b><br /><span>Apply evenly to face, neck and ears as the final step of your skincare routine, 15 minutes before sun exposure.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "To see a noticeable difference in your skin, it is recommended that you use this Lightest Mineral Sunscreen SPF50+ regularly and consistently for 3-4 months. <br/><br/>Patch tests are easy to ensure you don't experience any initial adverse reaction when using a new product. We recommend doing a patch test before starting any new product on your skin. You can conduct a patch test by following the below steps: <br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow   <br/>2. Keep the area dry <br/>3. Leave on for 12-24 hours (or less if the product isn’t a leave-on product) <br/>4. If any redness, itching, or irritation is observed at any time during the test, do not use the product,; you can safely use it<br /><b>Suitable for </b><br /><span>• All skin types</span><br /><b>Helps </b><br /><span>• Protect skin from UVA and UVB rays • Deeply hydrates skin • Improve skin tone • Targets and heals acne • Leaves skin feeling smooth</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Is this suitable for all skin types?",
+          "content": "Since every skin type is different, we recommend doing a patch test before incorporating it in your routine."
+        },
+        {
+          "title": "Will it leave a white cast?",
+          "content": "Be Bodywise Lightest Mineral Sunscreen has a superlight aqua gel-like texture and doesn't leave a white cast"
+        },
+        {
+          "title": "How long till I see visible results?",
+          "content": "We recommend using this regularly for 3 months to see visible results."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.0",
+      "text": "Microencapsulated Mineral Filters"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.1",
+      "text": "Pollufence"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.2",
+      "text": "Niacinamide"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_instructions.0",
+      "text": "On cleansed and toned skin, apply a generous amount of sunscreen on the face and neck."
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "50g"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.ingredients",
+      "text": "Microencapsulated Mineral Filters, Pollufence, Niacinamide"
+    }
+  ]
+}

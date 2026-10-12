@@ -1,0 +1,170 @@
+{
+  "url": "https://bebodywise.com/product/anti-stretch-mark-roll-on",
+  "finalUrl": "https://bebodywise.com/product/anti-stretch-mark-roll-on",
+  "checkedOn": "2026-10-12",
+  "name": "Anti-Stretch Mark Serum Roll On",
+  "subtitle": "Reduces Stretch Mark Appearance",
+  "productFor": "Stretch Marks",
+  "category": "body",
+  "price": 569,
+  "sizeTags": [
+    "50 ml"
+  ],
+  "keyIngredients": [],
+  "usageInstructions": [
+    "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+  ],
+  "description": "Introducing India’s #1 Stretch Mark Solution - Clinically backed for the prevention and visible reduction of stretch marks. Powered by Regeneryl and Striover™, this dermatologist-approved roll-on is packed with ingredients that are clinically proven to improve skin elasticity and visibly fade stretch marks over time. 🧬 ✨Why you’ll love it : 1️⃣ Visibly reduces stretch marks: Helps fade existing marks and prevents new ones from forming. 2️⃣ Deeply hydrates: Deeply nourishes itchy and stretched skin. 3️⃣ Mess-free & convenient: Easy-to-use roll-on with lightweight, non-sticky formula for smooth and targetted application. Use it consistently to see results!",
+  "usage": "Step 1 : Apply directly on affected area. Step 2 : Massage gently until absorbed.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/anti-stretch-mark-roll-on/IMG_8119_7296bd.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/anti-stretch-mark-roll-on/Image%201%20%281%29_8jarqn.png?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.3",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.6.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.6.widgetData.products.0.netQuantity",
+      "text": "50 ml"
+    }
+  ]
+}

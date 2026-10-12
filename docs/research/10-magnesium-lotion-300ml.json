@@ -1,0 +1,265 @@
+{
+  "url": "https://bebodywise.com/product/10-magnesium-lotion-300ml",
+  "finalUrl": "https://bebodywise.com/product/10-magnesium-lotion-300ml",
+  "checkedOn": "2026-10-12",
+  "name": "10% Magnesium Body Lotion - 300 ml",
+  "subtitle": "For: Muscle Pain and Cramps",
+  "productFor": "Muscle soreness and cramps",
+  "category": "body",
+  "price": 499,
+  "sizeTags": [
+    "300 ml"
+  ],
+  "keyIngredients": [
+    "Magnesium Chloride",
+    "Lavender Oil",
+    "Mango Seed Butter",
+    "Cocoa Butter  ",
+    "Shea Butter"
+  ],
+  "usageInstructions": [
+    "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+  ],
+  "description": "Get more out of your daily lotion. More than moisturisation, this lotion gives muscle relief, relaxation, and deep nourishment in one bed-time routine. 💪🏽 Magnesium Chloride : Helps ease muscle tightness & stiffness 🪻 Lavender Oil : Supports a calmer, more restful wind-down 💧 Shea, Mango & Cocoa Butter : Rich, non-sticky hydration Massage in. Let it melt into the skin. Feel nourished, relaxed, and ready to rest. ✅ Fast Absorbing ✅ Non-Greasy ✅ Gentle on Skin",
+  "usage": "Step 1: Take 3-4 pumps of the product in your palms. Step 2: Rub it on: Your calves after walk, Shoulders after screen time, Lower back or feet before bed. Use it daily for best results.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_MagLotion_300ml_iunqab.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/10-magnesium-lotion-300ml/Hero_emplwu.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Magnesium Chloride, Butyrospermum Parkii (Shea) Butter, Glycerin, Setearyl alcohol (and) Cetearath-20, Isopropyl Myristate, Stearyl Alcohol, Caprylic/Capric\nTriglyceride , Cetyl Ethylhexanoate, Cyclopentasiloxane, Dimethicone , Glycerin (and) Glyceryl Glucoside, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 (And) Polyisobutene (And) Polysorbate-20, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Butylated Hydroxytoluene , Disodium EDTA, Imidazolidinyl Urea.</span><br /><b>Formulated Without </b><br /><span>Alcohol Free, Paraben Free, Silicon Free</span>"
+        },
+        {
+          "title": "How to Use 10% Magnesium Lotion?",
+          "content": "To see a noticeable difference in your skin, it is recommended that you use the lotion regularly and consistently for 3-4 months. <br/><br/>Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/><br /><b>Step 1 </b><br /><span>Take 3-4 pumps of the product in your palms.</span><br /><b>Step 2 </b><br /><span>Disperse product across feet, soles, legs, arms, neck, shoulder and massage it in for a few seconds for full absorption.</span><br /><b>Step 3 </b><br /><span>Reapply for a quick recovery!</span>"
+        },
+        {
+          "title": "Is it right for you?",
+          "content": "<b>Suitable for </b><br /><span>All skin types</span><br /><b>Helps </b><br /><span>Deeply nourish skin<br/><br/>Relaxes sore muscles<br/><br/>Protect skin barrier</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use this Magnesium Lotion every day?",
+          "content": "Yes, we recommend using this Magnesium lotion for all skin types everyday."
+        },
+        {
+          "title": "Is this Magnesium lotion for all skin types?",
+          "content": "Yes - this Magnesium lotion can be used by all skin types, especially dry skin types"
+        },
+        {
+          "title": "I have soreness due to age, will it help?",
+          "content": "Yes, this lotion will help you relax muscles and have a relaxing time. "
+        },
+        {
+          "title": "I am a player and often have body aches, is it safe to use everyday?",
+          "content": "Yes, you can definitely use it, everyday."
+        },
+        {
+          "title": "Can I use it right after a bath?",
+          "content": "Yes, you can use it any time of the day "
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.0",
+      "text": "Magnesium Chloride"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.1",
+      "text": "Lavender Oil"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.2",
+      "text": "Mango Seed Butter"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.3",
+      "text": "Cocoa Butter"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.key_ingredients.4",
+      "text": "Shea Butter"
+    },
+    {
+      "path": "widgets.0.widgetData.productInfo.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "300 ml"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "Magnesium Chloride, Lavender Oil, Mango Seed Butter, Cocoa Butter, Shea Butter"
+    }
+  ]
+}

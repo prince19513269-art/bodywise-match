@@ -1,0 +1,293 @@
+{
+  "url": "https://bebodywise.com/product/20-urea-lotion-xp",
+  "finalUrl": "https://bebodywise.com/product/20-urea-lotion-xp",
+  "checkedOn": "2026-10-12",
+  "name": "20% Urea Lotion - 300ml",
+  "subtitle": "For: Dry to Very Dry & Flaky Skin",
+  "productFor": "Very Dry and Flaky Skin",
+  "category": "body",
+  "price": 569,
+  "sizeTags": [
+    "300 ml"
+  ],
+  "keyIngredients": [
+    "20% Urea ",
+    "Hydrating Butter Blend",
+    "Ceramide Complex"
+  ],
+  "usageInstructions": [
+    "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+  ],
+  "description": "Your search for long-lasting hydration ends here! 💧 Meet Be Bodywise 20% Urea Lotion — India’s 1st Triple Action Hydrating Lotion for dry to very dry skin, powered by DeepSorb™ Technology. Here's why you'll love it : ✨ Deeply hydrates and replenishes lost moisture 🩺 Repairs the skin barrier to reduce dryness and flakiness 🧴 Locks in nourishment for long-lasting, non-sticky comfort Lightweight | Non-Greasy | Dermatologist Approved ✔️",
+  "usage": "Step 1: Take a generous amount of lotion and massage onto your hands and feet, until absorbed Step 2: Massage an even layer all over the body until completely absorbed.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/20-urea-lotion-xp/AppThumbnail_20%25UreaLotion300ml_4nhfot.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/20-urea-lotion-xp/Artboard%201%20%285%29_lshrso.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "20% Urea"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "Hydrating Butter Blend"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "Ceramide Complex"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "20% Urea"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "2% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "1% Olea Europaea (Olive) Fruit Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.3",
+      "text": "0.5% Tocopheryl Acetate"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "300 ml"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "20% Urea, Hydrating Butter Blend, Ceramide Complex"
+    }
+  ]
+}

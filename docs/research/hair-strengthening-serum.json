@@ -1,0 +1,316 @@
+{
+  "url": "https://bebodywise.com/product/hair-strengthening-serum",
+  "finalUrl": "https://bebodywise.com/product/hair-strengthening-serum",
+  "checkedOn": "2026-10-12",
+  "name": "Hair Strengthening Serum (100mL)",
+  "subtitle": "FOR: Frizz reduction | Dry & damaged hair",
+  "productFor": "Frizzy, unruly hair",
+  "category": "hair",
+  "price": null,
+  "sizeTags": [
+    "100 ml"
+  ],
+  "keyIngredients": [
+    "Argan Oil",
+    "Olive Oil"
+  ],
+  "usageInstructions": [
+    "Use daily in the morning. Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application.",
+    "Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application."
+  ],
+  "description": "💆🏻‍♀️Reduces frizz : Argan oil, rich in Vitamin E and Oleic acid helps with frizz control and moisturization 🌟Damage protection : Sunflower oil, rich in GLA (Gamma linolenic acid) and other nutrients like Vitamin E and K, is a critical ingredient in heat protection and protection from damage caused by styling tools. ✨Adds natural shine : Olive oil moisturises and adds shine to the hair. It is loaded with anti oxidants and is rich in Vitamin E and K. 📈Nourishes & strengthens hair : Jojoba oil provides vitamin C, B & E, Copper, and Zinc, that help nourish and strengthens hair. 100 ml | Lasts two months",
+  "usage": "Step 1 : After using Bodywise' s Hair fall Control Shampoo and Deep Moisturizing Conditioner, towel-dry hair. Step 2 : Apply one tea spoon of the hair serum along the length of your hair. Step 3 : Run your fingers through your hair for uniform distribution of the hair serum",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_HairStrenghteningSerum_100ml_3nh8dn.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/hair-strengthening-serum/IntroPage%20%281%29_jyqf23.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "Argan Oil"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Olive Oil"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "Use daily in the morning. Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.1",
+      "text": "Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application."
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.doc_ingredients.0",
+      "text": "Biotin, multivitamins, zinc"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "Zinc & Multivitamins"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.key_ingredients.2",
+      "text": "Chicory Root"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "Eat 1 gummy daily after a meal."
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "30 Gummies"
+    },
+    {
+      "path": "widgets.0.widgetData.products.1.cta.actionData.product.attributes.key_ingredients",
+      "text": "biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.doc_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "Keratin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "Biotin"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "Use daily. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_instructions.1",
+      "text": "Use alternate days. Apply to wet hair and massage it onto the scalp. Leave it on for 2 to 3 mins and rinse with cold water."
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.0.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "Argan Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "Olive Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Use daily in the morning. Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application."
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.1",
+      "text": "Take a small quantity (approx 1 teaspoon) on your fingers and run them through your hair strands. Do not apply on the scalp. Comb hair post-application."
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_frequency.1",
+      "text": "Alternate Days"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.4",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "100 ml"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "Argan Oil, Olive Oil"
+    }
+  ]
+}

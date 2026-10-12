@@ -1,0 +1,341 @@
+{
+  "url": "https://bebodywise.com/product/30-urea-foot-roll-on-75ml",
+  "finalUrl": "https://bebodywise.com/product/30-urea-foot-roll-on-75ml",
+  "checkedOn": "2026-10-12",
+  "name": "30% Urea Foot Roll On 75 ml",
+  "productId": "890",
+  "subtitle": "For Cracked & Rough heels",
+  "productFor": "Cracked & Rough Heels",
+  "category": "body",
+  "price": 649,
+  "sizeTags": [],
+  "keyIngredients": [
+    "30% Urea",
+    "5% Lactic Acid",
+    "1% Glycolic Acid",
+    "Olive Oil"
+  ],
+  "usageInstructions": [
+    "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+  ],
+  "description": "Meet our 30% Urea Foot & Heel Roll-On — the advanced solution for severe dryness and deep cracks, with the highest Urea concentration in the market! ✨ Why You'll Love It: 🔹 Softens Stubborn Roughness: With 30% Urea, it intensely softens thick, hardened skin and helps eliminate painful cracked heel symptoms 💧 Intense Hydration, Zero Grease: Delivers quick, long-lasting moisture without the heavy or sticky feel. 🩺 Dermatologist-Trusted Formula: Specially designed for very dry, cracked, and rough feet that need more than just a regular cream. ✅ For best results, apply twice daily until cracks and roughness visibly reduce.",
+  "usage": "Step 1 : Clean your foot and pat dry. Step 2 : Roll the product on foot and massage gently. Allow the product to dry. Use everyday for 3 months for best results.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/30-urea-foot-roll-on-75ml/AppThumbnail_30%25UFRO75ml_1a4h88.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/30-urea-foot-roll-on-75ml/Slide%201%20%281%29_b33d6o.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Purified Water, Urea, Cyclopentasiloxane, Isopropyl Myristate, Lactic Acid, Propylene Glycol, Dimethicone, Glyceryl Stearate (and) PEG-100 Stearate, Cetostearyl Alcohol, Sodium Hydroxide, Fragrance, Glycerin, Salicylic Acid, Cetylated Fatty Ester Complex, Polysorbate-20, Glycolic Acid, Glyceryl Monostearate, Phenoxyethanol, Olea Europaea (Olive) Fruit Oil, Cetyl Palmitate, Stearic Acid, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Disodium EDTA, Menthol, Tocopheryl Acetate.</span><br /><b>Formulated Without </b><br /><span>Parabens, Sulfates, Phthalates, Mineral oil, Formaldehyde, Oxybenzone, Petrolatum/Petroleum, silicone, lanolein wax   </span>"
+        },
+        {
+          "title": "How to Use 30% Urea Roll On ?",
+          "content": "<b>Step 1 </b><br /><span>Clean your foot and pat dry.</span><br /><b>Step 2 </b><br /><span>Roll the product on foot and massage gently. Allow the product to dry.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Patch tests are easy to ensure you don't experience any initial adverse reaction when using a new product. We recommend doing a patch test before starting any new product on your skin. You can conduct a patch test by following the below steps:  1. Apply the product to a small patch of skin either to the arm or bend of the elbow   2. Keep the area dry 3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product) 4. If any redness, itching, or irritation is observed at any time during the test, do not use the product,; you can safely use it"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Does it help with cracked, rough heels?",
+          "content": "Yes, it does. Urea, present in the product, is a humectant that attracts moisture to the skin, softening and hydrating dry, rough areas. It also gently exfoliates by breaking down dead skin cells, which helps smooth out tough skin patches."
+        },
+        {
+          "title": "Does this roll on eliminate foot callous?",
+          "content": "Yes, this 30% Urea Roll On can eliminate symptoms like calluses and heel fissures as it has exfoliating properties."
+        },
+        {
+          "title": "How is this different from other foot creams?",
+          "content": "This roll on contains the most potent formulation to treat cracked, rough and dry heels. Urea & Lactic acid present exfoliates dead skin buildup, promotes skin cell turnover, and deeply moisturizes. Roll on format makes it mess-free and convenient to use."
+        },
+        {
+          "title": "Is it safe to use?",
+          "content": "Yes, it is 100% safe to use."
+        },
+        {
+          "title": "How long will it take to heal cracked heel?",
+          "content": "It depends on the severity, but we recommend to use it daily for 3 months for best results."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.doc_ingredients.0",
+      "text": "1% Salicylic Acid, Chamomile extract"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "Microencapsulated SUNONE J"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "ACZERO"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "Niacinamide"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.key_ingredients.3",
+      "text": "Centella Asiatica (Gotu Kola)"
+    },
+    {
+      "path": "widgets.0.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "On cleansed and toned skin, apply a generous amount of sunscreen on the face and neck."
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "FEATURE_CARD_SLIDER_WITH_IMAGE_MODAL",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.0",
+      "text": "30% Urea"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.1",
+      "text": "5% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.2",
+      "text": "1% Glycolic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.key_ingredients.3",
+      "text": "Olive Oil"
+    },
+    {
+      "path": "widgets.3.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.4",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "75 ml"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "30% Urea, 5% Lactic Acid, 1% Glycolic Acid, Olive Oil"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "url": "https://bebodywise.com/product/2-aha-body-wash",
+  "finalUrl": "https://bebodywise.com/product/2-aha-body-wash",
+  "checkedOn": "2026-10-12",
+  "name": "2% AHA Body Wash",
+  "productId": "354",
+  "subtitle": "Backed By Science, Clinically Tested",
+  "productFor": "Cell turnover & Exfoliation",
+  "category": "body",
+  "price": 199,
+  "sizeTags": [
+    "250 ml"
+  ],
+  "keyIngredients": [
+    "4% Glycerin",
+    "Lactic Acid",
+    "Glycolic Acid",
+    "Aloe Vera",
+    "Grapeseed Extract"
+  ],
+  "usageInstructions": [
+    "On wet skin, take some body wash in your palms or on a loofah. Massage the body wash into skin using gentle, circular motions. Once done, rinse with lukewarm/cold water."
+  ],
+  "description": "▶Deep cleanses skin : Glycolic Acid in this AHA body wash deep cleanses pores by gently exfoliating dead skin cells and removing impurities. ▶Improves skin cell turnover : Lactic Acid helps boost collagen production, i.e. post exfoliation - it helps surface the new skin much faster ▶Provides intense hydration and nourishes the skin: Glycerine is a natural humectant, i.e. it pulls moisture from the environment keeping skin soft and supple ▶Leaves you refreshed with every wash: With every use, the Aloe Vera and Grape Seed Extract in this AHA cleanser leaves you feeling refreshed and rejuvenated For best results, use daily for at least 3 months",
+  "usage": "Step 1 : On wet skin, take some body wash in your palms or on a loofah. Step 2 : Massage this 2% AHA body wash into skin using a gentle, circular motion. Step 3 : Once done using this body wash, rinse.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-aha-body-wash/AppThumbnail_AHABHA_BW_jh2fsb.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/2-aha-body-wash/Artboard%201%20%2825%29_keg73m.jpg?tr=w-600",
+  "outOfStock": true,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, Coco Glucoside, Cocamidopropyl Betaine, Glycerine, Triethanolamine, Glycolic Acid, Lactic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Erythritol, Polysorbate-20, Propylene Glycol, Perfume, Milliglobules, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Citrate, Vitis Vinifera (Grape) Seed Extract, Disodium EDTA, Tocopheryl Acetate, CI 15985.</span><br /><b>Formulated Without </b><br /><span>Paraben, Mineral Oil, Sulphate, Silicone, Cruelty</span>"
+        },
+        {
+          "title": "How to Use 2% AHA Body Wash?",
+          "content": "On wet skin, take some body wash in your palms or on a loofah.<br />Massage the body wash into skin using gentle, circular motions.<br />Once done, rinse with lukewarm/cold water.<br /><b>Step 1 </b><br /><span>On wet skin, take some body wash in your palms or on a loofah.</span><br /><b>Step 2 </b><br /><span>Massage the body wash into skin using gentle, circular motions.</span><br /><b>Step 3 </b><br /><span>Once done, rinse with lukewarm/cold water.</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps:<br/>1. Apply the product to a small patch of skin either to the arm or bend of the elbow  <br/>2. Keep the area dry<br/>3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product)<br/>4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it<br/><br /><b>Ingredient Names </b><br /><span>Aqua, Coco Glucoside, Cocamidopropyl Betaine, Glycerine, Triethanolamine, Glycolic Acid, Lactic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Erythritol, Polysorbate-20, Propylene Glycol, Perfume, Milliglobules, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Citrate, Vitis Vinifera (Grape) Seed Extract, Disodium EDTA, Tocopheryl Acetate, CI 15985.</span><br /><b>Formulated Without </b><br /><span>Paraben, Mineral Oil, Sulphate, Silicone, Cruelty</span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use AHA body wash every day?",
+          "content": "Yes, we recommend using this body wash for all skin types once a day, every day."
+        },
+        {
+          "title": "Is AHA good for all skin types?",
+          "content": "Yes - this body wash can be used by all skin types."
+        },
+        {
+          "title": "Can I use this twice a day?",
+          "content": "We recommend seeking expert advice to verify the same."
+        },
+        {
+          "title": "How much time will it take to see results?",
+          "content": "We recommend checking with an expert as results will vary depending on the condition: however you should start noticing a change within 3 months"
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "5% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Cica Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "1% Glycolic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "Use the anti acne wash twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.1",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.2",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.3",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily-Twice"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.1",
+      "text": "Daily-Morning"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.2",
+      "text": "Daily-Evening"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.3",
+      "text": "Alternate days"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.4",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.doc_ingredients.0",
+      "text": "4% Glycerin"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.0",
+      "text": "4% Glycerin"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.1",
+      "text": "Lactic Acid"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.2",
+      "text": "Glycolic Acid"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.3",
+      "text": "Aloe Vera"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.4",
+      "text": "Grapeseed Extract"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_instructions.0",
+      "text": "On wet skin, take some body wash in your palms or on a loofah. Massage the body wash into skin using gentle, circular motions. Once done, rinse with lukewarm/cold water."
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.5",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "KEY_METRIC_DISPLAY",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing",
+        "borderRadius"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "250 ml"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "4% Glycerin, Lactic Acid, Glycolic Acid, Aloe Vera, Grapeseed Extract"
+    }
+  ]
+}

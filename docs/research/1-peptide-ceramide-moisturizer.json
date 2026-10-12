@@ -1,0 +1,438 @@
+{
+  "url": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
+  "finalUrl": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
+  "checkedOn": "2026-10-12",
+  "name": "1% Peptide & Ceramide Moisturizer",
+  "subtitle": "For Repairing Skin Barrier & Slowing Ageing",
+  "concern": "For body acne",
+  "productFor": "Repairing skin barrier",
+  "category": "face",
+  "price": 374,
+  "sizeTags": [
+    "50 g"
+  ],
+  "keyIngredients": [
+    "1% Copper Tripeptide-1 (2000 ppm)",
+    "1% D-Panthenol",
+    "0.5% Ceramide Complex"
+  ],
+  "usageInstructions": [
+    "Apply this cream liberally and gently massage until completely absorbed"
+  ],
+  "description": "Lightweight, Non-Comedogenic gel based moisturizer that repairs skin barrier and makes skin soft & supple. Peptide promotes collagen production, slowing signs of ageing while Ceramide will help to retain moisture.🌟 ➡️Repairs Skin Water Barrier Function ➡️Clinically proven to keep skin moisturised up to 72 hours ➡️Boosts moisture retention and reduces loss ➡️Diminishes signs of ageing like fine lines & wrinkles ➡️Keeps skin soft & smooth ➡️Soothes broken skin barrier & inflamed skin 🥰 This moisturizer is suited for both Face & Body ❌ You will not see results in just 1 month ✅ Use daily for 3 months for best results🗓️. Continue after that to protect skin barrier💙 ⚠️ Use sunscreen post cream in the morning 📱 Download the Be Bodywise app & save upto 30% using the app wallet!",
+  "usage": "Step 1 : Cleanse, tone and put treatment serums on skin Step 2 : Apply this cream liberally and gently massage until completely absorbed Step 3 :Use sunscreen post cream in the morning ✅ Use daily for 3 months for best results🗓️. Continue after that to protect the skin barrier💙",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_PeptideMoisturizer_8u63h3.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/1-peptide-ceramide-moisturizer/Product_Hero_4dxycu.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum.</span><br /><b>Formulated Without </b><br /><span>Paraben, Fragrance, Mineral Oil, Allergen, Alcohol</span>"
+        },
+        {
+          "title": "How to Use ",
+          "content": "<b>Step 1 </b><br /><span>Cleanse, tone and put treatment serums on skin</span><br /><b>Step 2 </b><br /><span>Apply this cream liberally and gently massage until completely absorbed</span><br /><b>Step 3 </b><br /><span>Use sunscreen post cream in the morning</span><br /><b> </b><span>✅ Use daily for 3 months for best results🗓️. Continue after that to protect the skin barrier💙</span>"
+        },
+        {
+          "title": "Important Information",
+          "content": "\"Patch tests are an easy way to make sure you don't experience any initial negative reaction when using a new product. We recommend doing a patch test prior to starting any new product on your skin. You can conduct a patch test by following the below steps: 1. Apply the product to a small patch of skin either to the arm or bend of the elbow 2. Keep the area dry 3. Leave on for 12-24 hours (or lesser if the product isn’t a leave-on product) 4. If any redness, itching or irritation is observed at any time during the test do not use the product, else you can safely use it\""
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Will this moisturizer leave my skin sticky?",
+          "content": "This is lightweight formula. Though it will provide your skin with deep moisturization, it will absorb quickly"
+        },
+        {
+          "title": "Can I use this twice a day?",
+          "content": "Yes, you can use as needed. Post application in morning, follow up with a sunscreen"
+        },
+        {
+          "title": "How much time will it take to see results?",
+          "content": "We recommend checking with an expert as results will vary depending on the condition: however you should start noticing a change within 3 months."
+        },
+        {
+          "title": "What is so special about this product?",
+          "content": "It has Ceramides & Peptides which are found naturally in the skin barrier. It helps specifically to repair damaged barrier"
+        },
+        {
+          "title": "Can this product be used on Body?",
+          "content": "This products works well for both Face & Body."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.0",
+      "text": "5% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.1",
+      "text": "Cica Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.key_ingredients.2",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.0.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.0",
+      "text": "1% Glycolic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.key_ingredients.1",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.0",
+      "text": "Use the anti acne wash twice a day, morning & evening. Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.1",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.2",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_instructions.3",
+      "text": "Pump out a coin size, work up a mild lather and massage your face in gentle, anti-clockwise circular movements for 60 seconds. Rinse with lukewarm or tap water and pat dry your face with a clean towel."
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.0",
+      "text": "Daily-Twice"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.1",
+      "text": "Daily-Morning"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.2",
+      "text": "Daily-Evening"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_frequency.3",
+      "text": "Alternate days"
+    },
+    {
+      "path": "widgets.3.widgetData.products.1.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.0",
+      "text": "10% Niacinamide"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.key_ingredients.1",
+      "text": "Aloe Vera Extract"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_instructions.0",
+      "text": "After bathing, take a generous amount of lotion on your palm and gently massage it over the body until absorbed."
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_frequency.0",
+      "text": "Daily"
+    },
+    {
+      "path": "widgets.3.widgetData.products.2.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.key_ingredients.0",
+      "text": "1% Salicylic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.key_ingredients.1",
+      "text": "1% Mandelic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.key_ingredients.2",
+      "text": "2% Lactic Acid"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.usage_instructions.0",
+      "text": "Apply directly on the underarm skin. Roll evenly on and allow the product to dry completely"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.usage_frequency.0",
+      "text": "Daily - Twice"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.usage_unit.0",
+      "text": "1 bottle"
+    },
+    {
+      "path": "widgets.3.widgetData.products.3.cta.actionData.product.attributes.key_ingredients",
+      "text": "salicylic-acid"
+    },
+    {
+      "path": "widgets.4",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.0",
+      "text": "1% Copper Tripeptide-1 (2000 ppm)"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.1",
+      "text": "1% D-Panthenol"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.key_ingredients.2",
+      "text": "0.5% Ceramide Complex"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply this cream liberally and gently massage until completely absorbed"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_frequency.0",
+      "text": "Daily - Twice"
+    },
+    {
+      "path": "widgets.4.widgetData.productInfo.usage_unit.0",
+      "text": "1"
+    },
+    {
+      "path": "widgets.5",
+      "type": "TILES_WITH_MEDIA_SECTION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.8",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.8.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.9",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.9.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.10",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.10.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.10.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.10.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.netQuantity",
+      "text": "50 g"
+    },
+    {
+      "path": "widgets.10.widgetData.products.0.ingredients",
+      "text": "1% Copper Tripeptide-1 (2000 ppm), 1% D-Panthenol, 0.5% Ceramide Complex"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "url": "https://bebodywise.com/product/glutathione-gummies-60",
+  "finalUrl": "https://bebodywise.com/product/glutathione-gummies-60",
+  "checkedOn": "2026-10-12",
+  "name": "Glutathione Gummies (60N)",
+  "productId": "809",
+  "subtitle": "For Glowing, Radiant, and Nourished Skin",
+  "productFor": "Glowing, Nourished Skin.",
+  "category": "face",
+  "price": 689,
+  "sizeTags": [
+    "60 pcs"
+  ],
+  "keyIngredients": [
+    "Glutathione",
+    "Multivitamins",
+    "Chicory ( Prebiotic Fibre)"
+  ],
+  "usageInstructions": [
+    "Take 2 gummies daily after meal"
+  ],
+  "description": "Glow from within with Glutathione Gummies! Active form of Glutathione and a blend of skin-loving nutrients! Supports cellular health, boost immunity, and delivers a glow, all thanks to the powerful antioxidant action of Glutathione. Our gummies are formulated with the Japanese OPITAC™ Glutathione, which ensures better absorption, meaning faster, visible results. ✔️ Reduces pigmentation ✔️ Improves skin texture ✔️ Enhances radiance ✔️ Protects against pollution and UV damage ✔️ Supports overall skin health & immunity",
+  "usage": "Take Two gummies daily post heavy meal.",
+  "imageSource": "https://i.mscwlns.co/media/misc/others/AppThumbnail_Gluta60_ks7x96.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/glutathione-gummies-60/Artboard%208%20%286%29_84nnlv.jpg?tr=w-600",
+  "outOfStock": true,
+  "isKit": false,
+  "isRx": false,
+  "accordions": [
+    {
+      "list": [
+        {
+          "title": "Full list of ingredients",
+          "content": "<b>Ingredient Names </b><br /><span>Chicory Root Inulin (Prebiotic), Gelling Agent (Pectin), L-Reduced Glutathione (OPITAC  Tm), Strawberry Powder, Acidity Regulator (Citric Acid), Vitamin C (L-Ascorbic Acid), Flavour (Mixed Berry), Vitamin E (D-Alpha Tocopherol), Monk Fruit, Vitamin D3 (Cholecalciferol -Vitashine™), Vitamin A (Retinyl Palmitate), Vitamin B12 (Cyanocobalamin), Maize Starch, Binding Agent (Guar Gum).                        </span>"
+        },
+        {
+          "title": "How to use",
+          "content": "<b>Recommended Usage Level & Duration of Usage: </b><br /><span>Take two gummy everyday post meal or as per suggested by your healthcare professional.</span>"
+        },
+        {
+          "title": "Caution",
+          "content": "To see a noticeable difference in you, it is recommended that you use these Glutathione Gummies regularly and consistently for 3-4 months. We suggest taking a doctor's consultation before incorporating it into your routine. These gummies won't cause any reactions; if they do, please stop using them and consult a doctor before adding them back to your routine.<br /><b> Suitable for  </b><br /><span> Suitable for all women above the age of 18</span><br /><b>Helps </b><br /><span>-In Improving Skin Glow and Repairs Pollution Damage<br/>\n-Multivitamins for overall wellness<br/>\n-Supports skin health from inside out. </span>"
+        }
+      ],
+      "products": []
+    },
+    {
+      "list": [
+        {
+          "title": "Can I use this Gummy every day?",
+          "content": "Yes, we recommend using these gummies every day."
+        },
+        {
+          "title": "Are these gummies safe for everyone?",
+          "content": "While generally safe, we advise consulting with your healthcare professional, especially if you have pre-existing medical conditions or are pregnant/nursing."
+        },
+        {
+          "title": "What is Glutathione, and what are its benefits when taken daily?",
+          "content": "Glutathione is a powerful antioxidant found in the body, often referred to as the “master antioxidant.” It helps protect your cells from damage, supports detoxification, and plays a vital role in maintaining glowing skin. Our gummies help boost antioxidant levels, reduce oxidative stress, and promote an even, radiant complexion."
+        },
+        {
+          "title": "Why should I choose Be Bodywise Glutathione Gummies?",
+          "content": "Be Bodywise Glutathione Gummies are formulated with Opitac™—known for its superior absorption and effectiveness. Our gummies also include a blend of skin-loving multivitamins that work together to nourish, protect, and brighten your skin from within. They have no added refined sugar, our gummies are sweetened with chicory root, a prebiotic fiber that supports gut health without causing sugar spikes. It’s skin + gut wellness in one tasty gummy!"
+        },
+        {
+          "title": "How do these skin gummies work?",
+          "content": "These gummies deliver a potent blend of antioxidants, glutathione, and essential vitamins that support your skin's repair and detox processes. With consistent use, they help brighten, even out skin tone, and give you a  radiant glow from the inside out."
+        },
+        {
+          "title": "I already follow a skincare routine. Do I still need these?",
+          "content": "Absolutely! While topical skincare works on the surface, our gummies work from within to boost your skin health at a cellular level. They complement your routine by providing the internal nourishment your skin needs to look and feel its best."
+        },
+        {
+          "title": "How does the Chicory Root Fibre benefit me?\n",
+          "content": "The Chicory Root Fibre acts as a prebiotic, promoting gut bacteria, which in turn aids in absorption and supports overall digestive health, without any added refined sugar spikes."
+        }
+      ],
+      "products": []
+    }
+  ],
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "PRODUCT_SWITCHES",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "FEATURE_CARD_SLIDER_WITH_TEXT",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.3",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "60 Gummies"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "Glutathione, Multivitamins, Chicory ( Prebiotic Fibre)"
+    }
+  ]
+}

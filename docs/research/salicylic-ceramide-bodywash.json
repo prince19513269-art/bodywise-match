@@ -1,0 +1,220 @@
+{
+  "url": "https://bebodywise.com/product/salicylic-ceramide-bodywash",
+  "finalUrl": "https://bebodywise.com/product/salicylic-ceramide-bodywash",
+  "checkedOn": "2026-10-12",
+  "name": "1% Salicylic Ceramide Body Wash",
+  "subtitle": "For Body Acne and Dry Skin",
+  "concern": "For body acne",
+  "productFor": "Exfoliation & barrier care",
+  "category": "body",
+  "price": 549,
+  "sizeTags": [
+    "250 ml"
+  ],
+  "keyIngredients": [
+    "Salicylic Acid",
+    "Glycerine - Hyaluronic Acid Complex",
+    "Ceramide Complex",
+    "Chamomile Extract"
+  ],
+  "usageInstructions": [
+    "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+  ],
+  "description": "Body acne and dry skin? Now you don’t have to choose. Introducing India’s first 2-in-1 bodywash that treats body acne and dry skin. The dual pump exfoliates & repairs your skin's barrier. Why you'll love it:✨ 🔹 Treats Body Acne: The encapsulated beads of Salicylic Acid unclog pores and smoothen texture. 🔹 Deeply Moisturizes: The Glycerin-Ceramide Complex locks moisture and strengthens your skin's barrier. 🔹 Soothes Irritation: The Chamomile Extract calms redness and reduces sensitivity. No more choosing between exfoliation or hydration — now you get both in every pump!",
+  "usage": "Step 1: Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Step 2: Rinse thoroughly after cleansing. Remember to apply sun protection after exfoliating.",
+  "imageSource": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-ceramide-bodywash/AppThumbnail_SalicylicCeramideBW%20NEWER%20%281%29_bz4j9m.jpg?tr=w-600",
+  "heroSource": "https://i.mscwlns.co/media/misc/pdp_rcl/salicylic-ceramide-bodywash/Hero%20%2817%29_e7ujss.jpg?tr=w-600",
+  "outOfStock": false,
+  "isKit": false,
+  "isRx": false,
+  "sections": [
+    {
+      "path": "widgets.0",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.0.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.1",
+      "type": "MEDIA_WITH_FOOTER_SLIDER",
+      "keys": [
+        "type",
+        "containsProducts",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.1.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2",
+      "type": "RATINGS_AND_REVIEWS",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.2.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.0",
+      "text": "Salicylic Acid"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.1",
+      "text": "Glycerine - Hyaluronic Acid Complex"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.2",
+      "text": "Ceramide Complex"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.key_ingredients.3",
+      "text": "Chamomile Extract"
+    },
+    {
+      "path": "widgets.2.widgetData.productInfo.usage_instructions.0",
+      "text": "Apply a generous amount of body wash to your palms or loofah. Massage onto wet skin in a circular motion. Rinse thoroughly"
+    },
+    {
+      "path": "widgets.3",
+      "type": "COMPARISON_TABLE",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.3.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.4",
+      "type": "TILE_GRID",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.4.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.5",
+      "type": "ACCORDION",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.5.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.6",
+      "type": "RECENTLY_VIEWED_PRODUCT_CARD_SLIDER",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "header",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.6.layout",
+      "type": "FLUID",
+      "keys": [
+        "type",
+        "verticalSpacing"
+      ]
+    },
+    {
+      "path": "widgets.7",
+      "type": "PRODUCT_ADDITIONAL_INFO",
+      "keys": [
+        "type",
+        "id",
+        "layout",
+        "widgetData"
+      ]
+    },
+    {
+      "path": "widgets.7.layout",
+      "type": "CONTAINED",
+      "keys": [
+        "type"
+      ]
+    },
+    {
+      "path": "widgets.7.widgetData.labels.netQuantity",
+      "text": "Net Quantity"
+    },
+    {
+      "path": "widgets.7.widgetData.labels.ingredients",
+      "text": "List of Ingredients"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.netQuantity",
+      "text": "250 mL"
+    },
+    {
+      "path": "widgets.7.widgetData.products.0.ingredients",
+      "text": "Salicylic Acid, Glycerine - Hyaluronic Acid Complex, Ceramide Complex, Chamomile Extract"
+    }
+  ]
+}
