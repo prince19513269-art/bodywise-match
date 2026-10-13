@@ -378,12 +378,14 @@ export const catalogueImageReviews: Record<string, ImageReviewEntry> = {
     alt: "Be Bodywise Anti-Dandruff & Hair Fall Kit (200 ml + 30 N) official pack shot",
     notes: "Official pack shot verified on Mosaic Wellness CDN (AppThumbnail_ZPTO_HG30_ap7gv5.jpg).",
   },
-  // advanced-hair-growth-pack: Discrepancy on official store
+  // advanced-hair-growth-pack: Verified official kit photograph
   "advanced-hair-growth-pack": {
-    permission: "pending",
-    matchStatus: "unreviewed",
-    alt: "Advanced Hair Growth Pack",
-    notes: "Official page records underarm roll-on asset (4%AHABHARollOn (3)_krpkem.jpg) instead of hair growth pack. Retaining placeholder.",
+    permission: "permitted",
+    matchStatus: "verified",
+    verifiedSrc:
+      "https://i.mscwlns.co/media/misc/pdp_rcl/hair-pro-growth-pack/IntroPage%20copy_gcnjwp.jpg?tr=w-600",
+    alt: "Be Bodywise Advanced Hair Growth Pack (50 ml + 30 N) official pack shot",
+    notes: "Official pack shot verified on Mosaic Wellness CDN (IntroPage copy_gcnjwp.jpg).",
   },
   "advanced-underarm-pigmentation-kit": {
     permission: "permitted",
@@ -439,12 +441,14 @@ export const catalogueImageReviews: Record<string, ImageReviewEntry> = {
     alt: "Be Bodywise Dandruff & Hairfall Kit (30 N + 250 ml) official pack shot",
     notes: "Official pack shot verified on Mosaic Wellness CDN (AppThumbnail_Keto_HG30_26nyvl.jpg).",
   },
-  // face-and-body-acne-kit: Discrepancy on official store
+  // face-and-body-acne-kit: Verified official kit photograph
   "face-and-body-acne-kit": {
-    permission: "pending",
-    matchStatus: "unreviewed",
-    alt: "Face & Body Acne Kit",
-    notes: "Official page records single body wash asset (AppThumbnail_BenzPBW_3o13rw.jpg) instead of full kit packaging. Retaining placeholder.",
+    permission: "permitted",
+    matchStatus: "verified",
+    verifiedSrc:
+      "https://i.mscwlns.co/media/misc/pdp_rcl/face-and-body-acne-kit/Hero%20%288%29_4w9w68.png?tr=w-600",
+    alt: "Be Bodywise Face & Body Acne Kit (100 ml + 250 ml) official pack shot",
+    notes: "Official pack shot verified on Mosaic Wellness CDN (Hero (8)_4w9w68.png).",
   },
   "face-body-sunscreen-kit": {
     permission: "permitted",

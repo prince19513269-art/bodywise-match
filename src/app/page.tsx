@@ -3,93 +3,22 @@ import {
   ArrowRight,
   ArrowUpRight,
   BookOpen,
-  Check,
   GitCompareArrows,
   SlidersHorizontal,
   ShieldCheck,
   MoveUpRight,
 } from "lucide-react";
 import { ButtonLink, Eyebrow } from "@/components/ui";
+import { products } from "@/data/products";
+import { getCareCategories } from "@/data/categories";
+import { CareCard } from "@/components/category-card";
+import { HeroSection } from "@/components/hero-section";
+
 export default function Home() {
+  const careCategories = getCareCategories(products);
   return (
     <>
-      <section className="hero container">
-        <div className="hero-copy">
-          <Eyebrow>
-            <span className="blue-dot" /> YOUR SKINCARE, WITH A LITTLE MORE
-            CLARITY
-          </Eyebrow>
-          <h1>
-            Find skincare
-            <br />
-            you <span>understand.</span>
-          </h1>
-          <p className="hero-description">
-            Explore ingredients, compare products, and discover Be Bodywise
-            options with more clarity.
-          </p>
-          <div className="hero-actions">
-            <ButtonLink href="/discover">
-              Find My Match <ArrowUpRight size={19} />
-            </ButtonLink>
-            <ButtonLink href="/ingredients" secondary>
-              Explore Ingredients <ArrowRight size={18} />
-            </ButtonLink>
-          </div>
-          <div className="hero-reassurance">
-            <span>
-              <Check size={15} /> No sign-up needed
-            </span>
-            <span>
-              <Check size={15} /> Your pace. Your choice.
-            </span>
-          </div>
-        </div>
-        <div
-          className="hero-visual"
-          aria-label="Preview of ingredient education and the discovery process"
-        >
-          <div className="visual-top">
-            <span>THE CLARITY EDIT</span>
-            <span>01 / INGREDIENTS</span>
-          </div>
-          <div className="orb orb-one" />
-          <div className="orb orb-two" />
-          <div className="ingredient-preview">
-            <div className="preview-label">
-              <span className="mini-icon">
-                <BookOpen size={17} />
-              </span>{" "}
-              A LITTLE INGREDIENT KNOW-HOW
-            </div>
-            <span className="ingredient-number">B₃</span>
-            <h2>Meet niacinamide.</h2>
-            <p>
-              A familiar name on the label.
-              <br />A little easier to understand.
-            </p>
-            <div className="preview-tags">
-              <span>Vitamin B3</span>
-              <span>Oiliness</span>
-            </div>
-            <Link className="preview-link" href="/ingredients/niacinamide">
-              Get to know this ingredient <ArrowUpRight size={18} />
-            </Link>
-          </div>
-          <div className="floating-note">
-            <span className="check-circle">
-              <Check size={20} />
-            </span>
-            <div>
-              <strong>Clarity over guesswork.</strong>
-              <span>Understand the why behind a choice.</span>
-            </div>
-          </div>
-          <span className="visual-bottom">
-            LESS OVERWHELM. MORE UNDERSTANDING.
-          </span>
-        </div>
-      </section>
+      <HeroSection />
       <section className="principles">
         <div className="container principles-inner">
           <span>
@@ -167,6 +96,32 @@ export default function Home() {
                 <ArrowUpRight size={18} />
               </span>
             </Link>
+          ))}
+        </div>
+      </section>
+      <section className="container section care-browse" aria-labelledby="home-care-heading">
+        <div className="care-heading">
+          <div>
+            <Eyebrow>EXPLORE BY CARE</Eyebrow>
+            <h2 id="home-care-heading">Explore by care</h2>
+          </div>
+          <Link href="/products" className="care-all">
+            View all {products.length} products <ArrowUpRight size={16} />
+          </Link>
+        </div>
+        <div className="care-grid">
+          {careCategories.map((c) => (
+            <CareCard
+              key={c.id}
+              category={{
+                id: c.id,
+                name: c.name,
+                description: c.description,
+                count: c.count,
+                icon: c.icon,
+              }}
+              href={`/products?care=${c.id}`}
+            />
           ))}
         </div>
       </section>

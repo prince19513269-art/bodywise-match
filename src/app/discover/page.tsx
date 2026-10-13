@@ -13,6 +13,7 @@ import {
 import { useApp } from "@/components/providers";
 import { ButtonLink, Eyebrow, Notice, EmptyState } from "@/components/ui";
 import { CompareTray, ProductCard } from "@/components/product-card";
+import { QuizCategoryCard } from "@/components/category-card";
 import {
   skinTypes,
   sensitivities,
@@ -222,18 +223,29 @@ export default function Discover() {
             }
           </p>
           {step === 0 && (
-            <Choices
-              label="Explore a category"
-              options={categoryOptions}
-              getLabel={(value) => discoveryLabels[value as DiscoveryCategory]}
-              value={category}
-              onChange={(value) => {
-                setAnswers((prev) =>
-                  selectDiscoveryCategory(prev, value as DiscoveryCategory),
-                );
-                setError("");
-              }}
-            />
+            <fieldset className="quiz-category-fieldset">
+              <legend className="sr-only">Explore a category</legend>
+              <div
+                className="quiz-category-grid"
+                role="radiogroup"
+                aria-label="Explore a category"
+              >
+                {categoryOptions.map((opt) => (
+                  <QuizCategoryCard
+                    key={opt}
+                    id={opt}
+                    label={discoveryLabels[opt as DiscoveryCategory]}
+                    checked={category === opt}
+                    onChange={() => {
+                      setAnswers((prev) =>
+                        selectDiscoveryCategory(prev, opt as DiscoveryCategory),
+                      );
+                      setError("");
+                    }}
+                  />
+                ))}
+              </div>
+            </fieldset>
           )}
           {step === 1 && (
             <>
