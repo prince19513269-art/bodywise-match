@@ -101,10 +101,7 @@ export default function Home() {
       </section>
       <section className="container section care-browse" aria-labelledby="home-care-heading">
         <div className="care-heading">
-          <div>
-            <Eyebrow>EXPLORE BY CARE</Eyebrow>
-            <h2 id="home-care-heading">Explore by care</h2>
-          </div>
+          <h2 id="home-care-heading">Explore by care</h2>
           <Link href="/products" className="care-all">
             View all {products.length} products <ArrowUpRight size={16} />
           </Link>

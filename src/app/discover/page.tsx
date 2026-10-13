@@ -9,6 +9,7 @@ import {
   LockKeyhole,
   BookOpen,
   Pencil,
+  Sparkles,
 } from "lucide-react";
 import { useApp } from "@/components/providers";
 import { ButtonLink, Eyebrow, Notice, EmptyState } from "@/components/ui";
@@ -487,6 +488,20 @@ export default function Discover() {
               </Notice>
               {matches.length ? (
                 <>
+                  <div className="discover-journey-bridge">
+                    <div className="discover-journey-content">
+                      <span className="discover-journey-tag">
+                        <Sparkles size={13} /> MY WELLNESS JOURNEY
+                      </span>
+                      <h3>Connect your discovery to routine tracking</h3>
+                      <p>
+                        Track the products you choose to use, log weekly check-ins, and observe your consistency over time.
+                      </p>
+                    </div>
+                    <ButtonLink href="/journey?from=discover" className="button">
+                      Start My Journey <ArrowRight size={16} />
+                    </ButtonLink>
+                  </div>
                   <h2 className="results-heading">
                     {matches.length}{" "}
                     {matches.length === 1 ? "option" : "options"} to explore
@@ -584,9 +599,14 @@ export default function Discover() {
               </div>
             )}
             {step === 4 && (
-              <ButtonLink href="/products">
-                Explore catalogue <ArrowRight size={16} />
-              </ButtonLink>
+              <div style={{ display: "flex", gap: "10px", flexWrap: "wrap", alignItems: "center" }}>
+                <ButtonLink href="/journey?from=discover" className="button">
+                  Track in My Journey <ArrowRight size={16} />
+                </ButtonLink>
+                <ButtonLink href="/products" secondary>
+                  Explore catalogue <ArrowRight size={16} />
+                </ButtonLink>
+              </div>
             )}
           </div>
         </div>

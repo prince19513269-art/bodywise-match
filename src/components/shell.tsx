@@ -28,6 +28,7 @@ export function Navigation() {
       "/compare",
       `Compare${comparison.length ? ` (${comparison.length})` : ""}`,
     ],
+    ["/journey", "My Journey"],
   ];
   return (
     <>
@@ -113,6 +114,7 @@ export function Footer() {
         <div className="footer-links">
           <Link href="/products">Discover products</Link>
           <Link href="/ingredients">Ingredient library</Link>
+          <Link href="/journey">My Journey</Link>
           <Link href="/about">About & privacy</Link>
           <Link href="/discover">Find My Match</Link>
         </div>

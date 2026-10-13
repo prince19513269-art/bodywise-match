@@ -1,5 +1,5 @@
 "use client";
-import { createContext, useContext, useState, type ReactNode } from "react";
+import { createContext, useContext, useState, useEffect, type ReactNode } from "react";
 import type { Answers } from "@/lib/types";
 export type AssistantContextState = {
   productId?: string;
@@ -29,6 +29,23 @@ export function Providers({ children }: { children: ReactNode }) {
   const [assistantOpen, setAssistantOpen] = useState(false);
   const [assistantContext, setAssistantContext] =
     useState<AssistantContextState | null>(null);
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem("bodywise_quiz_answers");
+      if (saved) {
+        setAnswers(JSON.parse(saved));
+      }
+    } catch {}
+  }, []);
+
+  useEffect(() => {
+    try {
+      if (Object.keys(answers).length > 0) {
+        localStorage.setItem("bodywise_quiz_answers", JSON.stringify(answers));
+      }
+    } catch {}
+  }, [answers]);
 
   function toggleCompare(id: string) {
     setComparison((prev) =>
