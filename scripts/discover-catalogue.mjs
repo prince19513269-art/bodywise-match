@@ -24,12 +24,14 @@ while (queue.length) {
   } catch {
     try {
       const response = await fetch(url, { signal: AbortSignal.timeout(25000) });
+      const rawHtml = response.ok ? await response.text() : "";
+      const sanitizedHtml = rawHtml.replace(/AIza[0-9A-Za-z\-_]{25,}/g, "REDACTED_THIRD_PARTY_GOOGLE_MAPS_KEY");
       record = {
         url,
         finalUrl: response.url,
         checkedOn: "2026-10-12",
         status: response.status,
-        html: response.ok ? await response.text() : "",
+        html: sanitizedHtml,
       };
       await writeFile(filename, JSON.stringify(record, null, 2));
     } catch (e) {

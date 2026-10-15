@@ -6,3 +6,11 @@ out/
 *.tsbuildinfo
 *.log
 test-results/
+
+# Credentials and certificate files
+*.pem
+*.key
+*.cert
+
+# Scraper raw page caches
+docs/research/discovery--*.json
